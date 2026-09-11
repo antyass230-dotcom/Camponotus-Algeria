@@ -1,4 +1,4 @@
-{
+﻿{
     "scientific_name": "Camponotus foreli",
     "taxonomy": {
         "kingdom": "Animalia",
@@ -25,12 +25,12 @@
         "authorship": "Emery, 1881"
     },
     "morphology": {
-    "clypeus": "Clypéus pourvu d’une carène longitudinale médiane, son bord antérieur formant un lobe rectangulaire qui s’avance au-dessus des mandibules.",
-    "gaster": "Pubescence du gastre courte et éparse, l’aspect restant luisant.",
-    "forebody": "Avant-corps pouvant être mat ou brillant.",
-    "tibiae": "Épines petites ou indistinctes, guère plus épaisses que la pubescence des tibias.",
-    "size": "Les plus grandes ouvrières ne dépassent pas 11 mm.",
-    "coloration": "Coloration entièrement noire, y compris chez les majors ; bord postérieur des segments du gastre doré."
+    "clypeus": "ClypÃ©us pourvu dâ€™une carÃ¨ne longitudinale mÃ©diane, son bord antÃ©rieur formant un lobe rectangulaire qui sâ€™avance au-dessus des mandibules.",
+    "gaster": "Pubescence du gastre courte et Ã©parse, lâ€™aspect restant luisant.",
+    "forebody": "Avant-corps pouvant Ãªtre mat ou brillant.",
+    "tibiae": "Ã‰pines petites ou indistinctes, guÃ¨re plus Ã©paisses que la pubescence des tibias.",
+    "size": "Les plus grandes ouvriÃ¨res ne dÃ©passent pas 11 mm.",
+    "coloration": "Coloration entiÃ¨rement noire, y compris chez les majors ; bord postÃ©rieur des segments du gastre dorÃ©."
     },
     "distribution": {
         "countries": [
@@ -61,7 +61,7 @@
                     {
                         "id": 395445975,
                         "observed_on": "2026-08-28",
-                        "place": "Ctra.M300-El Gurugú, 28810, Madrid, España",
+                        "place": "Ctra.M300-El GurugÃº, 28810, Madrid, EspaÃ±a",
                         "latitude": 40.4507,
                         "longitude": -3.3458,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725095542/large.jpg",
@@ -70,7 +70,7 @@
                     {
                         "id": 394898414,
                         "observed_on": "2026-08-26",
-                        "place": "Ctra.M300-El Gurugú, 28810, Madrid, España",
+                        "place": "Ctra.M300-El GurugÃº, 28810, Madrid, EspaÃ±a",
                         "latitude": 40.4504962997,
                         "longitude": -3.3462808,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724018955/large.jpg",
@@ -79,7 +79,7 @@
                     {
                         "id": 394715902,
                         "observed_on": "2026-08-26",
-                        "place": "28810 Los Hueros, Madrid, España",
+                        "place": "28810 Los Hueros, Madrid, EspaÃ±a",
                         "latitude": 40.4488884,
                         "longitude": -3.3492472,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723653174/large.jpg",
@@ -88,7 +88,7 @@
                     {
                         "id": 394615787,
                         "observed_on": "2026-08-18",
-                        "place": "Av.Parque-Pza.Fuencaliente, 28760 Tres Cantos, Madrid, España",
+                        "place": "Av.Parque-Pza.Fuencaliente, 28760 Tres Cantos, Madrid, EspaÃ±a",
                         "latitude": 40.6007251406,
                         "longitude": -3.7079745904,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723461807/large.jpg",
@@ -160,7 +160,7 @@
                     {
                         "id": 393542857,
                         "observed_on": "2026-08-22",
-                        "place": "Camporrélls, Camporrélls, Huesca, ES",
+                        "place": "CamporrÃ©lls, CamporrÃ©lls, Huesca, ES",
                         "latitude": 41.9561416667,
                         "longitude": 0.5249783333,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721347692/large.jpg",
@@ -178,7 +178,7 @@
                     {
                         "id": 392125938,
                         "observed_on": "2026-08-05",
-                        "place": "Ctra.M300-El Gurugú, 28810, Madrid, España",
+                        "place": "Ctra.M300-El GurugÃº, 28810, Madrid, EspaÃ±a",
                         "latitude": 40.4502949,
                         "longitude": -3.3470884997,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/718578038/large.jpg",
@@ -187,7 +187,7 @@
                     {
                         "id": 392112424,
                         "observed_on": "2026-08-17",
-                        "place": "Casco Histórico de Vallecas, Villa de Vallecas, Madrid, España",
+                        "place": "Casco HistÃ³rico de Vallecas, Villa de Vallecas, Madrid, EspaÃ±a",
                         "latitude": 40.3373566667,
                         "longitude": -3.6537116667,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/718551056/large.jpg",
@@ -196,7 +196,7 @@
                     {
                         "id": 392112415,
                         "observed_on": "2026-08-17",
-                        "place": "Casco Histórico de Vallecas, Villa de Vallecas, Madrid, España",
+                        "place": "Casco HistÃ³rico de Vallecas, Villa de Vallecas, Madrid, EspaÃ±a",
                         "latitude": 40.337355,
                         "longitude": -3.6536883333,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/718551024/large.jpg",
@@ -205,7 +205,7 @@
                     {
                         "id": 392112404,
                         "observed_on": "2026-08-17",
-                        "place": "Casco Histórico de Vallecas, Villa de Vallecas, Madrid, España",
+                        "place": "Casco HistÃ³rico de Vallecas, Villa de Vallecas, Madrid, EspaÃ±a",
                         "latitude": 40.3412916667,
                         "longitude": -3.63873,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/718550958/large.jpg",
@@ -2376,7 +2376,7 @@
             {
                 "key": 2805650888,
                 "country": "Algeria",
-                "locality": "Perrégaux (Algier)",
+                "locality": "PerrÃ©gaux (Algier)",
                 "latitude": 35.59,
                 "longitude": 0.068
             },
@@ -2438,18 +2438,18 @@
     "images": [
         {
             "source": "personal",
-            "url": "images/Camponotus_foreli/image054.jpg",
-            "description": "ouvrière de camponotus foreli"
+            "url": "images/camponotus_foreli/image054.jpg",
+            "description": "ouvriÃ¨re de camponotus foreli"
         },
         {
             "source": "personal",
-            "url": "images/Camponotus_foreli/image051.jpg",
+            "url": "images/camponotus_foreli/image051.jpg",
             "description": "thorax",
             "miroir": true
         },
         {
             "source": "personal",
-            "url": "images/Camponotus_foreli/image050.jpg",
+            "url": "images/camponotus_foreli/image050.jpg",
             "description": "tete"
         }
     ],
@@ -2729,7 +2729,7 @@
                 {
                     "id": 395445975,
                     "observed_on": "2026-08-28",
-                    "place": "Ctra.M300-El Gurugú, 28810, Madrid, España",
+                    "place": "Ctra.M300-El GurugÃº, 28810, Madrid, EspaÃ±a",
                     "latitude": 40.4507,
                     "longitude": -3.3458,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725095542/large.jpg",
@@ -2738,7 +2738,7 @@
                 {
                     "id": 394898414,
                     "observed_on": "2026-08-26",
-                    "place": "Ctra.M300-El Gurugú, 28810, Madrid, España",
+                    "place": "Ctra.M300-El GurugÃº, 28810, Madrid, EspaÃ±a",
                     "latitude": 40.4504962997,
                     "longitude": -3.3462808,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724018955/large.jpg",
@@ -2747,7 +2747,7 @@
                 {
                     "id": 394715902,
                     "observed_on": "2026-08-26",
-                    "place": "28810 Los Hueros, Madrid, España",
+                    "place": "28810 Los Hueros, Madrid, EspaÃ±a",
                     "latitude": 40.4488884,
                     "longitude": -3.3492472,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723653174/large.jpg",
@@ -2756,7 +2756,7 @@
                 {
                     "id": 394615787,
                     "observed_on": "2026-08-18",
-                    "place": "Av.Parque-Pza.Fuencaliente, 28760 Tres Cantos, Madrid, España",
+                    "place": "Av.Parque-Pza.Fuencaliente, 28760 Tres Cantos, Madrid, EspaÃ±a",
                     "latitude": 40.6007251406,
                     "longitude": -3.7079745904,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723461807/large.jpg",
@@ -2828,7 +2828,7 @@
                 {
                     "id": 393542857,
                     "observed_on": "2026-08-22",
-                    "place": "Camporrélls, Camporrélls, Huesca, ES",
+                    "place": "CamporrÃ©lls, CamporrÃ©lls, Huesca, ES",
                     "latitude": 41.9561416667,
                     "longitude": 0.5249783333,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721347692/large.jpg",
@@ -2846,7 +2846,7 @@
                 {
                     "id": 392125938,
                     "observed_on": "2026-08-05",
-                    "place": "Ctra.M300-El Gurugú, 28810, Madrid, España",
+                    "place": "Ctra.M300-El GurugÃº, 28810, Madrid, EspaÃ±a",
                     "latitude": 40.4502949,
                     "longitude": -3.3470884997,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/718578038/large.jpg",
@@ -2855,7 +2855,7 @@
                 {
                     "id": 392112424,
                     "observed_on": "2026-08-17",
-                    "place": "Casco Histórico de Vallecas, Villa de Vallecas, Madrid, España",
+                    "place": "Casco HistÃ³rico de Vallecas, Villa de Vallecas, Madrid, EspaÃ±a",
                     "latitude": 40.3373566667,
                     "longitude": -3.6537116667,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/718551056/large.jpg",
@@ -2864,7 +2864,7 @@
                 {
                     "id": 392112415,
                     "observed_on": "2026-08-17",
-                    "place": "Casco Histórico de Vallecas, Villa de Vallecas, Madrid, España",
+                    "place": "Casco HistÃ³rico de Vallecas, Villa de Vallecas, Madrid, EspaÃ±a",
                     "latitude": 40.337355,
                     "longitude": -3.6536883333,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/718551024/large.jpg",
@@ -2873,7 +2873,7 @@
                 {
                     "id": 392112404,
                     "observed_on": "2026-08-17",
-                    "place": "Casco Histórico de Vallecas, Villa de Vallecas, Madrid, España",
+                    "place": "Casco HistÃ³rico de Vallecas, Villa de Vallecas, Madrid, EspaÃ±a",
                     "latitude": 40.3412916667,
                     "longitude": -3.63873,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/718550958/large.jpg",

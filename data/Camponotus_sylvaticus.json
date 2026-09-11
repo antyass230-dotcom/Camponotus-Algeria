@@ -1,4 +1,4 @@
-{
+﻿{
     "scientific_name": "Camponotus sylvaticus",
     "taxonomy": {
         "kingdom": "Animalia",
@@ -25,16 +25,16 @@
         "authorship": "(Olivier, 1792)"
     },
     "morphology": {
-        "clypeus": "Clypéus pourvu d’une carène médiane distincte et visible.",
-        "clypeus_margin": "Bord antérieur du clypéus avec un lobe médian avancé, plus ou moins rectangulaire.",
-        "coloration": "Corps généralement brunâtre à noirâtre, avec une coloration pouvant varier du noir au brun ou au testacé.",
-        "head": "Tête noire et mate chez la forme typique.",
-        "thorax": "Thorax et mésosome rougeâtre à brun-rougeâtre, plus ou moins foncé selon les individus ou les populations.",
-        "gaster": "Gastre noir et luisant avec une pubescence très éparse, parfois presque absente.",
-        "pilosity": "Pilosité générale modérément abondante, davantage concentrée sur le gastre.",
-        "tibiae": "Tibias fortement aplatis ou comprimés latéralement.",
-        "polymorphism": "Espèce modérément polymorphe, avec des différences de coloration entre les castes possibles.",
-        "workers": "Les ouvrières minor peuvent être plus foncées que les majors, caractère signalé dans les données historiques de la région méditerranéenne."
+        "clypeus": "ClypÃ©us pourvu dâ€™une carÃ¨ne mÃ©diane distincte et visible.",
+        "clypeus_margin": "Bord antÃ©rieur du clypÃ©us avec un lobe mÃ©dian avancÃ©, plus ou moins rectangulaire.",
+        "coloration": "Corps gÃ©nÃ©ralement brunÃ¢tre Ã  noirÃ¢tre, avec une coloration pouvant varier du noir au brun ou au testacÃ©.",
+        "head": "TÃªte noire et mate chez la forme typique.",
+        "thorax": "Thorax et mÃ©sosome rougeÃ¢tre Ã  brun-rougeÃ¢tre, plus ou moins foncÃ© selon les individus ou les populations.",
+        "gaster": "Gastre noir et luisant avec une pubescence trÃ¨s Ã©parse, parfois presque absente.",
+        "pilosity": "PilositÃ© gÃ©nÃ©rale modÃ©rÃ©ment abondante, davantage concentrÃ©e sur le gastre.",
+        "tibiae": "Tibias fortement aplatis ou comprimÃ©s latÃ©ralement.",
+        "polymorphism": "EspÃ¨ce modÃ©rÃ©ment polymorphe, avec des diffÃ©rences de coloration entre les castes possibles.",
+        "workers": "Les ouvriÃ¨res minor peuvent Ãªtre plus foncÃ©es que les majors, caractÃ¨re signalÃ© dans les donnÃ©es historiques de la rÃ©gion mÃ©diterranÃ©enne."
     },
     "distribution": {
         "countries": [
@@ -54,7 +54,7 @@
                     {
                         "id": 395290340,
                         "observed_on": "2026-08-28",
-                        "place": "Valencia, España",
+                        "place": "Valencia, EspaÃ±a",
                         "latitude": 39.4281433333,
                         "longitude": -0.62049,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724784229/large.jpg",
@@ -63,7 +63,7 @@
                     {
                         "id": 395042743,
                         "observed_on": "2026-08-27",
-                        "place": "Ctra. M-300-El Gurugu, 28810, Madrid, España",
+                        "place": "Ctra. M-300-El Gurugu, 28810, Madrid, EspaÃ±a",
                         "latitude": 40.4538069997,
                         "longitude": -3.3482864,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724299413/large.jpg",
@@ -81,7 +81,7 @@
                     {
                         "id": 394779782,
                         "observed_on": "2026-08-23",
-                        "place": "Province of Málaga, Spain",
+                        "place": "Province of MÃ¡laga, Spain",
                         "latitude": 36.7486412367,
                         "longitude": -3.7868331352,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723776678/large.jpg",
@@ -99,7 +99,7 @@
                     {
                         "id": 394099871,
                         "observed_on": "2026-08-24",
-                        "place": "30368 Cartagena, Murcia, España",
+                        "place": "30368 Cartagena, Murcia, EspaÃ±a",
                         "latitude": 37.6725298,
                         "longitude": -0.8259777,
                         "photo": "https://static.inaturalist.org/photos/722448161/large.jpg",
@@ -108,7 +108,7 @@
                     {
                         "id": 393582536,
                         "observed_on": "2026-08-10",
-                        "place": "Jarafuel, 46623, Valencia, España",
+                        "place": "Jarafuel, 46623, Valencia, EspaÃ±a",
                         "latitude": 39.151225,
                         "longitude": -1.0869972222,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721426695/large.jpg",
@@ -126,7 +126,7 @@
                     {
                         "id": 393290252,
                         "observed_on": "2026-07-14",
-                        "place": "Alicante, España",
+                        "place": "Alicante, EspaÃ±a",
                         "latitude": 38.511104218,
                         "longitude": -0.7125220007,
                         "photo": "https://static.inaturalist.org/photos/720857476/large.jpg",
@@ -135,7 +135,7 @@
                     {
                         "id": 392013389,
                         "observed_on": "2026-08-17",
-                        "place": "43530 Alcanar, Tarragona, España",
+                        "place": "43530 Alcanar, Tarragona, EspaÃ±a",
                         "latitude": 40.5434879288,
                         "longitude": 0.4849792644,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/718362908/large.jpg",
@@ -162,7 +162,7 @@
                     {
                         "id": 389406137,
                         "observed_on": "2026-04-19",
-                        "place": "Cabo de Gata, Almería, Spanien",
+                        "place": "Cabo de Gata, AlmerÃ­a, Spanien",
                         "latitude": 36.7586378355,
                         "longitude": -2.2219927191,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/713281255/large.jpg",
@@ -189,7 +189,7 @@
                     {
                         "id": 388459497,
                         "observed_on": "2026-08-05",
-                        "place": "La Trinitat Vella, Sant Andreu, Barcelona, España",
+                        "place": "La Trinitat Vella, Sant Andreu, Barcelona, EspaÃ±a",
                         "latitude": 41.4521722222,
                         "longitude": 2.1936833333,
                         "photo": "https://static.inaturalist.org/photos/711460296/large.jpg",
@@ -198,7 +198,7 @@
                     {
                         "id": 388147101,
                         "observed_on": "2026-07-28",
-                        "place": "Uceda-Guadalajara, 19188 Caraquiz, Guadalajara, España",
+                        "place": "Uceda-Guadalajara, 19188 Caraquiz, Guadalajara, EspaÃ±a",
                         "latitude": 40.7974454413,
                         "longitude": -3.4982590377,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710851703/large.jpg",
@@ -207,7 +207,7 @@
                     {
                         "id": 387939341,
                         "observed_on": "2022-07-08",
-                        "place": "Camí de Petres, Sagunto, Valencia, España",
+                        "place": "CamÃ­ de Petres, Sagunto, Valencia, EspaÃ±a",
                         "latitude": 39.7033078015,
                         "longitude": -0.3137942878,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710422182/large.jpg",
@@ -216,7 +216,7 @@
                     {
                         "id": 387939326,
                         "observed_on": "2022-07-07",
-                        "place": "Camí de Petres, Sagunto, Valencia, España",
+                        "place": "CamÃ­ de Petres, Sagunto, Valencia, EspaÃ±a",
                         "latitude": 39.7033078015,
                         "longitude": -0.3137942878,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710422153/large.jpg",
@@ -225,7 +225,7 @@
                     {
                         "id": 387933251,
                         "observed_on": "2026-08-03",
-                        "place": "Benidorm, 03502 Benidorm, Alicante, España",
+                        "place": "Benidorm, 03502 Benidorm, Alicante, EspaÃ±a",
                         "latitude": 38.5488550433,
                         "longitude": -0.1386997104,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710425609/large.jpg",
@@ -254,7 +254,7 @@
             {
                 "key": 6150962435,
                 "country": "Spain",
-                "locality": "Malpaís de Güímar - N2000",
+                "locality": "MalpaÃ­s de GÃ¼Ã­mar - N2000",
                 "latitude": 28.306074,
                 "longitude": -16.372494
             },
@@ -2357,12 +2357,12 @@
         {
             "source": "personal",
             "url": "images/camponotus_sylvaticus/image015.jpg",
-            "caption": "ouvrière de camponotus sylvaticus"
+            "caption": "ouvriÃ¨re de camponotus sylvaticus"
         },
         {
             "source": "personal",
             "url": "images/camponotus_sylvaticus/image016.jpg",
-            "caption": "tête"
+            "caption": "tÃªte"
         },
         {
             "source": "personal",
@@ -2637,7 +2637,7 @@
                 {
                     "id": 395290340,
                     "observed_on": "2026-08-28",
-                    "place": "Valencia, España",
+                    "place": "Valencia, EspaÃ±a",
                     "latitude": 39.4281433333,
                     "longitude": -0.62049,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724784229/large.jpg",
@@ -2646,7 +2646,7 @@
                 {
                     "id": 395042743,
                     "observed_on": "2026-08-27",
-                    "place": "Ctra. M-300-El Gurugu, 28810, Madrid, España",
+                    "place": "Ctra. M-300-El Gurugu, 28810, Madrid, EspaÃ±a",
                     "latitude": 40.4538069997,
                     "longitude": -3.3482864,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724299413/large.jpg",
@@ -2664,7 +2664,7 @@
                 {
                     "id": 394779782,
                     "observed_on": "2026-08-23",
-                    "place": "Province of Málaga, Spain",
+                    "place": "Province of MÃ¡laga, Spain",
                     "latitude": 36.7486412367,
                     "longitude": -3.7868331352,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723776678/large.jpg",
@@ -2682,7 +2682,7 @@
                 {
                     "id": 394099871,
                     "observed_on": "2026-08-24",
-                    "place": "30368 Cartagena, Murcia, España",
+                    "place": "30368 Cartagena, Murcia, EspaÃ±a",
                     "latitude": 37.6725298,
                     "longitude": -0.8259777,
                     "photo": "https://static.inaturalist.org/photos/722448161/large.jpg",
@@ -2691,7 +2691,7 @@
                 {
                     "id": 393582536,
                     "observed_on": "2026-08-10",
-                    "place": "Jarafuel, 46623, Valencia, España",
+                    "place": "Jarafuel, 46623, Valencia, EspaÃ±a",
                     "latitude": 39.151225,
                     "longitude": -1.0869972222,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721426695/large.jpg",
@@ -2709,7 +2709,7 @@
                 {
                     "id": 393290252,
                     "observed_on": "2026-07-14",
-                    "place": "Alicante, España",
+                    "place": "Alicante, EspaÃ±a",
                     "latitude": 38.511104218,
                     "longitude": -0.7125220007,
                     "photo": "https://static.inaturalist.org/photos/720857476/large.jpg",
@@ -2718,7 +2718,7 @@
                 {
                     "id": 392013389,
                     "observed_on": "2026-08-17",
-                    "place": "43530 Alcanar, Tarragona, España",
+                    "place": "43530 Alcanar, Tarragona, EspaÃ±a",
                     "latitude": 40.5434879288,
                     "longitude": 0.4849792644,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/718362908/large.jpg",
@@ -2745,7 +2745,7 @@
                 {
                     "id": 389406137,
                     "observed_on": "2026-04-19",
-                    "place": "Cabo de Gata, Almería, Spanien",
+                    "place": "Cabo de Gata, AlmerÃ­a, Spanien",
                     "latitude": 36.7586378355,
                     "longitude": -2.2219927191,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/713281255/large.jpg",
@@ -2772,7 +2772,7 @@
                 {
                     "id": 388459497,
                     "observed_on": "2026-08-05",
-                    "place": "La Trinitat Vella, Sant Andreu, Barcelona, España",
+                    "place": "La Trinitat Vella, Sant Andreu, Barcelona, EspaÃ±a",
                     "latitude": 41.4521722222,
                     "longitude": 2.1936833333,
                     "photo": "https://static.inaturalist.org/photos/711460296/large.jpg",
@@ -2781,7 +2781,7 @@
                 {
                     "id": 388147101,
                     "observed_on": "2026-07-28",
-                    "place": "Uceda-Guadalajara, 19188 Caraquiz, Guadalajara, España",
+                    "place": "Uceda-Guadalajara, 19188 Caraquiz, Guadalajara, EspaÃ±a",
                     "latitude": 40.7974454413,
                     "longitude": -3.4982590377,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710851703/large.jpg",
@@ -2790,7 +2790,7 @@
                 {
                     "id": 387939341,
                     "observed_on": "2022-07-08",
-                    "place": "Camí de Petres, Sagunto, Valencia, España",
+                    "place": "CamÃ­ de Petres, Sagunto, Valencia, EspaÃ±a",
                     "latitude": 39.7033078015,
                     "longitude": -0.3137942878,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710422182/large.jpg",
@@ -2799,7 +2799,7 @@
                 {
                     "id": 387939326,
                     "observed_on": "2022-07-07",
-                    "place": "Camí de Petres, Sagunto, Valencia, España",
+                    "place": "CamÃ­ de Petres, Sagunto, Valencia, EspaÃ±a",
                     "latitude": 39.7033078015,
                     "longitude": -0.3137942878,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710422153/large.jpg",
@@ -2808,7 +2808,7 @@
                 {
                     "id": 387933251,
                     "observed_on": "2026-08-03",
-                    "place": "Benidorm, 03502 Benidorm, Alicante, España",
+                    "place": "Benidorm, 03502 Benidorm, Alicante, EspaÃ±a",
                     "latitude": 38.5488550433,
                     "longitude": -0.1386997104,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710425609/large.jpg",

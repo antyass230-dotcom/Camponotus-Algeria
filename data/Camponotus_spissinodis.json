@@ -1,4 +1,4 @@
-{
+﻿{
     "scientific_name": "Camponotus spissinodis",
     "taxonomy": {
         "kingdom": "Animalia",
@@ -25,21 +25,21 @@
         "authorship": "Forel, 1909"
     },
     "morphology": {
-        "clypeus": "Clypéus convexe, sans carène longitudinale nette du bord apical au bord distal.",
-        "clypeus_margin": "Bord distal du clypéus arrondi ou formant un lobe plus ou moins distinct, tronqué, dentelé ou incisé en avant.",
-        "hind_tibiae": "Présence d'épines le long du bord interne des tibias postérieurs, plus épaisses et plus raides que la simple pubescence.",
-        "size": "La taille des ouvrières ne dépasse pas 10 mm.",
+        "clypeus": "ClypÃ©us convexe, sans carÃ¨ne longitudinale nette du bord apical au bord distal.",
+        "clypeus_margin": "Bord distal du clypÃ©us arrondi ou formant un lobe plus ou moins distinct, tronquÃ©, dentelÃ© ou incisÃ© en avant.",
+        "hind_tibiae": "PrÃ©sence d'Ã©pines le long du bord interne des tibias postÃ©rieurs, plus Ã©paisses et plus raides que la simple pubescence.",
+        "size": "La taille des ouvriÃ¨res ne dÃ©passe pas 10 mm.",
         "coloration": "Coloration variable.",
-        "gaster": "Gastre plus ou moins luisant, à pubescence courte et éparse.",
-        "propodeum": "Face déclive du propodéum nettement concave.",
-        "metanotum": "Métanotum marqué d'une dépression surplombée par le propodéum.",
-        "forebody": "Avant-corps souvent coloré en rouge.",
-        "propodeum_angle": "Face dorsale du propodéum formant avec la face déclive un angle d'environ 90°, saillant vers l'arrière.",
-        "propodeum_declivity": "Face déclive du propodéum très concave.",
-        "winged": "Chez les individus ailés, la face déclive du propodéum tombe perpendiculairement.",
-        "workers": "Ouvrières noires.",
-        "setae": "Soies présentes sur toute la face dorsale du propodéum.",
-        "shoulders": "Épaules anguleuses."
+        "gaster": "Gastre plus ou moins luisant, Ã  pubescence courte et Ã©parse.",
+        "propodeum": "Face dÃ©clive du propodÃ©um nettement concave.",
+        "metanotum": "MÃ©tanotum marquÃ© d'une dÃ©pression surplombÃ©e par le propodÃ©um.",
+        "forebody": "Avant-corps souvent colorÃ© en rouge.",
+        "propodeum_angle": "Face dorsale du propodÃ©um formant avec la face dÃ©clive un angle d'environ 90Â°, saillant vers l'arriÃ¨re.",
+        "propodeum_declivity": "Face dÃ©clive du propodÃ©um trÃ¨s concave.",
+        "winged": "Chez les individus ailÃ©s, la face dÃ©clive du propodÃ©um tombe perpendiculairement.",
+        "workers": "OuvriÃ¨res noires.",
+        "setae": "Soies prÃ©sentes sur toute la face dorsale du propodÃ©um.",
+        "shoulders": "Ã‰paules anguleuses."
     },
     "distribution": {
         "countries": [
@@ -74,7 +74,7 @@
             "Spain",
             "Thailand",
             "Trinidad and Tobago",
-            "Türkiye",
+            "TÃ¼rkiye",
             "United States of America",
             "Venezuela (Bolivarian Republic of)",
             "Viet Nam"
@@ -91,7 +91,7 @@
                     {
                         "id": 312933096,
                         "observed_on": "2025-09-10",
-                        "place": "Dely Ibrahim, Algérie",
+                        "place": "Dely Ibrahim, AlgÃ©rie",
                         "latitude": 36.7478010509,
                         "longitude": 2.9701548401,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/565054973/large.jpg",
@@ -127,7 +127,7 @@
                     {
                         "id": 236117073,
                         "observed_on": "2024-08-16",
-                        "place": "Ighil-Ali, Béjaïa, Algeria",
+                        "place": "Ighil-Ali, BÃ©jaÃ¯a, Algeria",
                         "latitude": 36.2825472222,
                         "longitude": 4.4999916667,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/420020446/large.jpg",
@@ -136,7 +136,7 @@
                     {
                         "id": 225325913,
                         "observed_on": "2024-06-26",
-                        "place": "Tangier Assilah, Tanger-Tétouan-Al Hoceïma, MA",
+                        "place": "Tangier Assilah, Tanger-TÃ©touan-Al HoceÃ¯ma, MA",
                         "latitude": 35.7392116667,
                         "longitude": -5.8546883333,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/399479466/large.jpg",
@@ -1015,7 +1015,7 @@
             },
             {
                 "key": 6129849788,
-                "country": "Türkiye",
+                "country": "TÃ¼rkiye",
                 "locality": null,
                 "latitude": 37.359812,
                 "longitude": 27.281834
@@ -3154,7 +3154,7 @@
             {
                 "key": 1019732452,
                 "country": "Algeria",
-                "locality": "Oran, belvédère",
+                "locality": "Oran, belvÃ©dÃ¨re",
                 "latitude": null,
                 "longitude": null
             },
@@ -3280,7 +3280,7 @@
             {
                 "key": 1085686249,
                 "country": "Algeria",
-                "locality": "Oued Ilãman, Hoggar",
+                "locality": "Oued IlÃ£man, Hoggar",
                 "latitude": 23.166668,
                 "longitude": 5.833333
             },
@@ -3518,14 +3518,14 @@
             {
                 "key": 865266073,
                 "country": "Algeria",
-                "locality": "Ghardaïa (Mzab)",
+                "locality": "GhardaÃ¯a (Mzab)",
                 "latitude": null,
                 "longitude": null
             },
             {
                 "key": 865266096,
                 "country": "Algeria",
-                "locality": "Ghardaïa (Mzab)",
+                "locality": "GhardaÃ¯a (Mzab)",
                 "latitude": null,
                 "longitude": null
             },
@@ -3672,7 +3672,7 @@
             {
                 "key": 1085686235,
                 "country": "Algeria",
-                "locality": "Mécheria",
+                "locality": "MÃ©cheria",
                 "latitude": 35.46281,
                 "longitude": 3.241345
             },
@@ -3686,21 +3686,21 @@
             {
                 "key": 1085686332,
                 "country": "Algeria",
-                "locality": "Aïn Séfra",
+                "locality": "AÃ¯n SÃ©fra",
                 "latitude": 32.75,
                 "longitude": -0.58333
             },
             {
                 "key": 1085686338,
                 "country": "Algeria",
-                "locality": "Aïn Séfra",
+                "locality": "AÃ¯n SÃ©fra",
                 "latitude": 32.75,
                 "longitude": -0.58333
             },
             {
                 "key": 1085686379,
                 "country": "Algeria",
-                "locality": "Aïn Séfra",
+                "locality": "AÃ¯n SÃ©fra",
                 "latitude": 32.75,
                 "longitude": -0.58333
             },
@@ -3728,7 +3728,7 @@
             {
                 "key": 1085688150,
                 "country": "Algeria",
-                "locality": "Oued Im Laou Lahouène, Hoggar",
+                "locality": "Oued Im Laou LahouÃ¨ne, Hoggar",
                 "latitude": 23.166668,
                 "longitude": 5.833333
             },
@@ -3938,7 +3938,7 @@
             {
                 "key": 2805650888,
                 "country": "Algeria",
-                "locality": "Perrégaux (Algier)",
+                "locality": "PerrÃ©gaux (Algier)",
                 "latitude": 35.59,
                 "longitude": 0.068
             },
@@ -4190,7 +4190,7 @@
             {
                 "key": 5285656442,
                 "country": "Algeria",
-                "locality": "Tébessa",
+                "locality": "TÃ©bessa",
                 "latitude": null,
                 "longitude": null
             },
@@ -4204,14 +4204,14 @@
             {
                 "key": 5285656464,
                 "country": "Algeria",
-                "locality": "Bou Youk Déré",
+                "locality": "Bou Youk DÃ©rÃ©",
                 "latitude": null,
                 "longitude": null
             },
             {
                 "key": 5285656604,
                 "country": "Algeria",
-                "locality": "Tébessa",
+                "locality": "TÃ©bessa",
                 "latitude": null,
                 "longitude": null
             },
@@ -4225,7 +4225,7 @@
             {
                 "key": 5285660462,
                 "country": "Algeria",
-                "locality": "Tébessa",
+                "locality": "TÃ©bessa",
                 "latitude": null,
                 "longitude": null
             },
@@ -4246,7 +4246,7 @@
             {
                 "key": 5285660481,
                 "country": "Algeria",
-                "locality": "Forêt de Msila",
+                "locality": "ForÃªt de Msila",
                 "latitude": null,
                 "longitude": null
             },
@@ -4267,14 +4267,14 @@
             {
                 "key": 5857975092,
                 "country": "Algeria",
-                "locality": "Tébessa",
+                "locality": "TÃ©bessa",
                 "latitude": null,
                 "longitude": null
             },
             {
                 "key": 5857976180,
                 "country": "Algeria",
-                "locality": "Algérie [Pays]",
+                "locality": "AlgÃ©rie [Pays]",
                 "latitude": null,
                 "longitude": null
             },
@@ -4378,22 +4378,22 @@
     "images": [
         {
             "source": "personal",
-            "url": "images/Camponotus_spissinodis/PHOTO 102.jpg",
-            "caption": "ouvrière de camponotus spissinodis"
+            "url": "images/camponotus_spissinodis/PHOTO 102.jpg",
+            "caption": "ouvriÃ¨re de camponotus spissinodis"
         },
         {
             "source": "personal",
-            "url": "images/Camponotus_spissinodis/PHOTO 107.jpg",
+            "url": "images/camponotus_spissinodis/PHOTO 107.jpg",
             "caption": "tete"
         },
         {
             "source": "personal",
-            "url": "images/Camponotus_spissinodis/PHOTO 103.jpg",
+            "url": "images/camponotus_spissinodis/PHOTO 103.jpg",
             "caption": "thorax"
         },
         {
             "source": "personal",
-            "url": "images/Camponotus_spissinodis/PHOTO 104.jpg",
+            "url": "images/camponotus_spissinodis/PHOTO 104.jpg",
             "caption": "abdomen"
         }
     ],
@@ -4662,7 +4662,7 @@
                 {
                     "id": 312933096,
                     "observed_on": "2025-09-10",
-                    "place": "Dely Ibrahim, Algérie",
+                    "place": "Dely Ibrahim, AlgÃ©rie",
                     "latitude": 36.7478010509,
                     "longitude": 2.9701548401,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/565054973/large.jpg",
@@ -4698,7 +4698,7 @@
                 {
                     "id": 236117073,
                     "observed_on": "2024-08-16",
-                    "place": "Ighil-Ali, Béjaïa, Algeria",
+                    "place": "Ighil-Ali, BÃ©jaÃ¯a, Algeria",
                     "latitude": 36.2825472222,
                     "longitude": 4.4999916667,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/420020446/large.jpg",
@@ -4707,7 +4707,7 @@
                 {
                     "id": 225325913,
                     "observed_on": "2024-06-26",
-                    "place": "Tangier Assilah, Tanger-Tétouan-Al Hoceïma, MA",
+                    "place": "Tangier Assilah, Tanger-TÃ©touan-Al HoceÃ¯ma, MA",
                     "latitude": 35.7392116667,
                     "longitude": -5.8546883333,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/399479466/large.jpg",

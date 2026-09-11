@@ -1,4 +1,4 @@
-{
+﻿{
     "scientific_name": "Camponotus thoracicus",
     "taxonomy": {
         "kingdom": "Animalia",
@@ -25,15 +25,15 @@
         "authorship": "(Fabricius, 1804)"
     },
     "morphology": {
-        "clypeus": "Clypéus pourvu d'une carène longitudinale médiane, son bord antérieur formant un lobe rectangulaire qui s'avance au-dessus des mandibules.",
-        "gaster": "Pubescence du gastre courte et éparse, l'aspect restant luisant, alors que l'avant-corps peut être mat ou brillant.",
-        "tibiae": "Tibias munis de fortes épines.",
-        "coloration": "Espèce roussâtre ou brunâtre, avec le tronc généralement plus clair que la tête.",
-        "size": "Les grandes ouvrières atteignent ou dépassent 12 mm.",
-        "major_head": "Grandes ouvrières à tête cordiforme.",
-        "hind_tibiae": "Tibias postérieurs comprimés vers le bord interne, leur section étant celle d'un triangle allongé.",
+        "clypeus": "ClypÃ©us pourvu d'une carÃ¨ne longitudinale mÃ©diane, son bord antÃ©rieur formant un lobe rectangulaire qui s'avance au-dessus des mandibules.",
+        "gaster": "Pubescence du gastre courte et Ã©parse, l'aspect restant luisant, alors que l'avant-corps peut Ãªtre mat ou brillant.",
+        "tibiae": "Tibias munis de fortes Ã©pines.",
+        "coloration": "EspÃ¨ce roussÃ¢tre ou brunÃ¢tre, avec le tronc gÃ©nÃ©ralement plus clair que la tÃªte.",
+        "size": "Les grandes ouvriÃ¨res atteignent ou dÃ©passent 12 mm.",
+        "major_head": "Grandes ouvriÃ¨res Ã  tÃªte cordiforme.",
+        "hind_tibiae": "Tibias postÃ©rieurs comprimÃ©s vers le bord interne, leur section Ã©tant celle d'un triangle allongÃ©.",
         "gula": "Gula glabre.",
-        "gaster_coloration": "Avant du gastre des ouvrières et des reines en grande partie jaune. Chez les majors, le premier tergite du gastre présente seulement un triangle noirâtre médian et le second tergite présente deux macules jaunes antérolatérales. Les premiers et seconds sternites sont jaunes."
+        "gaster_coloration": "Avant du gastre des ouvriÃ¨res et des reines en grande partie jaune. Chez les majors, le premier tergite du gastre prÃ©sente seulement un triangle noirÃ¢tre mÃ©dian et le second tergite prÃ©sente deux macules jaunes antÃ©rolatÃ©rales. Les premiers et seconds sternites sont jaunes."
     },
     "distribution": {
         "countries": [
@@ -44,7 +44,7 @@
             "Morocco",
             "South Africa",
             "Tunisia",
-            "Türkiye"
+            "TÃ¼rkiye"
         ],
         "algeria": {
             "GBIF": 15
@@ -58,7 +58,7 @@
                     {
                         "id": 330881516,
                         "observed_on": "2025-12-11",
-                        "place": "Chéraga, Algeria",
+                        "place": "ChÃ©raga, Algeria",
                         "latitude": 36.7524965257,
                         "longitude": 2.9093953085,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/600109406/large.jpg",
@@ -67,7 +67,7 @@
                     {
                         "id": 330751525,
                         "observed_on": "2025-12-06",
-                        "place": "Bouchaoui, Chéraga, Algeria",
+                        "place": "Bouchaoui, ChÃ©raga, Algeria",
                         "latitude": 36.7534249577,
                         "longitude": 2.9090518894,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/599844329/large.jpg",
@@ -76,7 +76,7 @@
                     {
                         "id": 256877598,
                         "observed_on": "2024-11-16",
-                        "place": "Karataş, Toprakkale/Osmaniye, Türkiye",
+                        "place": "KarataÅŸ, Toprakkale/Osmaniye, TÃ¼rkiye",
                         "latitude": 37.0654491873,
                         "longitude": 36.154800877,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/460670397/large.jpeg",
@@ -85,7 +85,7 @@
                     {
                         "id": 256636508,
                         "observed_on": "2024-10-24",
-                        "place": "Karataş, Toprakkale/Osmaniye, Türkiye",
+                        "place": "KarataÅŸ, Toprakkale/Osmaniye, TÃ¼rkiye",
                         "latitude": 37.0650634722,
                         "longitude": 36.1540450833,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/460186214/large.jpeg",
@@ -94,7 +94,7 @@
                     {
                         "id": 256633331,
                         "observed_on": "2024-04-17",
-                        "place": "Karataş, Toprakkale/Osmaniye, Türkiye",
+                        "place": "KarataÅŸ, Toprakkale/Osmaniye, TÃ¼rkiye",
                         "latitude": 37.0633621111,
                         "longitude": 36.1526145833,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/460180321/large.jpeg",
@@ -130,7 +130,7 @@
                     {
                         "id": 170232846,
                         "observed_on": "2023-06-24",
-                        "place": "摩洛哥塔塔",
+                        "place": "æ‘©æ´›å“¥å¡”å¡”",
                         "latitude": 30.292917535,
                         "longitude": -6.7689587655,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/295229558/large.jpg",
@@ -139,7 +139,7 @@
                     {
                         "id": 170232844,
                         "observed_on": "2023-06-25",
-                        "place": "摩洛哥塔塔",
+                        "place": "æ‘©æ´›å“¥å¡”å¡”",
                         "latitude": 30.2904965427,
                         "longitude": -6.7751894323,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/295229544/large.jpg",
@@ -184,7 +184,7 @@
                     {
                         "id": 56980560,
                         "observed_on": "2020-07-27",
-                        "place": "Allée Assafssaf, Agdal Riyad, Rabat-Salé-Zemmour-Zaer, MA",
+                        "place": "AllÃ©e Assafssaf, Agdal Riyad, Rabat-SalÃ©-Zemmour-Zaer, MA",
                         "latitude": 33.9575008219,
                         "longitude": -6.8735127893,
                         "photo": "https://static.inaturalist.org/photos/90848540/large.jpg",
@@ -202,7 +202,7 @@
                     {
                         "id": 40123196,
                         "observed_on": "2020-03-16",
-                        "place": "Avenue El Kasba, Ouarzazate, Souss-Massa-Drâa, MA",
+                        "place": "Avenue El Kasba, Ouarzazate, Souss-Massa-DrÃ¢a, MA",
                         "latitude": 30.90407167,
                         "longitude": -6.89587833,
                         "photo": "https://static.inaturalist.org/photos/63730626/large.jpg",
@@ -220,7 +220,7 @@
                     {
                         "id": 8255055,
                         "observed_on": "2017-10-03",
-                        "place": "Jerba, , Gouvernorat de Médenine, TN",
+                        "place": "Jerba, , Gouvernorat de MÃ©denine, TN",
                         "latitude": 33.8056381089,
                         "longitude": 10.9133736488,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/10948808/large.jpg",
@@ -262,14 +262,14 @@
             },
             {
                 "key": 5007702646,
-                "country": "Türkiye",
+                "country": "TÃ¼rkiye",
                 "locality": null,
                 "latitude": 37.065063,
                 "longitude": 36.154045
             },
             {
                 "key": 5087123739,
-                "country": "Türkiye",
+                "country": "TÃ¼rkiye",
                 "locality": null,
                 "latitude": 37.065449,
                 "longitude": 36.154801
@@ -319,14 +319,14 @@
             {
                 "key": 1085686301,
                 "country": "Egypt",
-                "locality": "Mariût",
+                "locality": "MariÃ»t",
                 "latitude": null,
                 "longitude": null
             },
             {
                 "key": 1085686308,
                 "country": "Egypt",
-                "locality": "Mariût",
+                "locality": "MariÃ»t",
                 "latitude": null,
                 "longitude": null
             },
@@ -410,14 +410,14 @@
             {
                 "key": 1085686332,
                 "country": "Algeria",
-                "locality": "Aïn Séfra",
+                "locality": "AÃ¯n SÃ©fra",
                 "latitude": 32.75,
                 "longitude": -0.58333
             },
             {
                 "key": 1085686338,
                 "country": "Algeria",
-                "locality": "Aïn Séfra",
+                "locality": "AÃ¯n SÃ©fra",
                 "latitude": 32.75,
                 "longitude": -0.58333
             },
@@ -574,14 +574,14 @@
             {
                 "key": 1085686332,
                 "country": "Algeria",
-                "locality": "Aïn Séfra",
+                "locality": "AÃ¯n SÃ©fra",
                 "latitude": 32.75,
                 "longitude": -0.58333
             },
             {
                 "key": 1085686338,
                 "country": "Algeria",
-                "locality": "Aïn Séfra",
+                "locality": "AÃ¯n SÃ©fra",
                 "latitude": 32.75,
                 "longitude": -0.58333
             },
@@ -629,22 +629,22 @@
     "images": [
         {
             "source": "personal",
-            "url": "images/Camponotus_thoracicus/PHOTO 96.jpg",
-            "caption": "Ouvrière de Camponotus thoracicus"
+            "url": "images/camponotus_thoracicus/PHOTO 96.jpg",
+            "caption": "OuvriÃ¨re de Camponotus thoracicus"
         },
         {
             "source": "personal",
-            "url": "images/Camponotus_thoracicus/PHOTO 98.jpg",
+            "url": "images/camponotus_thoracicus/PHOTO 98.jpg",
             "caption": "tete vue de profile"
         },
         {
             "source": "personal",
-            "url": "images/Camponotus_thoracicus/PHOTO 97.jpg",
+            "url": "images/camponotus_thoracicus/PHOTO 97.jpg",
             "caption": "thorax"
         },
         {
             "source": "personal",
-            "url": "images/Camponotus_thoracicus/PHOTO 100.jpg",
+            "url": "images/camponotus_thoracicus/PHOTO 100.jpg",
             "caption": "abdomen"
         }
     ],
@@ -915,7 +915,7 @@
                 {
                     "id": 330881516,
                     "observed_on": "2025-12-11",
-                    "place": "Chéraga, Algeria",
+                    "place": "ChÃ©raga, Algeria",
                     "latitude": 36.7524965257,
                     "longitude": 2.9093953085,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/600109406/large.jpg",
@@ -924,7 +924,7 @@
                 {
                     "id": 330751525,
                     "observed_on": "2025-12-06",
-                    "place": "Bouchaoui, Chéraga, Algeria",
+                    "place": "Bouchaoui, ChÃ©raga, Algeria",
                     "latitude": 36.7534249577,
                     "longitude": 2.9090518894,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/599844329/large.jpg",
@@ -933,7 +933,7 @@
                 {
                     "id": 256877598,
                     "observed_on": "2024-11-16",
-                    "place": "Karataş, Toprakkale/Osmaniye, Türkiye",
+                    "place": "KarataÅŸ, Toprakkale/Osmaniye, TÃ¼rkiye",
                     "latitude": 37.0654491873,
                     "longitude": 36.154800877,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/460670397/large.jpeg",
@@ -942,7 +942,7 @@
                 {
                     "id": 256636508,
                     "observed_on": "2024-10-24",
-                    "place": "Karataş, Toprakkale/Osmaniye, Türkiye",
+                    "place": "KarataÅŸ, Toprakkale/Osmaniye, TÃ¼rkiye",
                     "latitude": 37.0650634722,
                     "longitude": 36.1540450833,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/460186214/large.jpeg",
@@ -951,7 +951,7 @@
                 {
                     "id": 256633331,
                     "observed_on": "2024-04-17",
-                    "place": "Karataş, Toprakkale/Osmaniye, Türkiye",
+                    "place": "KarataÅŸ, Toprakkale/Osmaniye, TÃ¼rkiye",
                     "latitude": 37.0633621111,
                     "longitude": 36.1526145833,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/460180321/large.jpeg",
@@ -987,7 +987,7 @@
                 {
                     "id": 170232846,
                     "observed_on": "2023-06-24",
-                    "place": "摩洛哥塔塔",
+                    "place": "æ‘©æ´›å“¥å¡”å¡”",
                     "latitude": 30.292917535,
                     "longitude": -6.7689587655,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/295229558/large.jpg",
@@ -996,7 +996,7 @@
                 {
                     "id": 170232844,
                     "observed_on": "2023-06-25",
-                    "place": "摩洛哥塔塔",
+                    "place": "æ‘©æ´›å“¥å¡”å¡”",
                     "latitude": 30.2904965427,
                     "longitude": -6.7751894323,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/295229544/large.jpg",
@@ -1041,7 +1041,7 @@
                 {
                     "id": 56980560,
                     "observed_on": "2020-07-27",
-                    "place": "Allée Assafssaf, Agdal Riyad, Rabat-Salé-Zemmour-Zaer, MA",
+                    "place": "AllÃ©e Assafssaf, Agdal Riyad, Rabat-SalÃ©-Zemmour-Zaer, MA",
                     "latitude": 33.9575008219,
                     "longitude": -6.8735127893,
                     "photo": "https://static.inaturalist.org/photos/90848540/large.jpg",
@@ -1059,7 +1059,7 @@
                 {
                     "id": 40123196,
                     "observed_on": "2020-03-16",
-                    "place": "Avenue El Kasba, Ouarzazate, Souss-Massa-Drâa, MA",
+                    "place": "Avenue El Kasba, Ouarzazate, Souss-Massa-DrÃ¢a, MA",
                     "latitude": 30.90407167,
                     "longitude": -6.89587833,
                     "photo": "https://static.inaturalist.org/photos/63730626/large.jpg",
@@ -1077,7 +1077,7 @@
                 {
                     "id": 8255055,
                     "observed_on": "2017-10-03",
-                    "place": "Jerba, , Gouvernorat de Médenine, TN",
+                    "place": "Jerba, , Gouvernorat de MÃ©denine, TN",
                     "latitude": 33.8056381089,
                     "longitude": 10.9133736488,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/10948808/large.jpg",

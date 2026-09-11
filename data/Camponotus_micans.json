@@ -1,4 +1,4 @@
-{
+﻿{
     "scientific_name": "Camponotus micans",
     "taxonomy": {
         "kingdom": "Animalia",
@@ -25,13 +25,13 @@
         "authorship": "(Nylander, 1856)"
     },
     "morphology": {
-        "clypeus": "Clypéus pourvu d'une carène longitudinale médiane, son bord antérieur formant un lobe rectangulaire qui s’avance au-dessus des mandibules.",
-        "gaster": "Gastre couvert, en plus des soies, d'une pubescence blanche ou fauve abondante, donnant un aspect velouté.",
-        "body": "Corps finement réticulé et mat.",
-        "tibiae": "Épines des tibias faibles, à peine plus épaisses que la pubescence couchée.",
-        "trunk_pubescence": "Pubescence du tronc également présente sur une partie du corps, particulièrement abondante sur les flancs du propodéum et le dessus du pronotum.",
-        "propodeum": "Chez les grandes ouvrières, la face dorsale et la face déclive du propodéum forment un angle obtus ; la face dorsale est un peu plus grande que la face déclive.",
-        "gaster_segments": "Les segments du gastre présentent une étroite bordure dorée."
+        "clypeus": "ClypÃ©us pourvu d'une carÃ¨ne longitudinale mÃ©diane, son bord antÃ©rieur formant un lobe rectangulaire qui sâ€™avance au-dessus des mandibules.",
+        "gaster": "Gastre couvert, en plus des soies, d'une pubescence blanche ou fauve abondante, donnant un aspect veloutÃ©.",
+        "body": "Corps finement rÃ©ticulÃ© et mat.",
+        "tibiae": "Ã‰pines des tibias faibles, Ã  peine plus Ã©paisses que la pubescence couchÃ©e.",
+        "trunk_pubescence": "Pubescence du tronc Ã©galement prÃ©sente sur une partie du corps, particuliÃ¨rement abondante sur les flancs du propodÃ©um et le dessus du pronotum.",
+        "propodeum": "Chez les grandes ouvriÃ¨res, la face dorsale et la face dÃ©clive du propodÃ©um forment un angle obtus ; la face dorsale est un peu plus grande que la face dÃ©clive.",
+        "gaster_segments": "Les segments du gastre prÃ©sentent une Ã©troite bordure dorÃ©e."
     },
     "distribution": {
         "countries": [
@@ -54,7 +54,7 @@
                     {
                         "id": 394703592,
                         "observed_on": "2026-07-26",
-                        "place": "Bordj Zemoura, Algérie",
+                        "place": "Bordj Zemoura, AlgÃ©rie",
                         "latitude": 36.2691651,
                         "longitude": 4.8465638,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723629865/large.jpg",
@@ -72,7 +72,7 @@
                     {
                         "id": 393218679,
                         "observed_on": "2026-07-29",
-                        "place": "PX9H+52 Parco Marino Fondali di Capocozzo - S. Irene, Vibo Marina-Pizzo, Capo Vaticano - Tropea, 89868 Zambrone VV, Itálie",
+                        "place": "PX9H+52 Parco Marino Fondali di Capocozzo - S. Irene, Vibo Marina-Pizzo, Capo Vaticano - Tropea, 89868 Zambrone VV, ItÃ¡lie",
                         "latitude": 38.7160224722,
                         "longitude": 15.9761819722,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720717769/large.jpg",
@@ -81,7 +81,7 @@
                     {
                         "id": 388213075,
                         "observed_on": "2026-08-02",
-                        "place": "Sevilla, Andalucía, Spain",
+                        "place": "Sevilla, AndalucÃ­a, Spain",
                         "latitude": 37.3687333,
                         "longitude": -5.7398631,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710915045/large.jpg",
@@ -117,7 +117,7 @@
                     {
                         "id": 382239437,
                         "observed_on": "2026-05-17",
-                        "place": "CGF6+GJ Proyecto BiOlivo, 28830, Madrid, España",
+                        "place": "CGF6+GJ Proyecto BiOlivo, 28830, Madrid, EspaÃ±a",
                         "latitude": 40.4248193255,
                         "longitude": -3.4879110754,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/699495238/large.jpg",
@@ -126,7 +126,7 @@
                     {
                         "id": 381477461,
                         "observed_on": "2026-07-14",
-                        "place": "Parque Fernán Núñez, Madrid, Madrid, ES",
+                        "place": "Parque FernÃ¡n NÃºÃ±ez, Madrid, Madrid, ES",
                         "latitude": 40.4599189833,
                         "longitude": -3.5927988641,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/698016080/large.jpg",
@@ -144,7 +144,7 @@
                     {
                         "id": 380970067,
                         "observed_on": "2026-07-13",
-                        "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, España",
+                        "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, EspaÃ±a",
                         "latitude": 40.5939067,
                         "longitude": -3.5235358,
                         "photo": null,
@@ -153,7 +153,7 @@
                     {
                         "id": 380970035,
                         "observed_on": "2026-07-13",
-                        "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, España",
+                        "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, EspaÃ±a",
                         "latitude": 40.5926636,
                         "longitude": -3.5245888,
                         "photo": null,
@@ -162,7 +162,7 @@
                     {
                         "id": 380970007,
                         "observed_on": "2026-07-13",
-                        "place": "Ctra.M106-Pol.Ind.La Garza, 28119, Madrid, España",
+                        "place": "Ctra.M106-Pol.Ind.La Garza, 28119, Madrid, EspaÃ±a",
                         "latitude": 40.5910767,
                         "longitude": -3.5299401,
                         "photo": null,
@@ -171,7 +171,7 @@
                     {
                         "id": 380969925,
                         "observed_on": "2026-07-13",
-                        "place": "Av.Europa-Instituto, 28110, Madrid, España",
+                        "place": "Av.Europa-Instituto, 28110, Madrid, EspaÃ±a",
                         "latitude": 40.5975432,
                         "longitude": -3.5099798,
                         "photo": null,
@@ -180,7 +180,7 @@
                     {
                         "id": 380969817,
                         "observed_on": "2026-07-13",
-                        "place": "Ctra.M106-Pol.Ind.Río De Janeiro, 28119, Madrid, España",
+                        "place": "Ctra.M106-Pol.Ind.RÃ­o De Janeiro, 28119, Madrid, EspaÃ±a",
                         "latitude": 40.5889002,
                         "longitude": -3.5439,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/697039548/large.jpg",
@@ -189,7 +189,7 @@
                     {
                         "id": 380969731,
                         "observed_on": "2026-07-13",
-                        "place": "Ctra.M106-Pol.Ind.Río De Janeiro, 28119, Madrid, España",
+                        "place": "Ctra.M106-Pol.Ind.RÃ­o De Janeiro, 28119, Madrid, EspaÃ±a",
                         "latitude": 40.5889002,
                         "longitude": -3.5439,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/697039370/large.jpg",
@@ -198,7 +198,7 @@
                     {
                         "id": 380429934,
                         "observed_on": "2026-07-09",
-                        "place": "Avenida del Alcalde de Móstoles, Móstoles, Madrid, ES",
+                        "place": "Avenida del Alcalde de MÃ³stoles, MÃ³stoles, Madrid, ES",
                         "latitude": 40.333675,
                         "longitude": -3.8774333333,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695987930/large.jpg",
@@ -207,7 +207,7 @@
                     {
                         "id": 380255644,
                         "observed_on": "2026-07-09",
-                        "place": "Agustín Betancourt-Centro Investigación, 28935, Madrid, España",
+                        "place": "AgustÃ­n Betancourt-Centro InvestigaciÃ³n, 28935, Madrid, EspaÃ±a",
                         "latitude": 40.3343213538,
                         "longitude": -3.8868326694,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695661636/large.jpg",
@@ -216,7 +216,7 @@
                     {
                         "id": 380111770,
                         "observed_on": "2026-07-10",
-                        "place": "Rio Tajo - Rio Deume, 28669 Boadilla del Monte, Madrid, España",
+                        "place": "Rio Tajo - Rio Deume, 28669 Boadilla del Monte, Madrid, EspaÃ±a",
                         "latitude": 40.4391839722,
                         "longitude": -3.915076,
                         "photo": "https://static.inaturalist.org/photos/695376424/large.jpg",
@@ -225,7 +225,7 @@
                     {
                         "id": 380033463,
                         "observed_on": "2026-07-06",
-                        "place": "Cuenca, España",
+                        "place": "Cuenca, EspaÃ±a",
                         "latitude": 39.5088501096,
                         "longitude": -2.851460917,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695220653/large.jpg",
@@ -2475,22 +2475,22 @@
     "images": [
     {
         "source": "personal",
-        "url": "images/Camponotus_micans/image072.jpg",
-        "caption": "Ouvrière de Camponotus micans"
+        "url": "images/camponotus_micans/image072.jpg",
+        "caption": "OuvriÃ¨re de Camponotus micans"
     },
     {
         "source": "personal",
-        "url": "images/Camponotus_micans/image074.jpg",
+        "url": "images/camponotus_micans/image074.jpg",
         "caption": "tete vue de face"
     },
     {    
         "source": "personal",
-        "url": "images/Camponotus_micans/image079.jpg",
+        "url": "images/camponotus_micans/image079.jpg",
         "caption": "abdomen"
     },
     {
         "source": "personal",
-        "url": "images/Camponotus_micans/image081.jpg",
+        "url": "images/camponotus_micans/image081.jpg",
         "caption": "thorax"    
     }
     ],
@@ -2761,7 +2761,7 @@
                 {
                     "id": 394703592,
                     "observed_on": "2026-07-26",
-                    "place": "Bordj Zemoura, Algérie",
+                    "place": "Bordj Zemoura, AlgÃ©rie",
                     "latitude": 36.2691651,
                     "longitude": 4.8465638,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723629865/large.jpg",
@@ -2779,7 +2779,7 @@
                 {
                     "id": 393218679,
                     "observed_on": "2026-07-29",
-                    "place": "PX9H+52 Parco Marino Fondali di Capocozzo - S. Irene, Vibo Marina-Pizzo, Capo Vaticano - Tropea, 89868 Zambrone VV, Itálie",
+                    "place": "PX9H+52 Parco Marino Fondali di Capocozzo - S. Irene, Vibo Marina-Pizzo, Capo Vaticano - Tropea, 89868 Zambrone VV, ItÃ¡lie",
                     "latitude": 38.7160224722,
                     "longitude": 15.9761819722,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720717769/large.jpg",
@@ -2788,7 +2788,7 @@
                 {
                     "id": 388213075,
                     "observed_on": "2026-08-02",
-                    "place": "Sevilla, Andalucía, Spain",
+                    "place": "Sevilla, AndalucÃ­a, Spain",
                     "latitude": 37.3687333,
                     "longitude": -5.7398631,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710915045/large.jpg",
@@ -2824,7 +2824,7 @@
                 {
                     "id": 382239437,
                     "observed_on": "2026-05-17",
-                    "place": "CGF6+GJ Proyecto BiOlivo, 28830, Madrid, España",
+                    "place": "CGF6+GJ Proyecto BiOlivo, 28830, Madrid, EspaÃ±a",
                     "latitude": 40.4248193255,
                     "longitude": -3.4879110754,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/699495238/large.jpg",
@@ -2833,7 +2833,7 @@
                 {
                     "id": 381477461,
                     "observed_on": "2026-07-14",
-                    "place": "Parque Fernán Núñez, Madrid, Madrid, ES",
+                    "place": "Parque FernÃ¡n NÃºÃ±ez, Madrid, Madrid, ES",
                     "latitude": 40.4599189833,
                     "longitude": -3.5927988641,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/698016080/large.jpg",
@@ -2851,7 +2851,7 @@
                 {
                     "id": 380970067,
                     "observed_on": "2026-07-13",
-                    "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, España",
+                    "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, EspaÃ±a",
                     "latitude": 40.5939067,
                     "longitude": -3.5235358,
                     "photo": null,
@@ -2860,7 +2860,7 @@
                 {
                     "id": 380970035,
                     "observed_on": "2026-07-13",
-                    "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, España",
+                    "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, EspaÃ±a",
                     "latitude": 40.5926636,
                     "longitude": -3.5245888,
                     "photo": null,
@@ -2869,7 +2869,7 @@
                 {
                     "id": 380970007,
                     "observed_on": "2026-07-13",
-                    "place": "Ctra.M106-Pol.Ind.La Garza, 28119, Madrid, España",
+                    "place": "Ctra.M106-Pol.Ind.La Garza, 28119, Madrid, EspaÃ±a",
                     "latitude": 40.5910767,
                     "longitude": -3.5299401,
                     "photo": null,
@@ -2878,7 +2878,7 @@
                 {
                     "id": 380969925,
                     "observed_on": "2026-07-13",
-                    "place": "Av.Europa-Instituto, 28110, Madrid, España",
+                    "place": "Av.Europa-Instituto, 28110, Madrid, EspaÃ±a",
                     "latitude": 40.5975432,
                     "longitude": -3.5099798,
                     "photo": null,
@@ -2887,7 +2887,7 @@
                 {
                     "id": 380969817,
                     "observed_on": "2026-07-13",
-                    "place": "Ctra.M106-Pol.Ind.Río De Janeiro, 28119, Madrid, España",
+                    "place": "Ctra.M106-Pol.Ind.RÃ­o De Janeiro, 28119, Madrid, EspaÃ±a",
                     "latitude": 40.5889002,
                     "longitude": -3.5439,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/697039548/large.jpg",
@@ -2896,7 +2896,7 @@
                 {
                     "id": 380969731,
                     "observed_on": "2026-07-13",
-                    "place": "Ctra.M106-Pol.Ind.Río De Janeiro, 28119, Madrid, España",
+                    "place": "Ctra.M106-Pol.Ind.RÃ­o De Janeiro, 28119, Madrid, EspaÃ±a",
                     "latitude": 40.5889002,
                     "longitude": -3.5439,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/697039370/large.jpg",
@@ -2905,7 +2905,7 @@
                 {
                     "id": 380429934,
                     "observed_on": "2026-07-09",
-                    "place": "Avenida del Alcalde de Móstoles, Móstoles, Madrid, ES",
+                    "place": "Avenida del Alcalde de MÃ³stoles, MÃ³stoles, Madrid, ES",
                     "latitude": 40.333675,
                     "longitude": -3.8774333333,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695987930/large.jpg",
@@ -2914,7 +2914,7 @@
                 {
                     "id": 380255644,
                     "observed_on": "2026-07-09",
-                    "place": "Agustín Betancourt-Centro Investigación, 28935, Madrid, España",
+                    "place": "AgustÃ­n Betancourt-Centro InvestigaciÃ³n, 28935, Madrid, EspaÃ±a",
                     "latitude": 40.3343213538,
                     "longitude": -3.8868326694,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695661636/large.jpg",
@@ -2923,7 +2923,7 @@
                 {
                     "id": 380111770,
                     "observed_on": "2026-07-10",
-                    "place": "Rio Tajo - Rio Deume, 28669 Boadilla del Monte, Madrid, España",
+                    "place": "Rio Tajo - Rio Deume, 28669 Boadilla del Monte, Madrid, EspaÃ±a",
                     "latitude": 40.4391839722,
                     "longitude": -3.915076,
                     "photo": "https://static.inaturalist.org/photos/695376424/large.jpg",
@@ -2932,7 +2932,7 @@
                 {
                     "id": 380033463,
                     "observed_on": "2026-07-06",
-                    "place": "Cuenca, España",
+                    "place": "Cuenca, EspaÃ±a",
                     "latitude": 39.5088501096,
                     "longitude": -2.851460917,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695220653/large.jpg",
