@@ -1,0 +1,2925 @@
+{
+    "scientific_name": "Camponotus lateralis",
+    "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Hymenoptera",
+        "family": "Formicidae",
+        "genus": "Camponotus",
+        "species": "Camponotus (Myrmentoma) lateralis",
+        "canonical_name": "Camponotus lateralis",
+        "scientific_name": "Camponotus lateralis (Olivier, 1792)",
+        "status": "accepted",
+        "gbif_usage_key": 1312698,
+        "gbif_match_type": "EXACT",
+        "gbif_confidence": 99,
+        "subgenus": "Camponotus (Myrmentoma)",
+        "tribe": "Camponotini",
+        "subfamily": "Formicinae",
+        "superfamily": "Formicoidea",
+        "infraorder": "Aculeata",
+        "suborder": "Apocrita",
+        "subphylum": "Hexapoda",
+        "domain": "Eukaryota",
+        "authorship": "(Olivier, 1792)"
+    },
+    "morphology": {
+        "clypeus": "Clypéus convexe, dépourvu de carène longitudinale nette entre les bords apical et distal. Le bord antérieur est arrondi ou forme un lobe plus ou moins distinct, parfois tronqué, dentelé ou échancré.",
+        "hind_tibiae": "Présence d'épines le long du bord interne des tibias postérieurs, plus épaisses et plus rigides que la simple pubescence.",
+        "size": "Les ouvrières ne dépassent pas 10 mm.",
+        "gaster": "Gastre plus ou moins luisant, présentant une pubescence courte et clairsemée.",
+        "coloration": "Coloration variable, avec la tête et le thorax plus ou moins rouges et l'avant-corps généralement en partie rougeâtre.",
+        "propodeum": "Face déclive du propodéum nettement concave. Le profil dorsal du propodéum peut être échancré ou non, caractéristique du sous-genre Myrmentoma.",
+        "metanotum": "Métanotum présentant une dépression surmontée par le propodéum.",
+        "propodeum_angle": "Face dorsale du propodéum formant avec la face déclive un angle d'environ 90°, saillant vers l'arrière. La face déclive est fortement concave. Chez les individus ailés, elle est presque perpendiculaire.",
+        "setae": "Soies principalement limitées à l'angle propodéal. Chez les individus ailés, le propodéum est peu fourni en soies.",
+        "shoulders": "Épaules arrondies."
+    },
+    "distribution": {
+        "countries": [
+            "Azerbaijan",
+            "Bulgaria",
+            "Croatia",
+            "France",
+            "Italy",
+            "Montenegro",
+            "Netherlands",
+            "North Macedonia",
+            "Portugal",
+            "Slovenia",
+            "Spain",
+            "Türkiye",
+            "Ukraine"
+        ],
+        "algeria": {
+            "GBIF": 15
+        },
+        "coordinates": [],
+        "occurrences": {
+            "GBIF": 5595,
+            "iNaturalist": {
+                "total": 3260,
+                "records": [
+                    {
+                        "id": 396179804,
+                        "observed_on": "2026-08-31",
+                        "place": "Guadalquivir frente 34, Poblados del Sur, 46026 Valencia, España",
+                        "latitude": 39.4327126964,
+                        "longitude": -0.3733396903,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726525157/large.jpg",
+                        "observer": "entreobreras"
+                    },
+                    {
+                        "id": 396156632,
+                        "observed_on": "2026-08-31",
+                        "place": "Krk Central Bus Station, 51500, Krk, Croatia",
+                        "latitude": 45.0234532245,
+                        "longitude": 14.5716265216,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726477872/large.jpg",
+                        "observer": "croatianiguana"
+                    },
+                    {
+                        "id": 396047684,
+                        "observed_on": "2026-08-30",
+                        "place": "Ionian Islands, Peloponnese, Western Greece and the Ionian Islands, GR",
+                        "latitude": 39.6487777778,
+                        "longitude": 19.8461416667,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726264626/large.jpg",
+                        "observer": "bristlenose44"
+                    },
+                    {
+                        "id": 395735415,
+                        "observed_on": "2026-08-30",
+                        "place": "83310 Cogolin, France",
+                        "latitude": 43.2523333333,
+                        "longitude": 6.5191027778,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725648082/large.jpg",
+                        "observer": "samuelpaitreault"
+                    },
+                    {
+                        "id": 395624339,
+                        "observed_on": "2026-08-29",
+                        "place": "01014 Montalto Marina VT, Italy",
+                        "latitude": 42.3280975135,
+                        "longitude": 11.5877590292,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725424168/large.jpg",
+                        "observer": "andrea_montechiarini"
+                    },
+                    {
+                        "id": 395514959,
+                        "observed_on": "2026-08-29",
+                        "place": "31380 Montjoire, France",
+                        "latitude": 43.7813871,
+                        "longitude": 1.5563895,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725225306/large.jpg",
+                        "observer": "stephane10213"
+                    },
+                    {
+                        "id": 395513445,
+                        "observed_on": "2026-08-29",
+                        "place": "31380 Montjoire, France",
+                        "latitude": 43.7815346967,
+                        "longitude": 1.5558240563,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725222504/large.jpg",
+                        "observer": "stephane10213"
+                    },
+                    {
+                        "id": 394959344,
+                        "observed_on": "2026-08-27",
+                        "place": "Rue du Grau Carnon, Mauguio, Occitanie, FR",
+                        "latitude": 43.5461716667,
+                        "longitude": 3.97158,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724137666/large.jpg",
+                        "observer": "amelie-fournier"
+                    },
+                    {
+                        "id": 394721974,
+                        "observed_on": "2026-08-26",
+                        "place": "17028 Spotorno SV, Italia",
+                        "latitude": 44.2366838294,
+                        "longitude": 8.4328128397,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723664866/large.jpg",
+                        "observer": "gabrivauda"
+                    },
+                    {
+                        "id": 394453715,
+                        "observed_on": "2026-08-25",
+                        "place": "Ca l'Escolà, 17745 Lladó, Girona, Espanya",
+                        "latitude": 42.2672829723,
+                        "longitude": 2.8203256801,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723144041/large.jpg",
+                        "observer": "amanitu_muskari"
+                    },
+                    {
+                        "id": 394067244,
+                        "observed_on": "2026-08-23",
+                        "place": "Saint Exupéry, 84100 Orange, France",
+                        "latitude": 44.1351535904,
+                        "longitude": 4.7925744206,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722384149/large.jpg",
+                        "observer": "maury_daniel"
+                    },
+                    {
+                        "id": 394028222,
+                        "observed_on": "2026-05-13",
+                        "place": "Comunidad de Madrid, Madrid, Spain",
+                        "latitude": 40.3467666667,
+                        "longitude": -3.66925,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722037720/large.jpg",
+                        "observer": "clurarit"
+                    },
+                    {
+                        "id": 393879683,
+                        "observed_on": "2026-08-23",
+                        "place": "Les Grottes, 06530 Saint-Cézaire-sur-Siagne, France",
+                        "latitude": 43.6580638889,
+                        "longitude": 6.8115305556,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722010014/large.jpg",
+                        "observer": "wren0"
+                    },
+                    {
+                        "id": 393798598,
+                        "observed_on": "2026-08-23",
+                        "place": "84210 Pernes-les-Fontaines, France",
+                        "latitude": 43.9984536445,
+                        "longitude": 5.0590857491,
+                        "photo": "https://static.inaturalist.org/photos/721853701/large.jpg",
+                        "observer": "one_ants"
+                    },
+                    {
+                        "id": 393500913,
+                        "observed_on": "2026-08-22",
+                        "place": "Cimetière (La Garde), 83130 La Garde, France",
+                        "latitude": 43.1335996091,
+                        "longitude": 6.0123609379,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721269425/large.jpg",
+                        "observer": "clementaubert"
+                    },
+                    {
+                        "id": 393488020,
+                        "observed_on": "2026-08-22",
+                        "place": "Via della Rocca, Assisi, Umbria, IT",
+                        "latitude": 43.073775,
+                        "longitude": 12.61505,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721244761/large.jpg",
+                        "observer": "biancastorm13"
+                    },
+                    {
+                        "id": 393393905,
+                        "observed_on": "2026-08-21",
+                        "place": "פארק ערן 166, הזית, נשר, ישראל",
+                        "latitude": 32.7697325,
+                        "longitude": 35.0395974,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721063974/large.jpg",
+                        "observer": "yelena_antipova"
+                    },
+                    {
+                        "id": 393190622,
+                        "observed_on": "2026-08-21",
+                        "place": "Asse Attrezzato Lucidi, 63100 Ascoli Piceno AP, Italia",
+                        "latitude": 42.8453233997,
+                        "longitude": 13.6606930997,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720664702/large.jpg",
+                        "observer": "simonevcm"
+                    },
+                    {
+                        "id": 393168345,
+                        "observed_on": "2026-08-21",
+                        "place": "Grand Rue, Mane, Provence-Alpes-Côte d'Azur, FR",
+                        "latitude": 43.9376533333,
+                        "longitude": 5.7669633333,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720622454/large.jpg",
+                        "observer": "hina17deinat"
+                    },
+                    {
+                        "id": 392719408,
+                        "observed_on": "2026-08-19",
+                        "place": "Condide, Condide, 36640 Puentecesures, Pontevedra, España",
+                        "latitude": 42.7089903,
+                        "longitude": -8.6483417,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719740211/large.jpg",
+                        "observer": "martin38245"
+                    }
+                ]
+            }
+        },
+        "gbif_occurrences": 5595,
+        "gbif_occurrences_status": "success",
+        "gbif_records": [
+            {
+                "key": 6130155824,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.332338,
+                "longitude": 2.530602
+            },
+            {
+                "key": 6130287947,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.549382,
+                "longitude": 5.403252
+            },
+            {
+                "key": 6130536872,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.590647,
+                "longitude": 5.617911
+            },
+            {
+                "key": 6131246832,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.340092,
+                "longitude": -7.4563
+            },
+            {
+                "key": 6131359880,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.640953,
+                "longitude": 5.733165
+            },
+            {
+                "key": 6133609371,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.227213,
+                "longitude": 5.359713
+            },
+            {
+                "key": 6133185971,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 42.853173,
+                "longitude": 13.668331
+            },
+            {
+                "key": 6147170891,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.331733,
+                "longitude": 2.522883
+            },
+            {
+                "key": 6147363012,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.34856,
+                "longitude": 2.567398
+            },
+            {
+                "key": 6159217693,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.751419,
+                "longitude": 8.451089
+            },
+            {
+                "key": 6159436457,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.720638,
+                "longitude": 3.838505
+            },
+            {
+                "key": 6162965765,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.748816,
+                "longitude": 3.601062
+            },
+            {
+                "key": 6163122626,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.1707,
+                "longitude": -5.999044
+            },
+            {
+                "key": 6163343240,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.441308,
+                "longitude": 5.799184
+            },
+            {
+                "key": 6170871769,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.495889,
+                "longitude": 6.034173
+            },
+            {
+                "key": 6170938928,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.554768,
+                "longitude": -0.631941
+            },
+            {
+                "key": 6170964829,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.341869,
+                "longitude": 5.967471
+            },
+            {
+                "key": 6170965790,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.230243,
+                "longitude": 5.459042
+            },
+            {
+                "key": 6171182232,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.495,
+                "longitude": 6.031117
+            },
+            {
+                "key": 6171297934,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.337039,
+                "longitude": 5.692093
+            },
+            {
+                "key": 6171314950,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.666488,
+                "longitude": -3.805463
+            },
+            {
+                "key": 6171322651,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.217179,
+                "longitude": 5.477747
+            },
+            {
+                "key": 6178314487,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 42.580446,
+                "longitude": 10.075133
+            },
+            {
+                "key": 6179031481,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.139607,
+                "longitude": -8.189537
+            },
+            {
+                "key": 6185395284,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 42.771469,
+                "longitude": 11.108429
+            },
+            {
+                "key": 6171170006,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.744344,
+                "longitude": 4.215438
+            },
+            {
+                "key": 6171215181,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.379007,
+                "longitude": 5.840815
+            },
+            {
+                "key": 6178376010,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.0527,
+                "longitude": 5.833891
+            },
+            {
+                "key": 6178399539,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.547765,
+                "longitude": 5.59094
+            },
+            {
+                "key": 6178571588,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.210583,
+                "longitude": 5.802757
+            },
+            {
+                "key": 6178734409,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.520833,
+                "longitude": 2.933333
+            },
+            {
+                "key": 6178824321,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.492198,
+                "longitude": 5.331299
+            },
+            {
+                "key": 6178849296,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.703923,
+                "longitude": -3.074227
+            },
+            {
+                "key": 6178917268,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.5485,
+                "longitude": 5.60406
+            },
+            {
+                "key": 6178920888,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.528266,
+                "longitude": -8.996274
+            },
+            {
+                "key": 6178988819,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.524551,
+                "longitude": -8.025395
+            },
+            {
+                "key": 6178998466,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.674093,
+                "longitude": 5.461905
+            },
+            {
+                "key": 6179142214,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.520833,
+                "longitude": 2.933333
+            },
+            {
+                "key": 6179186733,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 39.301785,
+                "longitude": -9.217641
+            },
+            {
+                "key": 6179365862,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.657307,
+                "longitude": 3.916222
+            },
+            {
+                "key": 6179381967,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.337038,
+                "longitude": 5.566552
+            },
+            {
+                "key": 6179529035,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.451442,
+                "longitude": -3.383996
+            },
+            {
+                "key": 6179534741,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.553761,
+                "longitude": 3.716801
+            },
+            {
+                "key": 6184736778,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.302494,
+                "longitude": 5.965086
+            },
+            {
+                "key": 6184743736,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.625207,
+                "longitude": 1.433767
+            },
+            {
+                "key": 6184826712,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.417242,
+                "longitude": -5.988009
+            },
+            {
+                "key": 6184866195,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.680981,
+                "longitude": 2.415083
+            },
+            {
+                "key": 6184931437,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.635895,
+                "longitude": 3.891158
+            },
+            {
+                "key": 6185117376,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.801656,
+                "longitude": 3.742864
+            },
+            {
+                "key": 6185146939,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 41.891458,
+                "longitude": 12.461734
+            },
+            {
+                "key": 6185170348,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.632088,
+                "longitude": 3.861805
+            },
+            {
+                "key": 6185255326,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.680753,
+                "longitude": 2.414903
+            },
+            {
+                "key": 6185302974,
+                "country": "France",
+                "locality": null,
+                "latitude": 45.378384,
+                "longitude": 4.682187
+            },
+            {
+                "key": 6185352537,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.950736,
+                "longitude": 5.006878
+            },
+            {
+                "key": 6185357111,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.491129,
+                "longitude": 11.395017
+            },
+            {
+                "key": 6185490518,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.48979,
+                "longitude": 11.504567
+            },
+            {
+                "key": 6185509516,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.223441,
+                "longitude": 5.440407
+            },
+            {
+                "key": 6185528129,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.267616,
+                "longitude": 5.943897
+            },
+            {
+                "key": 6185658471,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 45.023172,
+                "longitude": 14.572564
+            },
+            {
+                "key": 6185732666,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.777388,
+                "longitude": 3.909287
+            },
+            {
+                "key": 6185760579,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 43.507385,
+                "longitude": 16.426943
+            },
+            {
+                "key": 6185765441,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.299286,
+                "longitude": 5.958531
+            },
+            {
+                "key": 6185912442,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 39.052581,
+                "longitude": -7.890667
+            },
+            {
+                "key": 6185951756,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.35832,
+                "longitude": 9.656248
+            },
+            {
+                "key": 6185983298,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.72377,
+                "longitude": 7.402936
+            },
+            {
+                "key": 6186138472,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.592711,
+                "longitude": 13.761322
+            },
+            {
+                "key": 6187984373,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.715722,
+                "longitude": 3.860193
+            },
+            {
+                "key": 6187997752,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.890418,
+                "longitude": 4.909888
+            },
+            {
+                "key": 6188290361,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.631927,
+                "longitude": -4.742659
+            },
+            {
+                "key": 6227516646,
+                "country": "Netherlands",
+                "locality": "Oudorp (NH)",
+                "latitude": 52.6,
+                "longitude": 4.75
+            },
+            {
+                "key": 6227533418,
+                "country": "Netherlands",
+                "locality": "Bavel",
+                "latitude": 51.55,
+                "longitude": 4.8
+            },
+            {
+                "key": 6187995625,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.529068,
+                "longitude": 4.771382
+            },
+            {
+                "key": 6188019785,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.362957,
+                "longitude": 6.019931
+            },
+            {
+                "key": 6188072155,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.260048,
+                "longitude": -8.828523
+            },
+            {
+                "key": 6188183718,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.544225,
+                "longitude": 3.906278
+            },
+            {
+                "key": 6188295306,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.046319,
+                "longitude": 3.850539
+            },
+            {
+                "key": 6188620655,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.748455,
+                "longitude": 2.64702
+            },
+            {
+                "key": 6195227211,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.272491,
+                "longitude": 2.96957
+            },
+            {
+                "key": 6195241686,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.630011,
+                "longitude": 3.898981
+            },
+            {
+                "key": 6195247543,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 42.157806,
+                "longitude": 12.217133
+            },
+            {
+                "key": 6195247727,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.57505,
+                "longitude": -4.009804
+            },
+            {
+                "key": 6195282887,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.090211,
+                "longitude": 6.226958
+            },
+            {
+                "key": 6195321471,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.553761,
+                "longitude": 3.716801
+            },
+            {
+                "key": 6195360363,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.907488,
+                "longitude": -0.249795
+            },
+            {
+                "key": 6195380931,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 42.863016,
+                "longitude": 13.713928
+            },
+            {
+                "key": 6195383783,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.090203,
+                "longitude": 6.22696
+            },
+            {
+                "key": 6195617111,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.565683,
+                "longitude": -7.978189
+            },
+            {
+                "key": 6195708859,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.978988,
+                "longitude": -1.966903
+            },
+            {
+                "key": 6195709423,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.655083,
+                "longitude": 3.903564
+            },
+            {
+                "key": 6195716684,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.337037,
+                "longitude": 5.400815
+            },
+            {
+                "key": 6195746494,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.29519,
+                "longitude": 5.362718
+            },
+            {
+                "key": 6196043741,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.100833,
+                "longitude": -8.786922
+            },
+            {
+                "key": 6213420309,
+                "country": "Netherlands",
+                "locality": "Noordijk - Groot Hornte",
+                "latitude": 52.15,
+                "longitude": 6.55
+            },
+            {
+                "key": 6228570448,
+                "country": "Netherlands",
+                "locality": "Noordijk - Groot Hornte",
+                "latitude": 52.15,
+                "longitude": 6.55
+            },
+            {
+                "key": 6234222505,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.638354,
+                "longitude": 2.352511
+            },
+            {
+                "key": 6234232132,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.849194,
+                "longitude": -9.33331
+            },
+            {
+                "key": 6234239461,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.847867,
+                "longitude": 6.008307
+            },
+            {
+                "key": 6234257351,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.317396,
+                "longitude": 5.684972
+            },
+            {
+                "key": 6234281044,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.641608,
+                "longitude": 3.843953
+            },
+            {
+                "key": 6234294871,
+                "country": "France",
+                "locality": null,
+                "latitude": 45.20852,
+                "longitude": 5.743883
+            },
+            {
+                "key": 6234346624,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.626328,
+                "longitude": 3.86568
+            },
+            {
+                "key": 6234367052,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 44.183552,
+                "longitude": 15.162874
+            },
+            {
+                "key": 6234442442,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 39.058087,
+                "longitude": -7.892981
+            },
+            {
+                "key": 6234515761,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 45.330012,
+                "longitude": 14.432204
+            },
+            {
+                "key": 6234522777,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 42.13372,
+                "longitude": 12.077708
+            },
+            {
+                "key": 6234598069,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.224858,
+                "longitude": 6.133426
+            },
+            {
+                "key": 6234778716,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.755708,
+                "longitude": 5.890473
+            },
+            {
+                "key": 6234818776,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.773638,
+                "longitude": 13.599054
+            },
+            {
+                "key": 6234912782,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.632294,
+                "longitude": 3.862777
+            },
+            {
+                "key": 6235028833,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.637675,
+                "longitude": 3.864065
+            },
+            {
+                "key": 6235048505,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.837039,
+                "longitude": 4.071484
+            },
+            {
+                "key": 6235065475,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.624787,
+                "longitude": 3.662037
+            },
+            {
+                "key": 6235140790,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.624226,
+                "longitude": 4.095814
+            },
+            {
+                "key": 6235173765,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 41.914671,
+                "longitude": 12.509622
+            },
+            {
+                "key": 6235187438,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.593395,
+                "longitude": 4.468983
+            },
+            {
+                "key": 6235233186,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 37.85128,
+                "longitude": 15.289977
+            },
+            {
+                "key": 6235242083,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.795039,
+                "longitude": -3.94833
+            },
+            {
+                "key": 6235305137,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.58728,
+                "longitude": 1.918763
+            },
+            {
+                "key": 6235323837,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.560307,
+                "longitude": 3.723643
+            },
+            {
+                "key": 6235384981,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 36.99046,
+                "longitude": -6.444279
+            },
+            {
+                "key": 6235473912,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.623692,
+                "longitude": 3.865603
+            },
+            {
+                "key": 6235499031,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.307397,
+                "longitude": 0.700743
+            },
+            {
+                "key": 6235545952,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.591595,
+                "longitude": 5.805106
+            },
+            {
+                "key": 6235637283,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.174655,
+                "longitude": 2.990972
+            },
+            {
+                "key": 6235661152,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 45.093354,
+                "longitude": 14.487103
+            },
+            {
+                "key": 6235720984,
+                "country": "Bulgaria",
+                "locality": null,
+                "latitude": 42.261716,
+                "longitude": 27.74919
+            },
+            {
+                "key": 6235795102,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.273812,
+                "longitude": -3.685245
+            },
+            {
+                "key": 6235826436,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.452306,
+                "longitude": -2.699673
+            },
+            {
+                "key": 6235884694,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.807376,
+                "longitude": 4.022718
+            },
+            {
+                "key": 6235967383,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.304957,
+                "longitude": 5.379781
+            },
+            {
+                "key": 6236011883,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.755705,
+                "longitude": 5.89048
+            },
+            {
+                "key": 6236032200,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.183753,
+                "longitude": 6.210056
+            },
+            {
+                "key": 6236098579,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 43.882797,
+                "longitude": 10.474742
+            },
+            {
+                "key": 6236107864,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.250129,
+                "longitude": 5.423583
+            },
+            {
+                "key": 6236114155,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.214381,
+                "longitude": 3.100451
+            },
+            {
+                "key": 6236122863,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.564832,
+                "longitude": 2.019409
+            },
+            {
+                "key": 6236333767,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.620411,
+                "longitude": 10.298952
+            },
+            {
+                "key": 6236520485,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.578653,
+                "longitude": -2.644365
+            },
+            {
+                "key": 6251457147,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.380272,
+                "longitude": 5.279255
+            },
+            {
+                "key": 6251522349,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.420321,
+                "longitude": 6.811028
+            },
+            {
+                "key": 6251524216,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.634214,
+                "longitude": 3.861973
+            },
+            {
+                "key": 6251525302,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.76725,
+                "longitude": 10.069788
+            },
+            {
+                "key": 6251636107,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.273201,
+                "longitude": 5.301767
+            },
+            {
+                "key": 6251655138,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.38025,
+                "longitude": 5.279267
+            },
+            {
+                "key": 6251686330,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 44.180672,
+                "longitude": 15.157626
+            },
+            {
+                "key": 6252199091,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 40.399447,
+                "longitude": -8.237952
+            },
+            {
+                "key": 6252477696,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.339258,
+                "longitude": 5.976841
+            },
+            {
+                "key": 6252582190,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.369511,
+                "longitude": 6.464333
+            },
+            {
+                "key": 6252692278,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.734347,
+                "longitude": 3.551444
+            },
+            {
+                "key": 6252792585,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.38025,
+                "longitude": 5.279267
+            },
+            {
+                "key": 6252829627,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.76725,
+                "longitude": 10.069788
+            },
+            {
+                "key": 6253001325,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 44.187153,
+                "longitude": 15.158167
+            },
+            {
+                "key": 6253084873,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.705085,
+                "longitude": 9.4446
+            },
+            {
+                "key": 6253348950,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.872564,
+                "longitude": 8.644611
+            },
+            {
+                "key": 6273490963,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.154771,
+                "longitude": -8.203337
+            },
+            {
+                "key": 6273588760,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.155248,
+                "longitude": -8.203045
+            },
+            {
+                "key": 6274170989,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.735076,
+                "longitude": 3.539885
+            },
+            {
+                "key": 6274176312,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.109784,
+                "longitude": 6.023462
+            },
+            {
+                "key": 6320289711,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.448855,
+                "longitude": -8.642238
+            },
+            {
+                "key": 6353302622,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 44.054598,
+                "longitude": 12.582165
+            },
+            {
+                "key": 6411648388,
+                "country": "Spain",
+                "locality": "Mallorca - Deyá",
+                "latitude": 39.748455,
+                "longitude": 2.64702
+            },
+            {
+                "key": 6413486962,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.227628,
+                "longitude": 3.996105
+            },
+            {
+                "key": 6441525570,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 43.928547,
+                "longitude": 10.342137
+            },
+            {
+                "key": 6452080955,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.63767,
+                "longitude": 3.864001
+            },
+            {
+                "key": 6500220491,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 41.712825,
+                "longitude": 12.337618
+            },
+            {
+                "key": 6251800847,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.833089,
+                "longitude": 4.315066
+            },
+            {
+                "key": 6251963354,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.76143,
+                "longitude": 4.964358
+            },
+            {
+                "key": 6252077588,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.740287,
+                "longitude": 5.172289
+            },
+            {
+                "key": 6252518523,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.646577,
+                "longitude": 0.591741
+            },
+            {
+                "key": 6252575279,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.713489,
+                "longitude": 3.463346
+            },
+            {
+                "key": 6252723988,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.288933,
+                "longitude": 3.100102
+            },
+            {
+                "key": 6253115742,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.40405,
+                "longitude": 3.668273
+            },
+            {
+                "key": 6253143536,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.42018,
+                "longitude": 6.811414
+            },
+            {
+                "key": 6253371665,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.621055,
+                "longitude": 2.747966
+            },
+            {
+                "key": 6273316934,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.677304,
+                "longitude": 2.329832
+            },
+            {
+                "key": 6273463984,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.443858,
+                "longitude": -2.309556
+            },
+            {
+                "key": 6273482713,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.698069,
+                "longitude": 3.672264
+            },
+            {
+                "key": 6273488305,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.452919,
+                "longitude": -7.641975
+            },
+            {
+                "key": 6273586116,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.338907,
+                "longitude": 2.898544
+            },
+            {
+                "key": 6273912796,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.519682,
+                "longitude": 10.250992
+            },
+            {
+                "key": 6274050777,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.732278,
+                "longitude": 5.937113
+            },
+            {
+                "key": 6274092552,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 39.998997,
+                "longitude": -8.428589
+            },
+            {
+                "key": 6274294650,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.949507,
+                "longitude": -4.128105
+            },
+            {
+                "key": 6320122137,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.529824,
+                "longitude": -8.018051
+            },
+            {
+                "key": 6320129888,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.334834,
+                "longitude": 3.120655
+            },
+            {
+                "key": 6320141013,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.616384,
+                "longitude": 3.857152
+            },
+            {
+                "key": 6320168329,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.455018,
+                "longitude": 11.585901
+            },
+            {
+                "key": 6320178328,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.074728,
+                "longitude": -3.019906
+            },
+            {
+                "key": 6320208811,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.612592,
+                "longitude": 1.415465
+            },
+            {
+                "key": 6320295027,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.115367,
+                "longitude": 5.243885
+            },
+            {
+                "key": 6320301418,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.63454,
+                "longitude": 3.861259
+            },
+            {
+                "key": 6320548875,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 41.291411,
+                "longitude": 13.069377
+            },
+            {
+                "key": 6320610708,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.795039,
+                "longitude": -3.94833
+            },
+            {
+                "key": 6320613926,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.374198,
+                "longitude": 1.080163
+            },
+            {
+                "key": 6320617066,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.757159,
+                "longitude": 4.925362
+            },
+            {
+                "key": 6320682449,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.938634,
+                "longitude": 2.049195
+            },
+            {
+                "key": 6320809639,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.17053,
+                "longitude": 5.969027
+            },
+            {
+                "key": 6320854912,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.194091,
+                "longitude": 6.009158
+            },
+            {
+                "key": 6320884948,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.166419,
+                "longitude": 6.36499
+            },
+            {
+                "key": 6320905662,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.074242,
+                "longitude": -3.017037
+            },
+            {
+                "key": 6320916743,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.936035,
+                "longitude": -6.58118
+            },
+            {
+                "key": 6320948771,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.53176,
+                "longitude": -8.017713
+            },
+            {
+                "key": 6321047513,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.767989,
+                "longitude": 4.31142
+            },
+            {
+                "key": 6321050500,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.673217,
+                "longitude": 0.50415
+            },
+            {
+                "key": 6321186324,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.520833,
+                "longitude": 2.933333
+            },
+            {
+                "key": 6334013882,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.200156,
+                "longitude": 2.715109
+            },
+            {
+                "key": 6334017886,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 43.606362,
+                "longitude": 13.452624
+            },
+            {
+                "key": 6334038369,
+                "country": "France",
+                "locality": null,
+                "latitude": 45.276251,
+                "longitude": 0.17115
+            },
+            {
+                "key": 6334046724,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.666653,
+                "longitude": 2.268053
+            },
+            {
+                "key": 6334052599,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.955839,
+                "longitude": -4.887712
+            },
+            {
+                "key": 6334080556,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.608382,
+                "longitude": 3.892471
+            },
+            {
+                "key": 6334177871,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 43.811414,
+                "longitude": 10.420702
+            },
+            {
+                "key": 6334191745,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.531631,
+                "longitude": 4.643896
+            },
+            {
+                "key": 6334265534,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.976017,
+                "longitude": 1.256036
+            },
+            {
+                "key": 6334287505,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.914993,
+                "longitude": -8.732478
+            },
+            {
+                "key": 6334324340,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.957858,
+                "longitude": -9.348011
+            },
+            {
+                "key": 6334333646,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.229578,
+                "longitude": 4.003631
+            },
+            {
+                "key": 6334379086,
+                "country": "Ukraine",
+                "locality": null,
+                "latitude": 44.419337,
+                "longitude": 34.053325
+            },
+            {
+                "key": 6334407873,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.227712,
+                "longitude": 3.997419
+            },
+            {
+                "key": 6334464717,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.567044,
+                "longitude": 6.6957
+            },
+            {
+                "key": 6334597444,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 42.924029,
+                "longitude": 17.167342
+            },
+            {
+                "key": 6334629547,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.198121,
+                "longitude": 2.716084
+            },
+            {
+                "key": 6334687065,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.852784,
+                "longitude": -9.265958
+            },
+            {
+                "key": 6334690596,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 43.27405,
+                "longitude": 11.989316
+            },
+            {
+                "key": 6334715640,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.054238,
+                "longitude": 4.776026
+            },
+            {
+                "key": 6334920508,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.342359,
+                "longitude": 3.209093
+            },
+            {
+                "key": 6334953641,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.716468,
+                "longitude": -9.128028
+            },
+            {
+                "key": 6334958994,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 43.637533,
+                "longitude": 10.650831
+            },
+            {
+                "key": 6335025648,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.623581,
+                "longitude": 3.865386
+            },
+            {
+                "key": 6342775027,
+                "country": "Netherlands",
+                "locality": "Deventer",
+                "latitude": 52.25,
+                "longitude": 6.15
+            },
+            {
+                "key": 6343410727,
+                "country": "Netherlands",
+                "locality": "Deventer",
+                "latitude": 52.25,
+                "longitude": 6.15
+            },
+            {
+                "key": 6352241131,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.520103,
+                "longitude": 10.251409
+            },
+            {
+                "key": 6352309481,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 42.382191,
+                "longitude": 11.435742
+            },
+            {
+                "key": 6352623128,
+                "country": "Azerbaijan",
+                "locality": null,
+                "latitude": 40.548883,
+                "longitude": 47.871369
+            },
+            {
+                "key": 6352690759,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.637588,
+                "longitude": 3.932649
+            },
+            {
+                "key": 6352772562,
+                "country": "France",
+                "locality": null,
+                "latitude": 45.276455,
+                "longitude": 0.170866
+            },
+            {
+                "key": 6352796593,
+                "country": "Montenegro",
+                "locality": null,
+                "latitude": 42.230656,
+                "longitude": 18.905115
+            },
+            {
+                "key": 6352850371,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 39.46233,
+                "longitude": -8.209626
+            },
+            {
+                "key": 6353072722,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.553761,
+                "longitude": 3.716801
+            },
+            {
+                "key": 6353103820,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 42.8286,
+                "longitude": 13.581113
+            },
+            {
+                "key": 6353181419,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 44.019803,
+                "longitude": 8.179088
+            },
+            {
+                "key": 6353191384,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 44.46567,
+                "longitude": 7.36292
+            },
+            {
+                "key": 6353211438,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.772826,
+                "longitude": 2.864852
+            },
+            {
+                "key": 6353213313,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.587258,
+                "longitude": 1.918738
+            },
+            {
+                "key": 6353281684,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.685191,
+                "longitude": 6.955946
+            },
+            {
+                "key": 6353330843,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 42.923997,
+                "longitude": 17.167367
+            },
+            {
+                "key": 6353356648,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 40.350829,
+                "longitude": -7.091632
+            },
+            {
+                "key": 6399117567,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.641182,
+                "longitude": 6.95097
+            },
+            {
+                "key": 6399233887,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.51995,
+                "longitude": 10.251579
+            },
+            {
+                "key": 6399594282,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 45.413589,
+                "longitude": 13.766817
+            },
+            {
+                "key": 6399757442,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 43.808594,
+                "longitude": 15.312036
+            },
+            {
+                "key": 6400288779,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 43.751239,
+                "longitude": 10.623783
+            },
+            {
+                "key": 6413630445,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 44.951194,
+                "longitude": 14.700335
+            },
+            {
+                "key": 6413912073,
+                "country": "Slovenia",
+                "locality": null,
+                "latitude": 45.56013,
+                "longitude": 13.831774
+            },
+            {
+                "key": 6430909588,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.675425,
+                "longitude": 3.352138
+            },
+            {
+                "key": 6431255949,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 44.964287,
+                "longitude": 8.239945
+            },
+            {
+                "key": 6431519329,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 43.751978,
+                "longitude": 10.62189
+            },
+            {
+                "key": 6431804793,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 39.455537,
+                "longitude": 9.642225
+            },
+            {
+                "key": 6431814782,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 41.893915,
+                "longitude": 12.475326
+            },
+            {
+                "key": 6441215589,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.494471,
+                "longitude": 10.60703
+            },
+            {
+                "key": 6441334048,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 44.223088,
+                "longitude": 15.646105
+            },
+            {
+                "key": 6451722403,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.694633,
+                "longitude": 7.326728
+            },
+            {
+                "key": 6451725975,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.487197,
+                "longitude": 4.406355
+            },
+            {
+                "key": 6469952815,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 44.765823,
+                "longitude": 10.317718
+            },
+            {
+                "key": 6470602432,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.449573,
+                "longitude": 11.509724
+            },
+            {
+                "key": 6480176351,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 39.801215,
+                "longitude": 8.571498
+            },
+            {
+                "key": 6499152688,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.346767,
+                "longitude": -3.66925
+            },
+            {
+                "key": 6398676155,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.502106,
+                "longitude": 3.009053
+            },
+            {
+                "key": 6398856417,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 45.555662,
+                "longitude": 10.22378
+            },
+            {
+                "key": 6399035428,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.090385,
+                "longitude": 6.227435
+            },
+            {
+                "key": 6399080167,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 45.063092,
+                "longitude": 13.666192
+            },
+            {
+                "key": 6399118528,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.506406,
+                "longitude": 3.006717
+            },
+            {
+                "key": 6399202118,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.227917,
+                "longitude": 3.995192
+            },
+            {
+                "key": 6399284748,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.485039,
+                "longitude": 3.125935
+            },
+            {
+                "key": 6399316738,
+                "country": "France",
+                "locality": null,
+                "latitude": 41.910162,
+                "longitude": 8.688433
+            },
+            {
+                "key": 6399488120,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.475686,
+                "longitude": 3.116064
+            },
+            {
+                "key": 6399596540,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.131711,
+                "longitude": 6.003524
+            },
+            {
+                "key": 6399915647,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 41.046247,
+                "longitude": -3.54371
+            },
+            {
+                "key": 6400042785,
+                "country": "France",
+                "locality": null,
+                "latitude": 41.617346,
+                "longitude": 9.209647
+            },
+            {
+                "key": 6400061723,
+                "country": "France",
+                "locality": null,
+                "latitude": 41.652894,
+                "longitude": 9.201423
+            },
+            {
+                "key": 6400096890,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 44.860544,
+                "longitude": 13.860072
+            },
+            {
+                "key": 6400113954,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.493829,
+                "longitude": 3.126865
+            },
+            {
+                "key": 6400155849,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.480603,
+                "longitude": 3.127164
+            },
+            {
+                "key": 6400233430,
+                "country": "North Macedonia",
+                "locality": null,
+                "latitude": 42.026849,
+                "longitude": 22.587386
+            },
+            {
+                "key": 6400531684,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 41.047361,
+                "longitude": 29.016249
+            },
+            {
+                "key": 6400554438,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.473556,
+                "longitude": 3.116497
+            },
+            {
+                "key": 6400602727,
+                "country": "France",
+                "locality": null,
+                "latitude": 42.354742,
+                "longitude": 8.810339
+            },
+            {
+                "key": 6400667598,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.727955,
+                "longitude": 7.36175
+            },
+            {
+                "key": 6400811804,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 44.484887,
+                "longitude": 11.337271
+            },
+            {
+                "key": 6400822959,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.739098,
+                "longitude": 3.53298
+            },
+            {
+                "key": 6412930986,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.462703,
+                "longitude": -3.592054
+            },
+            {
+                "key": 6412965321,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 43.771408,
+                "longitude": 15.74498
+            },
+            {
+                "key": 6412976103,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 45.025988,
+                "longitude": 14.573428
+            },
+            {
+                "key": 6413008742,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.999296,
+                "longitude": -9.336127
+            },
+            {
+                "key": 6413060896,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 43.753909,
+                "longitude": 15.761911
+            },
+            {
+                "key": 6413181903,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.121892,
+                "longitude": 2.7503
+            },
+            {
+                "key": 6413248983,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 42.106025,
+                "longitude": 2.771692
+            },
+            {
+                "key": 6413404566,
+                "country": "France",
+                "locality": null,
+                "latitude": 43.194057,
+                "longitude": 6.009207
+            },
+            {
+                "key": 6413539744,
+                "country": "France",
+                "locality": null,
+                "latitude": 44.008998,
+                "longitude": 4.381077
+            },
+            {
+                "key": 6413553433,
+                "country": "Croatia",
+                "locality": null,
+                "latitude": 43.770071,
+                "longitude": 15.755158
+            }
+        ],
+        "algeria_occurrences": 15,
+        "algeria_records": [
+            {
+                "key": 4517524461,
+                "country": "Algeria",
+                "locality": "El Bouni [Algeria : Bona]",
+                "latitude": 36.85638,
+                "longitude": 7.741505
+            },
+            {
+                "key": 4517526454,
+                "country": "Algeria",
+                "locality": "El Bouni [Algeria : Bona]",
+                "latitude": 36.85638,
+                "longitude": 7.741505
+            },
+            {
+                "key": 4517534454,
+                "country": "Algeria",
+                "locality": "El Bouni [Algeria : Bona]",
+                "latitude": 36.85638,
+                "longitude": 7.741505
+            },
+            {
+                "key": 4517535462,
+                "country": "Algeria",
+                "locality": "El Bouni [Algeria : Bona]",
+                "latitude": 36.85638,
+                "longitude": 7.741505
+            },
+            {
+                "key": 5761505221,
+                "country": "Algeria",
+                "locality": "El Bouni",
+                "latitude": 36.85638,
+                "longitude": 7.741505
+            },
+            {
+                "key": 5761566375,
+                "country": "Algeria",
+                "locality": "El Bouni",
+                "latitude": 36.85638,
+                "longitude": 7.741505
+            },
+            {
+                "key": 5761636912,
+                "country": "Algeria",
+                "locality": "El Bouni",
+                "latitude": 36.85638,
+                "longitude": 7.741505
+            },
+            {
+                "key": 5761671227,
+                "country": "Algeria",
+                "locality": "El Bouni",
+                "latitude": 36.85638,
+                "longitude": 7.741505
+            },
+            {
+                "key": 1085685829,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 28.0,
+                "longitude": 3.0
+            },
+            {
+                "key": 1085685837,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 28.0,
+                "longitude": 3.0
+            },
+            {
+                "key": 2805652766,
+                "country": "Algeria",
+                "locality": "Foret de Msila (Algier)",
+                "latitude": 35.6321,
+                "longitude": -0.822912
+            },
+            {
+                "key": 2805652769,
+                "country": "Algeria",
+                "locality": "Foret de Msila (Algier)",
+                "latitude": 35.6321,
+                "longitude": -0.822912
+            },
+            {
+                "key": 5285655427,
+                "country": "Algeria",
+                "locality": "Laverdure",
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "key": 5285655562,
+                "country": "Algeria",
+                "locality": "Laverdure",
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "key": 5285660481,
+                "country": "Algeria",
+                "locality": "Forêt de Msila",
+                "latitude": null,
+                "longitude": null
+            }
+        ],
+        "gbif_algeria_status": "success"
+    },
+    "biology": {},
+    "ecology": {},
+    "publications": [],
+    "images": [
+        {
+            "source": "personal",
+            "url": "images/Camponotus_lateralis/image067.jpg",
+            "caption": "ouvrière de camponotus lateralis",
+            "miroir": true
+        },
+        {
+            "source": "personal",
+            "url": "images/Camponotus_lateralis/image068.jpg",
+            "caption": "tete"
+        }
+    ],
+    "references": [],
+    "sources": {
+        "GBIF": {
+            "usageKey": 1312698,
+            "scientificName": "Camponotus lateralis (Olivier, 1792)",
+            "canonicalName": "Camponotus lateralis",
+            "rank": "SPECIES",
+            "status": "ACCEPTED",
+            "confidence": 99,
+            "matchType": "EXACT",
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "order": "Hymenoptera",
+            "family": "Formicidae",
+            "genus": "Camponotus",
+            "species": "Camponotus lateralis",
+            "kingdomKey": 1,
+            "phylumKey": 54,
+            "classKey": 216,
+            "orderKey": 1457,
+            "familyKey": 4342,
+            "genusKey": 1312361,
+            "speciesKey": 1312698,
+            "class": "Insecta"
+        },
+        "Catalogue of Life": {
+            "usage": {
+                "id": "QDXG",
+                "name": "Camponotus (Myrmentoma) lateralis",
+                "authorship": "(Olivier, 1792)",
+                "rank": "species",
+                "code": "zoological",
+                "status": "accepted",
+                "canonicalId": 1494449,
+                "namesIndexId": 1494449,
+                "namesIndexMatchType": "none",
+                "sectorKey": 66564,
+                "classification": [
+                    {
+                        "id": "CLBR2",
+                        "name": "Camponotus (Myrmentoma)",
+                        "authorship": "Forel, 1912",
+                        "rank": "subgenus",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 1494327,
+                        "namesIndexId": 1494327,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Camponotus (Myrmentoma) Forel, 1912",
+                        "labelHtml": "<i>Camponotus (Myrmentoma)</i> Forel, 1912",
+                        "parentId": "3GGD"
+                    },
+                    {
+                        "id": "3GGD",
+                        "name": "Camponotus",
+                        "authorship": "Mayr, 1861",
+                        "rank": "genus",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 1493258,
+                        "namesIndexId": 1493258,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Camponotus Mayr, 1861",
+                        "labelHtml": "<i>Camponotus</i> Mayr, 1861",
+                        "parentId": "CLBGY"
+                    },
+                    {
+                        "id": "CLBGY",
+                        "name": "Camponotini",
+                        "authorship": "Forel, 1878",
+                        "rank": "tribe",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 1493118,
+                        "namesIndexId": 1493118,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Camponotini Forel, 1878",
+                        "labelHtml": "Camponotini Forel, 1878",
+                        "parentId": "CLWPD"
+                    },
+                    {
+                        "id": "CLWPD",
+                        "name": "Formicinae",
+                        "authorship": "Latreille, 1802",
+                        "rank": "subfamily",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 3721498,
+                        "namesIndexId": 3721498,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Formicinae Latreille, 1802",
+                        "labelHtml": "Formicinae Latreille, 1802",
+                        "parentId": "CLRKP"
+                    },
+                    {
+                        "id": "CLRKP",
+                        "name": "Formicidae",
+                        "authorship": "Latreille, 1802",
+                        "rank": "family",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 10726,
+                        "namesIndexId": 10726,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Formicidae Latreille, 1802",
+                        "labelHtml": "Formicidae Latreille, 1802",
+                        "parentId": "VGRS7"
+                    },
+                    {
+                        "id": "VGRS7",
+                        "name": "Formicoidea",
+                        "authorship": "Latreille, 1809",
+                        "rank": "superfamily",
+                        "status": "accepted",
+                        "canonicalId": 3722132,
+                        "namesIndexId": 3722132,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Formicoidea Latreille, 1809",
+                        "labelHtml": "Formicoidea Latreille, 1809",
+                        "parentId": "KZMNP"
+                    },
+                    {
+                        "id": "KZMNP",
+                        "name": "Aculeata",
+                        "rank": "infraorder",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 172568,
+                        "namesIndexId": 172568,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Aculeata",
+                        "labelHtml": "Aculeata",
+                        "parentId": "KZPW7"
+                    },
+                    {
+                        "id": "KZPW7",
+                        "name": "Apocrita",
+                        "rank": "suborder",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 710972,
+                        "namesIndexId": 710972,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Apocrita",
+                        "labelHtml": "Apocrita",
+                        "parentId": "HYM"
+                    },
+                    {
+                        "id": "HYM",
+                        "name": "Hymenoptera",
+                        "rank": "order",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 17368,
+                        "namesIndexId": 17368,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Hymenoptera",
+                        "labelHtml": "Hymenoptera",
+                        "parentId": "H6"
+                    },
+                    {
+                        "id": "H6",
+                        "name": "Insecta",
+                        "rank": "class",
+                        "status": "accepted",
+                        "canonicalId": 17393,
+                        "namesIndexId": 17393,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Insecta",
+                        "labelHtml": "Insecta",
+                        "parentId": "L2655"
+                    },
+                    {
+                        "id": "L2655",
+                        "name": "Hexapoda",
+                        "rank": "subphylum",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 17333,
+                        "namesIndexId": 17333,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Hexapoda",
+                        "labelHtml": "Hexapoda",
+                        "parentId": "RT"
+                    },
+                    {
+                        "id": "RT",
+                        "name": "Arthropoda",
+                        "rank": "phylum",
+                        "status": "accepted",
+                        "canonicalId": 9289,
+                        "namesIndexId": 9289,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Arthropoda",
+                        "labelHtml": "Arthropoda",
+                        "parentId": "N"
+                    },
+                    {
+                        "id": "N",
+                        "name": "Animalia",
+                        "rank": "kingdom",
+                        "status": "accepted",
+                        "canonicalId": 9237,
+                        "namesIndexId": 9237,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Animalia",
+                        "labelHtml": "Animalia",
+                        "parentId": "CS5HF"
+                    },
+                    {
+                        "id": "CS5HF",
+                        "name": "Eukaryota",
+                        "authorship": "(Chatton, 1925) Whittaker & Margulis, 1978",
+                        "rank": "domain",
+                        "status": "accepted",
+                        "canonicalId": 3444548,
+                        "namesIndexId": 3444548,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Eukaryota (Chatton, 1925) Whittaker & Margulis, 1978",
+                        "labelHtml": "Eukaryota (Chatton, 1925) Whittaker & Margulis, 1978"
+                    }
+                ],
+                "canonical": true,
+                "label": "Camponotus (Myrmentoma) lateralis (Olivier, 1792)",
+                "labelHtml": "<i>Camponotus (Myrmentoma) lateralis</i> (Olivier, 1792)",
+                "parentId": "CLBR2"
+            },
+            "sectorKey": 66564,
+            "type": "variant",
+            "original": {
+                "name": "Camponotus lateralis",
+                "status": "accepted",
+                "canonical": true,
+                "label": "Camponotus lateralis",
+                "labelHtml": "Camponotus lateralis"
+            },
+            "issues": {},
+            "id": "QDXG",
+            "match": true
+        },
+        "iNaturalist": {
+            "taxon_id": 343252,
+            "observations_count": 3260,
+            "default_photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/4747490/medium.jpg",
+            "observations": [
+                {
+                    "id": 396179804,
+                    "observed_on": "2026-08-31",
+                    "place": "Guadalquivir frente 34, Poblados del Sur, 46026 Valencia, España",
+                    "latitude": 39.4327126964,
+                    "longitude": -0.3733396903,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726525157/large.jpg",
+                    "observer": "entreobreras"
+                },
+                {
+                    "id": 396156632,
+                    "observed_on": "2026-08-31",
+                    "place": "Krk Central Bus Station, 51500, Krk, Croatia",
+                    "latitude": 45.0234532245,
+                    "longitude": 14.5716265216,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726477872/large.jpg",
+                    "observer": "croatianiguana"
+                },
+                {
+                    "id": 396047684,
+                    "observed_on": "2026-08-30",
+                    "place": "Ionian Islands, Peloponnese, Western Greece and the Ionian Islands, GR",
+                    "latitude": 39.6487777778,
+                    "longitude": 19.8461416667,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726264626/large.jpg",
+                    "observer": "bristlenose44"
+                },
+                {
+                    "id": 395735415,
+                    "observed_on": "2026-08-30",
+                    "place": "83310 Cogolin, France",
+                    "latitude": 43.2523333333,
+                    "longitude": 6.5191027778,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725648082/large.jpg",
+                    "observer": "samuelpaitreault"
+                },
+                {
+                    "id": 395624339,
+                    "observed_on": "2026-08-29",
+                    "place": "01014 Montalto Marina VT, Italy",
+                    "latitude": 42.3280975135,
+                    "longitude": 11.5877590292,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725424168/large.jpg",
+                    "observer": "andrea_montechiarini"
+                },
+                {
+                    "id": 395514959,
+                    "observed_on": "2026-08-29",
+                    "place": "31380 Montjoire, France",
+                    "latitude": 43.7813871,
+                    "longitude": 1.5563895,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725225306/large.jpg",
+                    "observer": "stephane10213"
+                },
+                {
+                    "id": 395513445,
+                    "observed_on": "2026-08-29",
+                    "place": "31380 Montjoire, France",
+                    "latitude": 43.7815346967,
+                    "longitude": 1.5558240563,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725222504/large.jpg",
+                    "observer": "stephane10213"
+                },
+                {
+                    "id": 394959344,
+                    "observed_on": "2026-08-27",
+                    "place": "Rue du Grau Carnon, Mauguio, Occitanie, FR",
+                    "latitude": 43.5461716667,
+                    "longitude": 3.97158,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724137666/large.jpg",
+                    "observer": "amelie-fournier"
+                },
+                {
+                    "id": 394721974,
+                    "observed_on": "2026-08-26",
+                    "place": "17028 Spotorno SV, Italia",
+                    "latitude": 44.2366838294,
+                    "longitude": 8.4328128397,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723664866/large.jpg",
+                    "observer": "gabrivauda"
+                },
+                {
+                    "id": 394453715,
+                    "observed_on": "2026-08-25",
+                    "place": "Ca l'Escolà, 17745 Lladó, Girona, Espanya",
+                    "latitude": 42.2672829723,
+                    "longitude": 2.8203256801,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723144041/large.jpg",
+                    "observer": "amanitu_muskari"
+                },
+                {
+                    "id": 394067244,
+                    "observed_on": "2026-08-23",
+                    "place": "Saint Exupéry, 84100 Orange, France",
+                    "latitude": 44.1351535904,
+                    "longitude": 4.7925744206,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722384149/large.jpg",
+                    "observer": "maury_daniel"
+                },
+                {
+                    "id": 394028222,
+                    "observed_on": "2026-05-13",
+                    "place": "Comunidad de Madrid, Madrid, Spain",
+                    "latitude": 40.3467666667,
+                    "longitude": -3.66925,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722037720/large.jpg",
+                    "observer": "clurarit"
+                },
+                {
+                    "id": 393879683,
+                    "observed_on": "2026-08-23",
+                    "place": "Les Grottes, 06530 Saint-Cézaire-sur-Siagne, France",
+                    "latitude": 43.6580638889,
+                    "longitude": 6.8115305556,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722010014/large.jpg",
+                    "observer": "wren0"
+                },
+                {
+                    "id": 393798598,
+                    "observed_on": "2026-08-23",
+                    "place": "84210 Pernes-les-Fontaines, France",
+                    "latitude": 43.9984536445,
+                    "longitude": 5.0590857491,
+                    "photo": "https://static.inaturalist.org/photos/721853701/large.jpg",
+                    "observer": "one_ants"
+                },
+                {
+                    "id": 393500913,
+                    "observed_on": "2026-08-22",
+                    "place": "Cimetière (La Garde), 83130 La Garde, France",
+                    "latitude": 43.1335996091,
+                    "longitude": 6.0123609379,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721269425/large.jpg",
+                    "observer": "clementaubert"
+                },
+                {
+                    "id": 393488020,
+                    "observed_on": "2026-08-22",
+                    "place": "Via della Rocca, Assisi, Umbria, IT",
+                    "latitude": 43.073775,
+                    "longitude": 12.61505,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721244761/large.jpg",
+                    "observer": "biancastorm13"
+                },
+                {
+                    "id": 393393905,
+                    "observed_on": "2026-08-21",
+                    "place": "פארק ערן 166, הזית, נשר, ישראל",
+                    "latitude": 32.7697325,
+                    "longitude": 35.0395974,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721063974/large.jpg",
+                    "observer": "yelena_antipova"
+                },
+                {
+                    "id": 393190622,
+                    "observed_on": "2026-08-21",
+                    "place": "Asse Attrezzato Lucidi, 63100 Ascoli Piceno AP, Italia",
+                    "latitude": 42.8453233997,
+                    "longitude": 13.6606930997,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720664702/large.jpg",
+                    "observer": "simonevcm"
+                },
+                {
+                    "id": 393168345,
+                    "observed_on": "2026-08-21",
+                    "place": "Grand Rue, Mane, Provence-Alpes-Côte d'Azur, FR",
+                    "latitude": 43.9376533333,
+                    "longitude": 5.7669633333,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720622454/large.jpg",
+                    "observer": "hina17deinat"
+                },
+                {
+                    "id": 392719408,
+                    "observed_on": "2026-08-19",
+                    "place": "Condide, Condide, 36640 Puentecesures, Pontevedra, España",
+                    "latitude": 42.7089903,
+                    "longitude": -8.6483417,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719740211/large.jpg",
+                    "observer": "martin38245"
+                }
+            ]
+        }
+    },
+    "metadata": {}
+}

@@ -1,0 +1,1210 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+```
+<meta charset="UTF-8">
+
+<meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+>
+
+<title>Espèce — Camponotus Algeria</title>
+
+<meta
+    name="description"
+    content="Fiche scientifique détaillée d'une espèce de Camponotus présente en Algérie."
+>
+
+<link rel="stylesheet" href="css/style.css">
+```
+
+</head>
+
+<body>
+
+<header class="site-header">
+
+```
+<div class="container nav">
+
+    <a href="index.html" class="logo">
+        Camponotus <span>Algeria</span>
+    </a>
+
+    <nav>
+
+        <a href="index.html">
+            Accueil
+        </a>
+
+        <a href="species.html" class="active">
+            Espèces
+        </a>
+
+    </nav>
+
+</div>
+```
+
+</header>
+
+<main>
+
+```
+<div
+    id="species-detail"
+    class="species-detail"
+>
+
+    <div class="loading">
+        Chargement...
+    </div>
+
+</div>
+```
+
+</main>
+
+<footer class="site-footer">
+
+```
+<div class="container footer-content">
+
+    <div>
+
+        <strong>
+            Camponotus Algeria
+        </strong>
+
+        <p>
+            Catalogue scientifique du genre
+            <em>Camponotus</em>
+            en Algérie.
+        </p>
+
+    </div>
+
+    <div>
+
+        <p>
+            Projet scientifique — ENSA El Harrach
+        </p>
+
+    </div>
+
+</div>
+```
+
+</footer>
+
+<script>
+
+/* ============================================================
+   FICHE ESPÈCE
+============================================================ */
+
+
+/* ------------------------------------------------------------
+   Fichiers JSON disponibles
+------------------------------------------------------------ */
+
+const DETAIL_SPECIES_FILES = [
+
+    "Camponotus_micans.json",
+    "Camponotus_cruentatus.json",
+    "Camponotus_seurati.json",
+    "Camponotus_sanctus.json",
+    "Camponotus_spissinodis.json",
+    "Camponotus_lateralis.json",
+    "Camponotus_atlantis.json",
+    "Camponotus_sylvaticus.json",
+    "Camponotus_thoracicus.json",
+    "Camponotus_foreli.json"
+
+];
+
+
+/* ------------------------------------------------------------
+   Récupérer le nom depuis l'URL
+------------------------------------------------------------ */
+
+function getSpeciesFromURL() {
+
+    const params = new URLSearchParams(
+        window.location.search
+    );
+
+    return params.get("species");
+
+}
+
+
+/* ------------------------------------------------------------
+   Normalisation des noms d'espèces
+------------------------------------------------------------ */
+
+function normalizeSpeciesName(name) {
+
+    if (!name) {
+        return "";
+    }
+
+    return String(name)
+        .trim()
+        .toLowerCase()
+        .replace(/_/g, " ")
+        .replace(/\s+/g, " ");
+
+}
+
+
+/* ------------------------------------------------------------
+   Normalisation des pays
+------------------------------------------------------------ */
+
+function normalizeDetailCountry(country) {
+
+    if (!country) {
+        return "";
+    }
+
+    const value = String(country).trim();
+
+    const normalized = {
+
+        "Israel": "Palestine",
+        "State of Israel": "Palestine",
+
+        "Iran (Islamic Republic of)": "Iran",
+
+        "Syrian Arab Republic": "Syrie",
+
+        "United Kingdom of Great Britain and Northern Ireland":
+            "Royaume-Uni",
+
+        "United Kingdom":
+            "Royaume-Uni",
+
+        "Algeria":
+            "Algérie",
+
+        "Argentina":
+            "Argentine",
+
+        "Australia":
+            "Australie",
+
+        "Austria":
+            "Autriche",
+
+        "Brazil":
+            "Brésil",
+
+        "Chile":
+            "Chili",
+
+        "China":
+            "Chine",
+
+        "Colombia":
+            "Colombie",
+
+        "Costa Rica":
+            "Costa Rica",
+
+        "Czechia":
+            "République tchèque",
+
+        "Ecuador":
+            "Équateur",
+
+        "France":
+            "France",
+
+        "Germany":
+            "Allemagne",
+
+        "Italy":
+            "Italie",
+
+        "Morocco":
+            "Maroc",
+
+        "Portugal":
+            "Portugal",
+
+        "Spain":
+            "Espagne",
+
+        "Tunisia":
+            "Tunisie",
+
+        "Türkiye":
+            "Turquie"
+
+    };
+
+    return normalized[value] || value;
+
+}
+
+
+/* ------------------------------------------------------------
+   Images personnelles
+------------------------------------------------------------ */
+
+function getPersonalImages(data) {
+
+    const images =
+        Array.isArray(data?.images)
+            ? data.images
+            : [];
+
+    return images.filter(image => {
+
+        if (!image) {
+            return false;
+        }
+
+        const source =
+            String(image.source || "")
+                .trim()
+                .toLowerCase();
+
+        return source === "personal";
+
+    });
+
+}
+
+
+/* ------------------------------------------------------------
+   Protection HTML
+------------------------------------------------------------ */
+
+function escapeHTML(value) {
+
+    if (
+        value === null ||
+        value === undefined
+    ) {
+        return "";
+    }
+
+    return String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+
+}
+
+
+/* ============================================================
+   MORPHOLOGIE
+============================================================ */
+
+const MORPHOLOGY_LABELS = {
+
+    size: "Taille",
+    body_size: "Taille du corps",
+
+    head: "Tête",
+    head_shape: "Forme de la tête",
+    head_width: "Largeur de la tête",
+    head_length: "Longueur de la tête",
+
+    mandibles: "Mandibules",
+    mandible: "Mandibules",
+
+    antennae: "Antennes",
+    antenna: "Antennes",
+    antennae_segments: "Articles antennaires",
+
+    clypeus: "Clypéus",
+    clypeus_shape: "Forme du clypéus",
+    clypeus_margin: "Bord du clypéus",
+
+    frontal_suture: "Suture frontale",
+    frontal_carina: "Carènes frontales",
+
+    eyes: "Yeux",
+    ocelli: "Ocelles",
+
+    mesosoma: "Mésosome",
+    mesosoma_shape: "Forme du mésosome",
+    mesosoma_setae: "Soies du mésosome",
+
+    pronotum: "Pronotum",
+    mesonotum: "Mésonotum",
+    metanotum: "Métanotum",
+
+    propodeum: "Propodéum",
+    propodeum_shape: "Forme du propodéum",
+    propodeum_angle: "Angle du propodéum",
+
+    shoulders: "Épaules",
+
+    petiole: "Pétiole",
+    petiole_shape: "Forme du pétiole",
+    petiole_scale: "Écaille du pétiole",
+
+    gaster: "Gastre",
+    gaster_segments: "Segments du gastre",
+    gaster_coloration: "Coloration du gastre",
+    abdomen: "Abdomen",
+
+    forebody: "Avant-corps",
+
+    tibiae: "Tibias",
+    tibia: "Tibia",
+    hind_tibiae: "Tibias postérieurs",
+
+    coloration: "Coloration",
+    color: "Couleur",
+
+    pubescence: "Pubescence",
+    trunk_pubescence: "Pubescence du tronc",
+
+    pilosity: "Pilosité",
+    hairs: "Pilosité",
+
+    setae: "Soies",
+
+    sculpture: "Sculpture",
+    integument: "Tégument",
+
+    legs: "Pattes",
+    thorax: "Thorax",
+    body: "Corps",
+
+    trunk_and_scale: "Tronc et écaille",
+
+    worker: "Ouvrière",
+    workers: "Ouvrières",
+
+    major_worker: "Ouvrière majeure",
+    minor_worker: "Ouvrière mineure",
+    major_head: "Tête de l'ouvrière majeure",
+
+    queens: "Reines"
+
+};
+
+
+/* ------------------------------------------------------------
+   Traduction des clés morphologiques
+------------------------------------------------------------ */
+
+function getMorphologyLabel(key) {
+
+    if (!key) {
+        return "";
+    }
+
+    if (MORPHOLOGY_LABELS[key]) {
+        return MORPHOLOGY_LABELS[key];
+    }
+
+    return String(key)
+        .replace(/_/g, " ")
+        .replace(/\b\w/g, letter =>
+            letter.toUpperCase()
+        );
+
+}
+
+
+/* ------------------------------------------------------------
+   Affichage d'une valeur morphologique
+------------------------------------------------------------ */
+
+function renderMorphologyValue(value) {
+
+    if (
+        value === null ||
+        value === undefined ||
+        value === ""
+    ) {
+        return "";
+    }
+
+
+    /* Objet */
+
+    if (
+        typeof value === "object" &&
+        !Array.isArray(value)
+    ) {
+
+        const entries =
+            Object.entries(value)
+                .filter(
+                    ([, val]) =>
+                        val !== null &&
+                        val !== undefined &&
+                        val !== ""
+                );
+
+
+        if (!entries.length) {
+            return "";
+        }
+
+
+        return `
+
+            <div class="morphology-subvalues">
+
+                ${entries.map(([key, val]) => `
+
+                    <div class="morphology-subvalue">
+
+                        <span class="morphology-sub-label">
+                            ${escapeHTML(
+                                getMorphologyLabel(key)
+                            )} :
+                        </span>
+
+                        <span class="morphology-sub-text">
+                            ${escapeHTML(
+                                Array.isArray(val)
+                                    ? val.join(", ")
+                                    : val
+                            )}
+                        </span>
+
+                    </div>
+
+                `).join("")}
+
+            </div>
+
+        `;
+
+    }
+
+
+    /* Tableau */
+
+    if (Array.isArray(value)) {
+
+        return escapeHTML(
+            value.join(", ")
+        );
+
+    }
+
+
+    /* Texte simple */
+
+    return escapeHTML(value);
+
+}
+
+
+/* ------------------------------------------------------------
+   Création du bloc morphologique
+------------------------------------------------------------ */
+
+function createMorphologyHTML(data) {
+
+    const morphology =
+        data?.morphology || {};
+
+
+    const entries =
+        Object.entries(morphology)
+            .filter(
+                ([, value]) =>
+                    value !== null &&
+                    value !== undefined &&
+                    value !== ""
+            );
+
+
+    if (!entries.length) {
+
+        return `
+
+            <section class="detail-section">
+
+                <div class="section-heading">
+
+                    <p class="eyebrow">
+                        MORPHOLOGIE
+                    </p>
+
+                    <h2>
+                        Caractéristiques morphologiques
+                    </h2>
+
+                </div>
+
+                <p class="empty-message">
+                    Aucune donnée morphologique disponible.
+                </p>
+
+            </section>
+
+        `;
+
+    }
+
+
+    return `
+
+        <section class="detail-section">
+
+            <div class="section-heading">
+
+                <p class="eyebrow">
+                    MORPHOLOGIE
+                </p>
+
+                <h2>
+                    Caractéristiques morphologiques
+                </h2>
+
+            </div>
+
+
+            <div class="morphology-grid">
+
+                ${entries.map(([key, value]) => {
+
+                    const renderedValue =
+                        renderMorphologyValue(value);
+
+
+                    if (!renderedValue) {
+                        return "";
+                    }
+
+
+                    return `
+
+                        <div class="morphology-item">
+
+                            <h3>
+                                ${escapeHTML(
+                                    getMorphologyLabel(key)
+                                )} :
+                            </h3>
+
+                            <div class="morphology-value">
+                                ${renderedValue}
+                            </div>
+
+                        </div>
+
+                    `;
+
+                }).join("")}
+
+            </div>
+
+        </section>
+
+    `;
+
+}
+
+
+/* ============================================================
+   DISTRIBUTION
+============================================================ */
+
+function getCountries(data) {
+
+    const rawCountries =
+        Array.isArray(
+            data?.distribution?.countries
+        )
+            ? data.distribution.countries
+            : [];
+
+
+    const countries =
+        rawCountries
+            .map(normalizeDetailCountry)
+            .filter(Boolean)
+            .filter(country => {
+
+                const lower =
+                    country.toLowerCase();
+
+                if (
+                    lower.includes("gbif_occurrences") ||
+                    lower.includes("occurrence")
+                ) {
+                    return false;
+                }
+
+                return true;
+
+            });
+
+
+    return [
+        ...new Set(countries)
+    ];
+
+}
+
+
+/* ============================================================
+   CHARGEMENT DE LA FICHE
+============================================================ */
+
+async function loadSpeciesDetail() {
+
+    const container =
+        document.getElementById(
+            "species-detail"
+        );
+
+
+    /* Sécurité */
+
+    if (!container) {
+
+        console.error(
+            "ERREUR : #species-detail est introuvable."
+        );
+
+        return;
+
+    }
+
+
+    const speciesName =
+        getSpeciesFromURL();
+
+
+    /* Aucun nom dans l'URL */
+
+    if (!speciesName) {
+
+        container.innerHTML = `
+
+            <div class="error-message">
+
+                <h2>
+                    Espèce introuvable
+                </h2>
+
+                <p>
+                    Aucun nom d'espèce n'a été fourni.
+                </p>
+
+                <a href="species.html">
+                    Retour au catalogue
+                </a>
+
+            </div>
+
+        `;
+
+        return;
+
+    }
+
+
+    const requestedName =
+        normalizeSpeciesName(
+            speciesName
+        );
+
+
+    let species = null;
+
+
+    /* --------------------------------------------------------
+       Recherche dans les fichiers JSON
+    -------------------------------------------------------- */
+
+    for (
+        const file of DETAIL_SPECIES_FILES
+    ) {
+
+        try {
+
+            const response =
+                await fetch(
+                    `data/${file}`
+                );
+
+
+            if (!response.ok) {
+
+                console.warn(
+                    `Fichier inaccessible : data/${file}`
+                );
+
+                continue;
+
+            }
+
+
+            const data =
+                await response.json();
+
+
+            const fileName =
+                file
+                    .replace(".json", "")
+                    .replace(/_/g, " ");
+
+
+            const candidates = [
+
+                normalizeSpeciesName(
+                    fileName
+                ),
+
+                normalizeSpeciesName(
+                    data?.scientific_name
+                ),
+
+                normalizeSpeciesName(
+                    data?.taxonomy?.species
+                ),
+
+                normalizeSpeciesName(
+                    data?.taxonomy?.canonical_name
+                )
+
+            ].filter(Boolean);
+
+
+            if (
+                candidates.includes(
+                    requestedName
+                )
+            ) {
+
+                species = data;
+
+                break;
+
+            }
+
+        }
+
+        catch (error) {
+
+            console.error(
+                `Erreur lors du chargement de ${file}:`,
+                error
+            );
+
+        }
+
+    }
+
+
+    /* --------------------------------------------------------
+       Espèce introuvable
+    -------------------------------------------------------- */
+
+    if (!species) {
+
+        container.innerHTML = `
+
+            <div class="error-message">
+
+                <h2>
+                    Espèce introuvable
+                </h2>
+
+                <p>
+                    L'espèce
+                    <strong>
+                        ${escapeHTML(speciesName)}
+                    </strong>
+                    n'a pas été trouvée dans le catalogue.
+                </p>
+
+                <a href="species.html">
+                    Retour au catalogue
+                </a>
+
+            </div>
+
+        `;
+
+        return;
+
+    }
+
+
+    /* Affichage */
+
+    renderSpeciesDetail(
+        species,
+        container
+    );
+
+}
+
+
+/* ============================================================
+   AFFICHAGE DE LA FICHE
+============================================================ */
+
+function renderSpeciesDetail(
+    data,
+    container
+) {
+
+    const taxonomy =
+        data?.taxonomy || {};
+
+
+    const name =
+        data?.scientific_name ||
+        taxonomy?.species ||
+        taxonomy?.canonical_name ||
+        "Camponotus";
+
+
+    const fullScientificName =
+        data?.scientific_name ||
+        taxonomy?.scientific_name ||
+        taxonomy?.species ||
+        name;
+
+
+    const authorship =
+        taxonomy?.authorship || "";
+
+
+    /* --------------------------------------------------------
+       Pays
+    -------------------------------------------------------- */
+
+    const countries =
+        getCountries(data);
+
+
+    let countriesHTML = "";
+
+
+    if (countries.length) {
+
+        countriesHTML = `
+
+            <div class="country-list">
+
+                ${countries.map(country => `
+                    ${escapeHTML(country)}
+                `).join(", ")}
+            </div>
+
+        `;
+
+    }
+    else {
+
+        countriesHTML = `
+
+            <p class="empty-message">
+                Aucune donnée de distribution disponible.
+            </p>
+
+        `;
+
+    }
+
+
+    /* --------------------------------------------------------
+       Images personnelles
+    -------------------------------------------------------- */
+
+    const images =
+        getPersonalImages(data);
+
+    let imagesHTML = "";
+
+    if (images.length) {
+
+        imagesHTML = `
+
+            <section class="detail-section">
+
+                <div class="section-heading">
+
+                    <p class="eyebrow">
+                        OBSERVATIONS
+                    </p>
+
+                    <h2>
+                        Photographies
+                    </h2>
+
+                </div>
+
+                <div class="species-images">
+
+                    ${images.map(image => {
+
+                        const src =
+                            image.url ||
+                            image.src ||
+                            image.path ||
+                            "";
+
+                        if (!src) {
+                            return "";
+                        }
+
+                        const caption =
+                            image.caption ||
+                            image.description ||
+                            "";
+
+                        return `
+
+                            <figure class="species-image-card">
+
+                                <img
+                                    src="${escapeHTML(src)}"
+                                    alt="${escapeHTML(name)}"
+                                    loading="lazy"
+                                    class="${image.rotate ? "rotated-image" : ""} ${image.miroir ? "mirrored-image" : ""}"
+                                    style="--rotation: ${image.rotate || 0}deg;"
+                                >
+
+                                ${
+                                    caption
+                                        ? `
+                                            <figcaption>
+                                                ${escapeHTML(caption)}
+                                            </figcaption>
+                                          `
+                                        : ""
+                                }
+
+                            </figure>
+
+                        `;
+
+                    }).join("")}
+
+                </div>
+
+            </section>
+
+        `;
+
+    }
+
+    /* --------------------------------------------------------
+       Taxonomie
+    -------------------------------------------------------- */
+
+    const taxonomyRows = [
+
+        ["Règne", taxonomy.kingdom],
+
+        ["Embranchement", taxonomy.phylum],
+
+        ["Sous-embranchement", taxonomy.subphylum],
+
+        ["Classe", taxonomy.class],
+
+        ["Ordre", taxonomy.order],
+
+        ["Sous-ordre", taxonomy.suborder],
+
+        ["Superfamille", taxonomy.superfamily],
+
+        ["Famille", taxonomy.family],
+
+        ["Sous-famille", taxonomy.subfamily],
+
+        ["Tribu", taxonomy.tribe],
+
+        ["Genre", taxonomy.genus],
+
+        ["Sous-genre", taxonomy.subgenus],
+
+        ["Espèce", taxonomy.species],
+
+        ["Auteur", authorship]
+
+    ].filter(
+        ([, value]) =>
+            value !== null &&
+            value !== undefined &&
+            value !== ""
+    );
+
+
+    const taxonomyHTML = `
+
+        <section class="detail-section">
+
+            <div class="section-heading">
+
+                <p class="eyebrow">
+                    CLASSIFICATION
+                </p>
+
+                <h2>
+                    Taxonomie
+                </h2>
+
+            </div>
+
+
+            <div class="taxonomy-table">
+
+                ${taxonomyRows.map(
+                    ([label, value]) => `
+
+                    <div class="taxonomy-row">
+
+                        <span class="taxonomy-label">
+                            ${escapeHTML(label)} :
+                        </span>
+
+                        <span class="taxonomy-value">
+
+                            ${
+                                label === "Espèce"
+                                    ? `<em>${escapeHTML(value)}</em>`
+                                    : escapeHTML(value)
+                            }
+
+                        </span>
+
+                    </div>
+
+                `).join("")}
+
+            </div>
+
+        </section>
+
+    `;
+
+
+    /* --------------------------------------------------------
+       Morphologie
+    -------------------------------------------------------- */
+
+    const morphologyHTML =
+        createMorphologyHTML(data);
+
+
+    /* ========================================================
+       HTML FINAL
+    ======================================================== */
+
+    container.innerHTML = `
+
+        <div class="container">
+
+
+            <a
+                href="species.html"
+                class="back-link"
+            >
+                ← Retour au catalogue
+            </a>
+
+
+            <section class="species-hero">
+
+                <div class="species-hero-content">
+
+                    <p class="eyebrow">
+                        ESPÈCE
+                    </p>
+
+                    <h1>
+                        <em>
+                            ${escapeHTML(
+                                fullScientificName
+                            )}
+                        </em>
+                    </h1>
+
+                    ${
+                        authorship
+                            ? `
+                                <p class="authorship">
+                                    ${escapeHTML(
+                                        authorship
+                                    )}
+                                </p>
+                              `
+                            : ""
+                    }
+
+                </div>
+
+            </section>
+
+
+            ${taxonomyHTML}
+
+
+            ${morphologyHTML}
+
+
+            <section class="detail-section">
+
+                <div class="section-heading">
+
+                    <p class="eyebrow">
+                        RÉPARTITION GÉOGRAPHIQUE
+                    </p>
+
+                </div>
+
+
+                <div class="distribution-box">
+
+                    <h3>
+                        Pays
+                    </h3>
+
+                    ${countriesHTML}
+
+                </div>
+
+            </section>
+
+
+            ${imagesHTML}
+
+
+        </div>
+
+    `;
+
+}
+
+
+/* ============================================================
+   LANCEMENT
+============================================================ */
+
+document.addEventListener(
+    "DOMContentLoaded",
+    loadSpeciesDetail
+);
+
+</script>
+
+</body>
+
+</html>

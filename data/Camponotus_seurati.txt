@@ -1,0 +1,78 @@
+============================================================
+Camponotus seurati
+============================================================
+
+TAXONOMIE
+----------
+Nom scientifique : Camponotus seurati
+Nom scientifique complet : Camponotus (Tanaemyrmex) seurati Emery, 1920
+Nom canonique : Camponotus seurati
+Règne : Animalia
+Embranchement : Arthropoda
+Classe : Insecta
+Ordre : Hymenoptera
+Famille : Formicidae
+Genre : Camponotus
+Sous-genre : Camponotus (Tanaemyrmex)
+Espèce : Camponotus (Tanaemyrmex) seurati
+Statut : accepted
+Auteur : Emery, 1920
+
+DISTRIBUTION
+------------
+Nombre de pays : 35
+
+Pays :
+- Algeria
+- Argentina
+- Australia
+- Austria
+- Belize
+- Brazil
+- Chile
+- China
+- Chinese Taipei
+- Colombia
+- Costa Rica
+- Czechia
+- Ecuador
+- El Salvador
+- France
+- Hungary
+- India
+- Indonesia
+- Italy
+- Jamaica
+- Kenya
+- Malaysia
+- Martinique
+- Mexico
+- Nicaragua
+- Peru
+- Singapore
+- South Africa
+- Spain
+- Thailand
+- Trinidad and Tobago
+- Türkiye
+- United States of America
+- Venezuela (Bolivarian Republic of)
+- Viet Nam
+
+Occurrences en Algérie : 320
+IMAGES
+------
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/444883106/large.jpeg
+  Observation ID : 248928645
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/444882421/large.jpeg
+  Observation ID : 248928356
+
+SOURCES
+-------
+- GBIF
+- Catalogue of Life
+- iNaturalist
+
+============================================================

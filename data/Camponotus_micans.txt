@@ -1,0 +1,91 @@
+============================================================
+Camponotus micans
+============================================================
+
+TAXONOMIE
+----------
+Nom scientifique : Camponotus micans
+Nom scientifique complet : Camponotus (Myrmosericus) micans (Nylander, 1856)
+Nom canonique : Camponotus micans
+Règne : Animalia
+Embranchement : Arthropoda
+Classe : Insecta
+Ordre : Hymenoptera
+Famille : Formicidae
+Genre : Camponotus
+Sous-genre : Camponotus (Myrmosericus)
+Espèce : Camponotus (Myrmosericus) micans
+Statut : accepted
+Auteur : (Nylander, 1856)
+
+DISTRIBUTION
+------------
+Nombre de pays : 6
+
+Pays :
+- Algeria
+- Italy
+- Morocco
+- Portugal
+- Spain
+- Tunisia
+
+Occurrences en Algérie : 18
+IMAGES
+------
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/723629865/large.jpg
+  Observation ID : 394703592
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/722020782/large.jpg
+  Observation ID : 394028205
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/720717769/large.jpg
+  Observation ID : 393218679
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/710915045/large.jpg
+  Observation ID : 388213075
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/706519486/large.jpg
+  Observation ID : 385900984
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/703328995/large.jpg
+  Observation ID : 384147166
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/700051334/large.jpg
+  Observation ID : 382529942
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/699495238/large.jpg
+  Observation ID : 382239437
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/698016080/large.jpg
+  Observation ID : 381477461
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/697771841/large.jpg
+  Observation ID : 381351055
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/697039548/large.jpg
+  Observation ID : 380969817
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/697039370/large.jpg
+  Observation ID : 380969731
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/695987930/large.jpg
+  Observation ID : 380429934
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/695661636/large.jpg
+  Observation ID : 380255644
+- Source : iNaturalist
+  URL : https://static.inaturalist.org/photos/695376424/large.jpg
+  Observation ID : 380111770
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/695220653/large.jpg
+  Observation ID : 380033463
+
+SOURCES
+-------
+- GBIF
+- Catalogue of Life
+- iNaturalist
+
+============================================================

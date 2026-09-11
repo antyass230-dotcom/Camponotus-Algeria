@@ -1,0 +1,2822 @@
+{
+    "scientific_name": "Camponotus sanctus",
+    "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Hymenoptera",
+        "family": "Formicidae",
+        "genus": "Camponotus",
+        "species": "Camponotus (Tanaemyrmex) sanctus",
+        "canonical_name": "Camponotus sanctus",
+        "scientific_name": "Camponotus sanctus Forel, 1904",
+        "status": "accepted",
+        "gbif_usage_key": 1312899,
+        "gbif_match_type": "EXACT",
+        "gbif_confidence": 99,
+        "subgenus": "Camponotus (Tanaemyrmex)",
+        "tribe": "Camponotini",
+        "subfamily": "Formicinae",
+        "superfamily": "Formicoidea",
+        "infraorder": "Aculeata",
+        "suborder": "Apocrita",
+        "subphylum": "Hexapoda",
+        "domain": "Eukaryota",
+        "authorship": "Forel, 1904"
+    },
+    "morphology": {
+        "clypeus": "Clypéus pourvu d’une carène médiane distincte et visible.",
+        "head": "Tête relativement large, avec une coloration généralement brunâtre à brun-rougeâtre chez les ouvrières.",
+        "mesosoma": "Mésosome généralement jaune-roussâtre à brun-rougeâtre, souvent plus clair que la tête chez les ouvrières minor.",
+        "gaster": "Gastre sombre, brun à noir, avec une partie antérieure parfois plus claire.",
+        "genae": "Genae et partie ventrale de la tête avec peu ou pas de soies dressées.",
+        "scape": "Scapes généralement dépourvus de soies dressées.",
+        "hind_tibiae": "Tibias postérieurs portant des soies dressées ; chez les grandes ouvrières, leur face externe présente un sillon longitudinal bien marqué.",
+        "mesosoma_setae": "Mésosome présentant plusieurs soies dressées sur sa face dorsale.",
+        "size": "Taille relativement grande, les ouvrières pouvant atteindre environ 14–15 mm."
+    },
+    "distribution": {
+        "countries": [
+            "Cyprus",
+            "Greece",
+            "Israel",
+            "Jordan",
+            "Lebanon",
+            "Syrian Arab Republic",
+            "Türkiye",
+            "United Kingdom of Great Britain and Northern Ireland"
+        ],
+        "algeria": {
+            "GBIF": 0
+        },
+        "coordinates": [],
+        "occurrences": {
+            "GBIF": 364,
+            "iNaturalist": {
+                "total": 390,
+                "records": [
+                    {
+                        "id": 396049153,
+                        "observed_on": "2026-08-31",
+                        "place": "Mazotos, Larnaca, CY",
+                        "latitude": 34.807995,
+                        "longitude": 33.4904033333,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726267927/large.jpg",
+                        "observer": "erlkonig"
+                    },
+                    {
+                        "id": 395278870,
+                        "observed_on": "2026-08-28",
+                        "place": "שפק/האבוקדו, חדרה, ישראל",
+                        "latitude": 32.4172768,
+                        "longitude": 34.9473375997,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724761348/large.jpg",
+                        "observer": "ohadba"
+                    },
+                    {
+                        "id": 394102706,
+                        "observed_on": "2016-09-12",
+                        "place": "Jerusalem, Israel",
+                        "latitude": 31.7782907998,
+                        "longitude": 35.1817859768,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722445174/large.jpg",
+                        "observer": "drorf"
+                    },
+                    {
+                        "id": 393499563,
+                        "observed_on": "2026-08-22",
+                        "place": "Lardos, South Aegean, GR",
+                        "latitude": 36.0777767834,
+                        "longitude": 28.0188652578,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721266605/large.jpg",
+                        "observer": "lolosvk"
+                    },
+                    {
+                        "id": 392873705,
+                        "observed_on": "2026-08-19",
+                        "place": "QX2H+P4, Onia 853 01, Greece",
+                        "latitude": 36.7511666667,
+                        "longitude": 26.9789138889,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720045697/large.jpg",
+                        "observer": "benjigloag"
+                    },
+                    {
+                        "id": 392705542,
+                        "observed_on": "2026-08-19",
+                        "place": "XX4C+HM, Κάλυμνος 852 00, Ελλάδα",
+                        "latitude": 36.9551877004,
+                        "longitude": 26.9699224457,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719712265/large.jpg",
+                        "observer": "giannicc"
+                    },
+                    {
+                        "id": 392599206,
+                        "observed_on": "2026-08-18",
+                        "place": "QX2H+P4, Onia 853 01, Greece",
+                        "latitude": 36.7497583333,
+                        "longitude": 26.9770611111,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719511112/large.jpg",
+                        "observer": "benjigloag"
+                    },
+                    {
+                        "id": 392415237,
+                        "observed_on": "2026-08-17",
+                        "place": "Rishon LeZion, Israel",
+                        "latitude": 31.9730750141,
+                        "longitude": 34.8020193471,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719145075/large.jpg",
+                        "observer": "onnkar"
+                    },
+                    {
+                        "id": 392168141,
+                        "observed_on": "2026-08-17",
+                        "place": "Haifa, IL",
+                        "latitude": 32.424949487,
+                        "longitude": 34.8818576708,
+                        "photo": "https://static.inaturalist.org/photos/718662314/large.jpg",
+                        "observer": "orshitrit"
+                    },
+                    {
+                        "id": 391120525,
+                        "observed_on": "2026-08-14",
+                        "place": null,
+                        "latitude": null,
+                        "longitude": null,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/716631895/large.jpg",
+                        "observer": "margarita97800"
+                    },
+                    {
+                        "id": 390225405,
+                        "observed_on": "2026-08-11",
+                        "place": "Therma, Eastern Macedonia and Thrace, GR",
+                        "latitude": 40.4972283333,
+                        "longitude": 25.611475,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/714886562/large.jpg",
+                        "observer": "heidi1528"
+                    },
+                    {
+                        "id": 389616789,
+                        "observed_on": "2025-04-27",
+                        "place": "North Aegean Region, Grecia",
+                        "latitude": 39.3387021502,
+                        "longitude": 26.211879218,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/713683477/large.jpg",
+                        "observer": "parnassius"
+                    },
+                    {
+                        "id": 389362447,
+                        "observed_on": "2026-08-07",
+                        "place": "Hasim Can Parki Park Ici Yolu, Kemer, Antalya, TR",
+                        "latitude": 36.5698543429,
+                        "longitude": 30.5593518981,
+                        "photo": "https://static.inaturalist.org/photos/713197360/large.jpg",
+                        "observer": "nephercheres"
+                    },
+                    {
+                        "id": 388848883,
+                        "observed_on": "2026-08-06",
+                        "place": "שפק/האבוקדו, חדרה, ישראל",
+                        "latitude": 32.4172304,
+                        "longitude": 34.9472769997,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/712220012/large.jpg",
+                        "observer": "ohadba"
+                    },
+                    {
+                        "id": 388495033,
+                        "observed_on": "2026-08-05",
+                        "place": "Acre, Israel",
+                        "latitude": 33.0429162977,
+                        "longitude": 35.2642279616,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/711506338/large.jpg",
+                        "observer": "noahm7"
+                    },
+                    {
+                        "id": 388202233,
+                        "observed_on": "2026-08-04",
+                        "place": "Rodos, South Aegean, GR",
+                        "latitude": 36.4059054575,
+                        "longitude": 28.2227223147,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710957090/large.jpg",
+                        "observer": "katecromby"
+                    },
+                    {
+                        "id": 387960484,
+                        "observed_on": "2026-08-03",
+                        "place": "Δημοτική Κοινότητα Μυριναίων, Μύρινα 814 00, Grèce",
+                        "latitude": 39.8696439479,
+                        "longitude": 25.0544379652,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710479389/large.jpg",
+                        "observer": "maxime295"
+                    },
+                    {
+                        "id": 387661474,
+                        "observed_on": "2026-08-02",
+                        "place": "Κοντιας 814 01, Ελλάδα",
+                        "latitude": 39.8643026,
+                        "longitude": 25.1475986,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/709893504/large.jpg",
+                        "observer": "ariaxatze"
+                    },
+                    {
+                        "id": 387123201,
+                        "observed_on": "2026-07-31",
+                        "place": "Lebanon",
+                        "latitude": 34.2938789221,
+                        "longitude": 35.6698990125,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/708858415/large.jpg",
+                        "observer": "sheblindedmewithscience"
+                    },
+                    {
+                        "id": 384520171,
+                        "observed_on": "2026-07-24",
+                        "place": "Orhaneli, Orhaneli̇/Bursa, Türkiye",
+                        "latitude": 39.9019719,
+                        "longitude": 28.989575,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/703886013/large.jpg",
+                        "observer": "aress"
+                    }
+                ]
+            }
+        },
+        "gbif_occurrences": 364,
+        "gbif_occurrences_status": "success",
+        "gbif_records": [
+            {
+                "key": 6235672122,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 37.713798,
+                "longitude": 27.040273
+            },
+            {
+                "key": 6235368346,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 32.877255,
+                "longitude": 35.304947
+            },
+            {
+                "key": 6235458003,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 33.205878,
+                "longitude": 35.762884
+            },
+            {
+                "key": 6273699444,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.279193,
+                "longitude": 27.838278
+            },
+            {
+                "key": 6273990637,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.280236,
+                "longitude": 27.83736
+            },
+            {
+                "key": 6274183818,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 31.719545,
+                "longitude": 34.983881
+            },
+            {
+                "key": 6430957868,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.613647,
+                "longitude": 27.137208
+            },
+            {
+                "key": 6273575862,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.215711,
+                "longitude": 26.157385
+            },
+            {
+                "key": 6352445091,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 37.064631,
+                "longitude": 36.154523
+            },
+            {
+                "key": 6422461670,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.109895,
+                "longitude": 26.094686
+            },
+            {
+                "key": 6422957593,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 37.635197,
+                "longitude": 26.084964
+            },
+            {
+                "key": 6499391458,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 39.901972,
+                "longitude": 28.989575
+            },
+            {
+                "key": 6479687504,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.869644,
+                "longitude": 25.054438
+            },
+            {
+                "key": 6481113420,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.405905,
+                "longitude": 28.222722
+            },
+            {
+                "key": 6481162388,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.864303,
+                "longitude": 25.147599
+            },
+            {
+                "key": 6498411391,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.077777,
+                "longitude": 28.018865
+            },
+            {
+                "key": 6498704708,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 40.497228,
+                "longitude": 25.611475
+            },
+            {
+                "key": 6499474218,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.751167,
+                "longitude": 26.978914
+            },
+            {
+                "key": 6500349134,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.749758,
+                "longitude": 26.977061
+            },
+            {
+                "key": 5108218219,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.02474,
+                "longitude": 26.292833
+            },
+            {
+                "key": 6131621787,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.02474,
+                "longitude": 26.292833
+            },
+            {
+                "key": 5134703542,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 31.896742,
+                "longitude": 35.000086
+            },
+            {
+                "key": 5237885432,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 31.932867,
+                "longitude": 34.962019
+            },
+            {
+                "key": 6452017972,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.017578,
+                "longitude": 26.58269
+            },
+            {
+                "key": 6481043809,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.338702,
+                "longitude": 26.211879
+            },
+            {
+                "key": 5154144802,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.070343,
+                "longitude": 26.354563
+            },
+            {
+                "key": 5238027322,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 32.712618,
+                "longitude": 35.013581
+            },
+            {
+                "key": 5840045026,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.885895,
+                "longitude": 32.330032
+            },
+            {
+                "key": 6441331956,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.812055,
+                "longitude": 27.180658
+            },
+            {
+                "key": 5844786199,
+                "country": "Greece",
+                "locality": "UTM25_35S_0500_4075",
+                "latitude": 36.85482,
+                "longitude": 27.100075
+            },
+            {
+                "key": 5892390260,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 37.778669,
+                "longitude": 26.888506
+            },
+            {
+                "key": 6234690590,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 33.066628,
+                "longitude": 35.24696
+            },
+            {
+                "key": 5036683566,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 36.625487,
+                "longitude": 33.234108
+            },
+            {
+                "key": 4852923704,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 32.77726,
+                "longitude": 35.144676
+            },
+            {
+                "key": 4855329216,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 31.771457,
+                "longitude": 35.207928
+            },
+            {
+                "key": 5008241387,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 37.125836,
+                "longitude": 33.265268
+            },
+            {
+                "key": 4854795475,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 31.74557,
+                "longitude": 35.168193
+            },
+            {
+                "key": 4855391219,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 37.352837,
+                "longitude": 26.565128
+            },
+            {
+                "key": 4867803517,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 32.121461,
+                "longitude": 34.844833
+            },
+            {
+                "key": 4872658653,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.588172,
+                "longitude": 32.942668
+            },
+            {
+                "key": 5864092372,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.720554,
+                "longitude": 32.588055
+            },
+            {
+                "key": 5897415628,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.1378,
+                "longitude": 25.925599
+            },
+            {
+                "key": 4994027364,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 31.570852,
+                "longitude": 34.899981
+            },
+            {
+                "key": 4091624104,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 32.481707,
+                "longitude": 35.473715
+            },
+            {
+                "key": 4162034459,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 32.481195,
+                "longitude": 35.473155
+            },
+            {
+                "key": 4908648860,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 32.71325,
+                "longitude": 35.010736
+            },
+            {
+                "key": 4127307265,
+                "country": "Syrian Arab Republic",
+                "locality": null,
+                "latitude": 34.836315,
+                "longitude": 36.049389
+            },
+            {
+                "key": 4159499033,
+                "country": "Greece",
+                "locality": "Rhodos/Rhodes",
+                "latitude": 36.065086,
+                "longitude": 28.057723
+            },
+            {
+                "key": 4525068036,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 37.755213,
+                "longitude": 26.977236
+            },
+            {
+                "key": 4171965091,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 37.758483,
+                "longitude": 26.977177
+            },
+            {
+                "key": 4438897881,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 37.369567,
+                "longitude": 26.7458
+            },
+            {
+                "key": 4516371549,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 37.857909,
+                "longitude": 27.261015
+            },
+            {
+                "key": 4413701371,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 31.960769,
+                "longitude": 34.812221
+            },
+            {
+                "key": 4461651314,
+                "country": "Greece",
+                "locality": "Rhodos/Rhodes",
+                "latitude": 36.339504,
+                "longitude": 28.196754
+            },
+            {
+                "key": 4500674543,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 32.311999,
+                "longitude": 34.938775
+            },
+            {
+                "key": 4500767118,
+                "country": "Jordan",
+                "locality": null,
+                "latitude": 31.861461,
+                "longitude": 35.945247
+            },
+            {
+                "key": 3455739111,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.188087,
+                "longitude": 26.294036
+            },
+            {
+                "key": 3746974567,
+                "country": "Syrian Arab Republic",
+                "locality": null,
+                "latitude": 35.069148,
+                "longitude": 36.048677
+            },
+            {
+                "key": 3785060721,
+                "country": "Syrian Arab Republic",
+                "locality": null,
+                "latitude": 35.197994,
+                "longitude": 35.955342
+            },
+            {
+                "key": 4977473576,
+                "country": "United Kingdom of Great Britain and Northern Ireland",
+                "locality": "Akrotiri, SBA Police Station",
+                "latitude": 34.6567,
+                "longitude": 32.9305
+            },
+            {
+                "key": 4977473839,
+                "country": "Cyprus",
+                "locality": "Limassol, Molos loc. 1",
+                "latitude": 34.6775,
+                "longitude": 33.0505
+            },
+            {
+                "key": 4977473943,
+                "country": "Cyprus",
+                "locality": "Chlorakas, Melanos",
+                "latitude": 34.7892,
+                "longitude": 32.4097
+            },
+            {
+                "key": 4977473949,
+                "country": "Cyprus",
+                "locality": "Chlorakas, Melanos",
+                "latitude": 34.7894,
+                "longitude": 32.4113
+            },
+            {
+                "key": 4977473965,
+                "country": "Cyprus",
+                "locality": "Kato Polemidia loc. 3",
+                "latitude": 34.6808,
+                "longitude": 33.0077
+            },
+            {
+                "key": 5158817346,
+                "country": "Cyprus",
+                "locality": "Limassol",
+                "latitude": 34.6775,
+                "longitude": 33.0505
+            },
+            {
+                "key": 5158817425,
+                "country": "Cyprus",
+                "locality": "Limassol",
+                "latitude": 34.6808,
+                "longitude": 33.0077
+            },
+            {
+                "key": 5158817444,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.7894,
+                "longitude": 32.4113
+            },
+            {
+                "key": 5158817449,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.7892,
+                "longitude": 32.4097
+            },
+            {
+                "key": 5158817487,
+                "country": "Cyprus",
+                "locality": "Police Station",
+                "latitude": 34.6567,
+                "longitude": 32.9305
+            },
+            {
+                "key": 3772720154,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.173539,
+                "longitude": 26.505412
+            },
+            {
+                "key": 4112126391,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.382853,
+                "longitude": 28.134049
+            },
+            {
+                "key": 4405062367,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.209103,
+                "longitude": 25.898901
+            },
+            {
+                "key": 4524891856,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 38.370979,
+                "longitude": 26.136346
+            },
+            {
+                "key": 4977473562,
+                "country": "Cyprus",
+                "locality": "Pegeia, sea caves, parking, loc. 2",
+                "latitude": 34.8842,
+                "longitude": 32.3335
+            },
+            {
+                "key": 4977473565,
+                "country": "Cyprus",
+                "locality": "Paralimni",
+                "latitude": 35.03886,
+                "longitude": 33.9752
+            },
+            {
+                "key": 4977473574,
+                "country": "Cyprus",
+                "locality": "Skarinou",
+                "latitude": 34.81835,
+                "longitude": 33.35652
+            },
+            {
+                "key": 4977473579,
+                "country": "Cyprus",
+                "locality": "Tekke mosque",
+                "latitude": 34.88544,
+                "longitude": 33.61008
+            },
+            {
+                "key": 4977473580,
+                "country": "Cyprus",
+                "locality": "Tala, Agios Neofytos Monastery",
+                "latitude": 34.846027,
+                "longitude": 32.447846
+            },
+            {
+                "key": 4977473589,
+                "country": "Cyprus",
+                "locality": "Troodos, Pano Platres, Troodos marsh (Almyrolivado)",
+                "latitude": 34.930595,
+                "longitude": 32.902493
+            },
+            {
+                "key": 4977473836,
+                "country": "Cyprus",
+                "locality": "Larnaca Salt Lake, hiking trail",
+                "latitude": 34.91103,
+                "longitude": 33.60121
+            },
+            {
+                "key": 4977473845,
+                "country": "Cyprus",
+                "locality": "Paphos Forest loc. 4",
+                "latitude": 35.067761,
+                "longitude": 32.615137
+            },
+            {
+                "key": 4977473850,
+                "country": "Cyprus",
+                "locality": "Pegeia, Zoo",
+                "latitude": 34.892369,
+                "longitude": 32.340671
+            },
+            {
+                "key": 4977473902,
+                "country": "Cyprus",
+                "locality": "2.5 km S of Kapedes",
+                "latitude": 34.955303,
+                "longitude": 33.234559
+            },
+            {
+                "key": 4977473904,
+                "country": "Cyprus",
+                "locality": "1.2 km W of Panagia Machaira monastery",
+                "latitude": 34.937849,
+                "longitude": 33.176931
+            },
+            {
+                "key": 4977473906,
+                "country": "Cyprus",
+                "locality": "ad Kissonerga",
+                "latitude": 34.833632,
+                "longitude": 32.405394
+            },
+            {
+                "key": 4977473909,
+                "country": "Cyprus",
+                "locality": "2.9 km E of Lysos",
+                "latitude": 35.004479,
+                "longitude": 32.54261
+            },
+            {
+                "key": 4977473912,
+                "country": "Cyprus",
+                "locality": "ad Lempa, plant nursery",
+                "latitude": 34.813211,
+                "longitude": 32.410112
+            },
+            {
+                "key": 4977473922,
+                "country": "Cyprus",
+                "locality": "Akamas Peninsula, Avakas Gorge",
+                "latitude": 34.9976,
+                "longitude": 32.332
+            },
+            {
+                "key": 4977473923,
+                "country": "Cyprus",
+                "locality": "Akamas Peninsula, Avakas Gorge",
+                "latitude": 34.917575,
+                "longitude": 32.332048
+            },
+            {
+                "key": 4977473925,
+                "country": "Cyprus",
+                "locality": "Akamas Peninsula, Lara beach",
+                "latitude": 34.91957,
+                "longitude": 32.32751
+            },
+            {
+                "key": 4977473930,
+                "country": "Cyprus",
+                "locality": "Aradippou dam",
+                "latitude": 34.98306,
+                "longitude": 33.59293
+            },
+            {
+                "key": 4977473931,
+                "country": "United Kingdom of Great Britain and Northern Ireland",
+                "locality": "Akrotiri Marsh",
+                "latitude": 34.63282,
+                "longitude": 32.934037
+            },
+            {
+                "key": 4977473936,
+                "country": "Cyprus",
+                "locality": "Aradippou riverbank",
+                "latitude": 34.98661,
+                "longitude": 33.59135
+            },
+            {
+                "key": 4977473938,
+                "country": "Cyprus",
+                "locality": "Nicosia, Athalassa Park (west)",
+                "latitude": 35.1258,
+                "longitude": 33.38463
+            },
+            {
+                "key": 4977473940,
+                "country": "Cyprus",
+                "locality": "Cedar Valley loc. 1",
+                "latitude": 34.988374,
+                "longitude": 32.677486
+            },
+            {
+                "key": 4977473956,
+                "country": "Cyprus",
+                "locality": "Geroskipou, Rikkos beach",
+                "latitude": 34.7371,
+                "longitude": 32.4426
+            },
+            {
+                "key": 4977473959,
+                "country": "Cyprus",
+                "locality": "Kato Paphos",
+                "latitude": 34.736479,
+                "longitude": 32.435402
+            },
+            {
+                "key": 4977473960,
+                "country": "Cyprus",
+                "locality": "Geroskipou, archaeological ruins",
+                "latitude": 34.753684,
+                "longitude": 32.433916
+            },
+            {
+                "key": 4977473964,
+                "country": "Cyprus",
+                "locality": "Kato Paphos, hotel",
+                "latitude": 34.74958,
+                "longitude": 32.428932
+            },
+            {
+                "key": 5158817305,
+                "country": "Cyprus",
+                "locality": "Larnaka",
+                "latitude": 34.98661,
+                "longitude": 33.59135
+            },
+            {
+                "key": 5158817318,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.81321,
+                "longitude": 32.41011
+            },
+            {
+                "key": 5158817328,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.917576,
+                "longitude": 32.332047
+            },
+            {
+                "key": 5158817338,
+                "country": "Cyprus",
+                "locality": "Larnaka",
+                "latitude": 34.91103,
+                "longitude": 33.60121
+            },
+            {
+                "key": 5158817356,
+                "country": "Cyprus",
+                "locality": "Marsh",
+                "latitude": 34.63282,
+                "longitude": 32.934036
+            },
+            {
+                "key": 5158817364,
+                "country": "Cyprus",
+                "locality": "Nicosia",
+                "latitude": 34.955303,
+                "longitude": 33.23456
+            },
+            {
+                "key": 5158817368,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.74958,
+                "longitude": 32.428932
+            },
+            {
+                "key": 5158817374,
+                "country": "Cyprus",
+                "locality": "Limassol",
+                "latitude": 34.930595,
+                "longitude": 32.902493
+            },
+            {
+                "key": 5158817376,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.753685,
+                "longitude": 32.433914
+            },
+            {
+                "key": 5158817393,
+                "country": "Cyprus",
+                "locality": "Famagusta",
+                "latitude": 35.03886,
+                "longitude": 33.9752
+            },
+            {
+                "key": 5158817397,
+                "country": "Cyprus",
+                "locality": "Larnaka",
+                "latitude": 34.88544,
+                "longitude": 33.61008
+            },
+            {
+                "key": 5158817409,
+                "country": "Cyprus",
+                "locality": "Larnaka",
+                "latitude": 34.98306,
+                "longitude": 33.59293
+            },
+            {
+                "key": 5158817410,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.833633,
+                "longitude": 32.405396
+            },
+            {
+                "key": 5158817421,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.846027,
+                "longitude": 32.447845
+            },
+            {
+                "key": 5158817428,
+                "country": "Cyprus",
+                "locality": "Larnaka",
+                "latitude": 34.81835,
+                "longitude": 33.35652
+            },
+            {
+                "key": 5158817448,
+                "country": "Cyprus",
+                "locality": "Nicosia",
+                "latitude": 34.937847,
+                "longitude": 33.17693
+            },
+            {
+                "key": 5158817458,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.9976,
+                "longitude": 32.332
+            },
+            {
+                "key": 5158817461,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.89237,
+                "longitude": 32.34067
+            },
+            {
+                "key": 5158817463,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.73648,
+                "longitude": 32.435402
+            },
+            {
+                "key": 5158817471,
+                "country": "Cyprus",
+                "locality": "Nicosia",
+                "latitude": 35.1258,
+                "longitude": 33.38463
+            },
+            {
+                "key": 5158817481,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 35.00448,
+                "longitude": 32.54261
+            },
+            {
+                "key": 5158817494,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 35.06776,
+                "longitude": 32.615135
+            },
+            {
+                "key": 5158817495,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.9194,
+                "longitude": 32.3275
+            },
+            {
+                "key": 5158817496,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.988373,
+                "longitude": 32.677486
+            },
+            {
+                "key": 5897199880,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.07084,
+                "longitude": 26.353594
+            },
+            {
+                "key": 3785056073,
+                "country": "Syrian Arab Republic",
+                "locality": null,
+                "latitude": 32.637152,
+                "longitude": 36.744282
+            },
+            {
+                "key": 3859892053,
+                "country": "Syrian Arab Republic",
+                "locality": null,
+                "latitude": 32.63492,
+                "longitude": 36.746365
+            },
+            {
+                "key": 4977473571,
+                "country": "Cyprus",
+                "locality": "Pano Platres",
+                "latitude": 34.8964,
+                "longitude": 32.8677
+            },
+            {
+                "key": 4977473598,
+                "country": "Cyprus",
+                "locality": "Troodos, Almyrolivado",
+                "latitude": 34.9305,
+                "longitude": 32.9026
+            },
+            {
+                "key": 5158817329,
+                "country": "Cyprus",
+                "locality": "Nicosia",
+                "latitude": 34.9305,
+                "longitude": 32.9026
+            },
+            {
+                "key": 5158817488,
+                "country": "Cyprus",
+                "locality": "Limassol",
+                "latitude": 34.8964,
+                "longitude": 32.8677
+            },
+            {
+                "key": 3902908592,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.063675,
+                "longitude": 26.575453
+            },
+            {
+                "key": 3903107235,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.14453,
+                "longitude": 26.405536
+            },
+            {
+                "key": 3985675762,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 36.685349,
+                "longitude": 27.375537
+            },
+            {
+                "key": 4977473945,
+                "country": "Cyprus",
+                "locality": "Chlorakas, hotel env.",
+                "latitude": 34.8034,
+                "longitude": 32.3941
+            },
+            {
+                "key": 5158817445,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.8034,
+                "longitude": 32.3941
+            },
+            {
+                "key": 4977473569,
+                "country": "Cyprus",
+                "locality": "Poli Chrysochous, Polis bus station",
+                "latitude": 35.0335,
+                "longitude": 32.425
+            },
+            {
+                "key": 4977473582,
+                "country": "Cyprus",
+                "locality": "Timi, picnic area",
+                "latitude": 34.7066,
+                "longitude": 32.4962
+            },
+            {
+                "key": 4977473592,
+                "country": "Cyprus",
+                "locality": "Timi, Airport area",
+                "latitude": 34.7056,
+                "longitude": 32.4986
+            },
+            {
+                "key": 4977473957,
+                "country": "Cyprus",
+                "locality": "Timi-Achelia, plant nursery 2",
+                "latitude": 34.7345,
+                "longitude": 32.498
+            },
+            {
+                "key": 5158817304,
+                "country": "Cyprus",
+                "locality": "Tsimouris",
+                "latitude": 34.7345,
+                "longitude": 32.498
+            },
+            {
+                "key": 5158817317,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.7371,
+                "longitude": 32.4426
+            },
+            {
+                "key": 5158817320,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.7056,
+                "longitude": 32.4986
+            },
+            {
+                "key": 5158817403,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.7066,
+                "longitude": 32.4962
+            },
+            {
+                "key": 5158817435,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 35.0335,
+                "longitude": 32.425
+            },
+            {
+                "key": 5158817477,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.8842,
+                "longitude": 32.3335
+            },
+            {
+                "key": 3018003986,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.43151,
+                "longitude": 28.224389
+            },
+            {
+                "key": 3039326572,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.168157,
+                "longitude": 26.501841
+            },
+            {
+                "key": 3044869818,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.192927,
+                "longitude": 26.401072
+            },
+            {
+                "key": 3090660738,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 37.055975,
+                "longitude": 28.328498
+            },
+            {
+                "key": 3117813210,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.172212,
+                "longitude": 26.504305
+            },
+            {
+                "key": 3961096404,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 36.863726,
+                "longitude": 28.243412
+            },
+            {
+                "key": 6499212684,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.254193,
+                "longitude": 27.931305
+            },
+            {
+                "key": 3335074581,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.176017,
+                "longitude": 26.505121
+            },
+            {
+                "key": 3337384212,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 37.710719,
+                "longitude": 26.681971
+            },
+            {
+                "key": 3383876183,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 32.638773,
+                "longitude": 35.114162
+            },
+            {
+                "key": 2557735985,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 31.796835,
+                "longitude": 35.220225
+            },
+            {
+                "key": 2818532790,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.190383,
+                "longitude": 26.446967
+            },
+            {
+                "key": 3384048957,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.880505,
+                "longitude": 27.271656
+            },
+            {
+                "key": 6499410547,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.590062,
+                "longitude": 27.167627
+            },
+            {
+                "key": 2856666502,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.215305,
+                "longitude": 26.170797
+            },
+            {
+                "key": 3039396720,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 37.898382,
+                "longitude": 27.276089
+            },
+            {
+                "key": 3008490980,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.375009,
+                "longitude": 28.233033
+            },
+            {
+                "key": 2992884424,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.775,
+                "longitude": 32.571
+            },
+            {
+                "key": 2422859453,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 39.174139,
+                "longitude": 26.504467
+            },
+            {
+                "key": 4977473961,
+                "country": "Cyprus",
+                "locality": "Kato Paphos, Limnaria river",
+                "latitude": 34.76443,
+                "longitude": 32.44022
+            },
+            {
+                "key": 4977473968,
+                "country": "Cyprus",
+                "locality": "Kato Paphos, Palaipafou Avenue",
+                "latitude": 34.7591,
+                "longitude": 32.4236
+            },
+            {
+                "key": 5158817341,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.7591,
+                "longitude": 32.4236
+            },
+            {
+                "key": 5158817441,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.76443,
+                "longitude": 32.44022
+            },
+            {
+                "key": 3039241765,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 37.165319,
+                "longitude": 27.549631
+            },
+            {
+                "key": 3005107562,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.918,
+                "longitude": 32.334
+            },
+            {
+                "key": 3005112556,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.89,
+                "longitude": 32.326
+            },
+            {
+                "key": 3005233583,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.918,
+                "longitude": 32.334
+            },
+            {
+                "key": 3902062511,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.915,
+                "longitude": 32.328
+            },
+            {
+                "key": 3902116522,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.915,
+                "longitude": 32.328
+            },
+            {
+                "key": 4055772361,
+                "country": "Israel",
+                "locality": "The Israel Museum - Shrine of the Book",
+                "latitude": 31.7726,
+                "longitude": 35.203
+            },
+            {
+                "key": 5007841422,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 37.025397,
+                "longitude": 36.06742
+            },
+            {
+                "key": 3005107563,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.895,
+                "longitude": 32.331
+            },
+            {
+                "key": 3005113575,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.895,
+                "longitude": 32.331
+            },
+            {
+                "key": 3005128577,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.895,
+                "longitude": 32.331
+            },
+            {
+                "key": 3005186575,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.895,
+                "longitude": 32.331
+            },
+            {
+                "key": 3005218581,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.895,
+                "longitude": 32.331
+            },
+            {
+                "key": 3005253563,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.895,
+                "longitude": 32.331
+            },
+            {
+                "key": 3005254532,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.895,
+                "longitude": 32.331
+            },
+            {
+                "key": 3039191739,
+                "country": "Lebanon",
+                "locality": null,
+                "latitude": 33.7073,
+                "longitude": 35.7061
+            },
+            {
+                "key": 3005240324,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.7422,
+                "longitude": 33.08826
+            },
+            {
+                "key": 3005129589,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.895,
+                "longitude": 33.3311
+            },
+            {
+                "key": 3005223569,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.895,
+                "longitude": 33.3311
+            },
+            {
+                "key": 3039153723,
+                "country": "Cyprus",
+                "locality": null,
+                "latitude": 34.8317,
+                "longitude": 33.3914
+            },
+            {
+                "key": 2311611913,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 33.127158,
+                "longitude": 35.774921
+            },
+            {
+                "key": 6187602429,
+                "country": "Greece",
+                "locality": "Ipsilometopo",
+                "latitude": 39.32012,
+                "longitude": 26.24461
+            },
+            {
+                "key": 6187602434,
+                "country": "Greece",
+                "locality": "3 km N of Kalloni",
+                "latitude": 39.26158,
+                "longitude": 26.2073
+            },
+            {
+                "key": 6187602439,
+                "country": "Greece",
+                "locality": "Ligona Valley",
+                "latitude": 39.32734,
+                "longitude": 26.21009
+            },
+            {
+                "key": 6187602461,
+                "country": "Greece",
+                "locality": "ACyclades (Naxos) Skoutarou",
+                "latitude": 39.31839,
+                "longitude": 26.14776
+            },
+            {
+                "key": 6187602463,
+                "country": "Greece",
+                "locality": "Mt. Olympos",
+                "latitude": 39.06958,
+                "longitude": 26.34976
+            },
+            {
+                "key": 6187602465,
+                "country": "Greece",
+                "locality": "rd. Sykaminia-Vigla",
+                "latitude": 39.35468,
+                "longitude": 26.30483
+            },
+            {
+                "key": 4865840519,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 37.11667,
+                "longitude": 36.56667
+            },
+            {
+                "key": 4953944462,
+                "country": "Cyprus",
+                "locality": "Pegeia",
+                "latitude": 34.8865,
+                "longitude": 32.383
+            },
+            {
+                "key": 4977473633,
+                "country": "Cyprus",
+                "locality": "Pegeia, Oktovriou",
+                "latitude": 34.8865,
+                "longitude": 32.383
+            },
+            {
+                "key": 4865708181,
+                "country": "Greece",
+                "locality": null,
+                "latitude": 36.3409,
+                "longitude": 28.1997
+            },
+            {
+                "key": 4846959086,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 31.778291,
+                "longitude": 35.181786
+            },
+            {
+                "key": 2832571302,
+                "country": "Greece",
+                "locality": "Rhodos/Rhodes",
+                "latitude": 36.42256,
+                "longitude": 28.154944
+            },
+            {
+                "key": 2838925260,
+                "country": "Greece",
+                "locality": "Rhodos/Rhodes",
+                "latitude": 36.422595,
+                "longitude": 28.15577
+            },
+            {
+                "key": 2651355123,
+                "country": "Türkiye",
+                "locality": "Kemer",
+                "latitude": 36.503666,
+                "longitude": 30.522882
+            },
+            {
+                "key": 3881346507,
+                "country": "Israel",
+                "locality": null,
+                "latitude": 31.778291,
+                "longitude": 35.181786
+            },
+            {
+                "key": 4953944304,
+                "country": null,
+                "locality": "Koilani",
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "key": 4953944328,
+                "country": "Cyprus",
+                "locality": "Pissouri",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4953944352,
+                "country": "Cyprus",
+                "locality": "Pissouri",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4953944356,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4953944364,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4953944388,
+                "country": "Cyprus",
+                "locality": "Kato Pafos",
+                "latitude": 34.7606,
+                "longitude": 32.4058
+            },
+            {
+                "key": 4953944398,
+                "country": "Cyprus",
+                "locality": "Pissouri",
+                "latitude": 34.6636,
+                "longitude": 32.6892
+            },
+            {
+                "key": 4953944424,
+                "country": "Cyprus",
+                "locality": "Lara",
+                "latitude": 34.9118,
+                "longitude": 32.3265
+            },
+            {
+                "key": 4953944470,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4953944483,
+                "country": "Cyprus",
+                "locality": "Agia Mavri",
+                "latitude": 34.8461,
+                "longitude": 32.8687
+            },
+            {
+                "key": 4953944499,
+                "country": null,
+                "locality": "Koilani",
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "key": 4953944514,
+                "country": "Cyprus",
+                "locality": "Kato Pafos",
+                "latitude": 34.7606,
+                "longitude": 32.4058
+            },
+            {
+                "key": 4953944552,
+                "country": "Cyprus",
+                "locality": "Pissouri",
+                "latitude": 34.6636,
+                "longitude": 32.6892
+            },
+            {
+                "key": 4953944558,
+                "country": "Cyprus",
+                "locality": "Pegeia",
+                "latitude": 34.8881,
+                "longitude": 32.3804
+            },
+            {
+                "key": 4953944585,
+                "country": "Cyprus",
+                "locality": "Agia Mavri",
+                "latitude": 34.8461,
+                "longitude": 32.8687
+            },
+            {
+                "key": 4953944589,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4953944591,
+                "country": "Cyprus",
+                "locality": "Lara",
+                "latitude": 34.9118,
+                "longitude": 32.3265
+            },
+            {
+                "key": 4977473636,
+                "country": "Cyprus",
+                "locality": "Kato Pafos, Faros",
+                "latitude": 34.7606,
+                "longitude": 32.4058
+            },
+            {
+                "key": 4953944308,
+                "country": "Cyprus",
+                "locality": "Pissouri",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4953944320,
+                "country": "Cyprus",
+                "locality": "Lara",
+                "latitude": 34.9118,
+                "longitude": 32.3265
+            },
+            {
+                "key": 4953944332,
+                "country": "Cyprus",
+                "locality": "Pissouri",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4953944353,
+                "country": "Cyprus",
+                "locality": "Pissouri",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4953944379,
+                "country": "Cyprus",
+                "locality": "Lara",
+                "latitude": 34.9118,
+                "longitude": 32.3265
+            },
+            {
+                "key": 4953944434,
+                "country": null,
+                "locality": "Koilani",
+                "latitude": null,
+                "longitude": null
+            },
+            {
+                "key": 4953944453,
+                "country": "Cyprus",
+                "locality": "Pissouri",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4953944461,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4953944515,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4953944524,
+                "country": "Cyprus",
+                "locality": "Lara",
+                "latitude": 34.9118,
+                "longitude": 32.3265
+            },
+            {
+                "key": 4953944554,
+                "country": "Cyprus",
+                "locality": "Pissouri",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4953944564,
+                "country": "Cyprus",
+                "locality": "Agia Mavri",
+                "latitude": 34.8461,
+                "longitude": 32.8687
+            },
+            {
+                "key": 4977473628,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4977473641,
+                "country": "Cyprus",
+                "locality": "Lara, White River beach",
+                "latitude": 34.9118,
+                "longitude": 32.3265
+            },
+            {
+                "key": 4977473643,
+                "country": "Cyprus",
+                "locality": "Lara, White River beach",
+                "latitude": 34.9118,
+                "longitude": 32.3265
+            },
+            {
+                "key": 4977473645,
+                "country": "Cyprus",
+                "locality": "Lara, White River beach",
+                "latitude": 34.9118,
+                "longitude": 32.3265
+            },
+            {
+                "key": 4977473650,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4977473667,
+                "country": "Cyprus",
+                "locality": "Agia Mavri",
+                "latitude": 34.8461,
+                "longitude": 32.8687
+            },
+            {
+                "key": 4977473693,
+                "country": "Cyprus",
+                "locality": "Pissouri, Trachonas 1",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4977473695,
+                "country": "Cyprus",
+                "locality": "Pissouri, Trachonas 1",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4977473699,
+                "country": "Cyprus",
+                "locality": "Pissouri, Trachonas 1",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4977473702,
+                "country": "Cyprus",
+                "locality": "Pissouri, Trachonas 1",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4977473708,
+                "country": "Cyprus",
+                "locality": "Pissouri, Trachonas 1",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4977473791,
+                "country": "Cyprus",
+                "locality": "Koilani",
+                "latitude": 34.85,
+                "longitude": 32.8509
+            },
+            {
+                "key": 4977473639,
+                "country": "Cyprus",
+                "locality": "Lara, White River beach",
+                "latitude": 34.9118,
+                "longitude": 32.3265
+            },
+            {
+                "key": 4977473642,
+                "country": "Cyprus",
+                "locality": "Lara, White River beach",
+                "latitude": 34.9118,
+                "longitude": 32.3265
+            },
+            {
+                "key": 4977473647,
+                "country": "Cyprus",
+                "locality": "Koilani",
+                "latitude": 34.85,
+                "longitude": 32.8509
+            },
+            {
+                "key": 4977473651,
+                "country": "Cyprus",
+                "locality": "Agia Mavri",
+                "latitude": 34.8461,
+                "longitude": 32.8687
+            },
+            {
+                "key": 4977473654,
+                "country": "Cyprus",
+                "locality": "Koilani",
+                "latitude": 34.85,
+                "longitude": 32.8509
+            },
+            {
+                "key": 4977473657,
+                "country": "Cyprus",
+                "locality": "Agia Mavri",
+                "latitude": 34.8461,
+                "longitude": 32.8687
+            },
+            {
+                "key": 4977473661,
+                "country": "Cyprus",
+                "locality": "Pissouri, Trachonas 1",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4977473663,
+                "country": "Cyprus",
+                "locality": "Pissouri, Trachonas 2",
+                "latitude": 34.6636,
+                "longitude": 32.6892
+            },
+            {
+                "key": 4977473664,
+                "country": "Cyprus",
+                "locality": "Pissouri, Trachonas 1",
+                "latitude": 34.6472,
+                "longitude": 32.6951
+            },
+            {
+                "key": 4977473669,
+                "country": "Cyprus",
+                "locality": "Pissouri, Trachonas 2",
+                "latitude": 34.6636,
+                "longitude": 32.6892
+            },
+            {
+                "key": 4977473672,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4977473675,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4977473678,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4977473680,
+                "country": "Cyprus",
+                "locality": "Fasoula",
+                "latitude": 34.7263,
+                "longitude": 33.0364
+            },
+            {
+                "key": 4977473684,
+                "country": "Cyprus",
+                "locality": "Kato Pafos, Faros",
+                "latitude": 34.7606,
+                "longitude": 32.4058
+            },
+            {
+                "key": 4977473691,
+                "country": "Cyprus",
+                "locality": "Pegeia, Kampinariou",
+                "latitude": 34.8881,
+                "longitude": 32.3804
+            },
+            {
+                "key": 4977473559,
+                "country": "Cyprus",
+                "locality": "Paphos-Lempa beach area loc. 1",
+                "latitude": 34.79964,
+                "longitude": 32.39314
+            },
+            {
+                "key": 4977473835,
+                "country": "Cyprus",
+                "locality": "Lempa, apartments",
+                "latitude": 34.8042,
+                "longitude": 32.40078
+            },
+            {
+                "key": 4977473847,
+                "country": "Cyprus",
+                "locality": "Panagia-Cedar Valley rd. loc. 1",
+                "latitude": 34.92718,
+                "longitude": 32.64728
+            },
+            {
+                "key": 4977473917,
+                "country": "Cyprus",
+                "locality": "Tala, Agios Neofytos Monastery",
+                "latitude": 34.84485,
+                "longitude": 32.44509
+            },
+            {
+                "key": 4977473918,
+                "country": "Cyprus",
+                "locality": "Akamas Peninsula, Aphrodite's Baths area",
+                "latitude": 35.06008,
+                "longitude": 32.32999
+            },
+            {
+                "key": 4977473920,
+                "country": "Cyprus",
+                "locality": "Akamas Peninsula, Bath's of Aphrodite loc. 2",
+                "latitude": 35.05668,
+                "longitude": 32.34433
+            },
+            {
+                "key": 4977473928,
+                "country": "Cyprus",
+                "locality": "Akamas Peninsula, Avakas Gorge mouth, Lara Beach",
+                "latitude": 34.91847,
+                "longitude": 32.32871
+            },
+            {
+                "key": 4977473937,
+                "country": "Cyprus",
+                "locality": "Akamas Peninsula, Cape Drepano",
+                "latitude": 34.90024,
+                "longitude": 32.31903
+            },
+            {
+                "key": 4977473941,
+                "country": "Cyprus",
+                "locality": "Cedar Valley",
+                "latitude": 34.99503,
+                "longitude": 32.68732
+            },
+            {
+                "key": 4977473948,
+                "country": "Cyprus",
+                "locality": "Diarizos river valley, 1 km N of Kidasi",
+                "latitude": 34.81594,
+                "longitude": 32.71654
+            },
+            {
+                "key": 4977473952,
+                "country": "Cyprus",
+                "locality": "Diarizos river valley, ad. Nikokleia",
+                "latitude": 34.73005,
+                "longitude": 32.58394
+            },
+            {
+                "key": 5158817309,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.79964,
+                "longitude": 32.39314
+            },
+            {
+                "key": 5158817327,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.73005,
+                "longitude": 32.58394
+            },
+            {
+                "key": 5158817348,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.84485,
+                "longitude": 32.44509
+            },
+            {
+                "key": 5158817359,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 35.06008,
+                "longitude": 32.32999
+            },
+            {
+                "key": 5158817365,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.90024,
+                "longitude": 32.31903
+            },
+            {
+                "key": 5158817388,
+                "country": "Cyprus",
+                "locality": "Nicosia",
+                "latitude": 34.99503,
+                "longitude": 32.68732
+            },
+            {
+                "key": 5158817418,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.81594,
+                "longitude": 32.71654
+            },
+            {
+                "key": 5158817447,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.91847,
+                "longitude": 32.32871
+            },
+            {
+                "key": 5158817479,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.92718,
+                "longitude": 32.64728
+            },
+            {
+                "key": 5158817484,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 35.05668,
+                "longitude": 32.34433
+            },
+            {
+                "key": 5158817493,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.8042,
+                "longitude": 32.40078
+            },
+            {
+                "key": 5158817498,
+                "country": "Cyprus",
+                "locality": "Paphos",
+                "latitude": 34.8042,
+                "longitude": 32.40078
+            },
+            {
+                "key": 2651355329,
+                "country": "Türkiye",
+                "locality": "Antalya",
+                "latitude": 36.883335,
+                "longitude": 30.7
+            },
+            {
+                "key": 4865604377,
+                "country": "Türkiye",
+                "locality": null,
+                "latitude": 40.6,
+                "longitude": 31.63333
+            },
+            {
+                "key": 4953944540,
+                "country": "Cyprus",
+                "locality": "Akrotiri",
+                "latitude": 34.5962,
+                "longitude": 33.0073
+            },
+            {
+                "key": 4977473703,
+                "country": "United Kingdom of Great Britain and Northern Ireland",
+                "locality": "Akrotiri, Lady's Mile beach",
+                "latitude": 34.5962,
+                "longitude": 33.0073
+            },
+            {
+                "key": 865163321,
+                "country": "Greece",
+                "locality": "Rhodes, Kiotari, Hotel Ekaterini",
+                "latitude": 36.04372,
+                "longitude": 27.95138
+            },
+            {
+                "key": 865163339,
+                "country": "Greece",
+                "locality": "Rhodes, Kiotari, Hotel Ekaterini",
+                "latitude": 36.04372,
+                "longitude": 27.95138
+            },
+            {
+                "key": 865163358,
+                "country": "Greece",
+                "locality": "Rhodes, Kiotari, Hotel Ekaterini",
+                "latitude": 36.04372,
+                "longitude": 27.95138
+            },
+            {
+                "key": 1213762484,
+                "country": "Greece",
+                "locality": "Kiotari-Asklipio rd.",
+                "latitude": 36.05,
+                "longitude": 27.93333
+            },
+            {
+                "key": 3050821524,
+                "country": "Greece",
+                "locality": "Rhodes, Kiotari, env. Hotel Ekaterini",
+                "latitude": 36.04775,
+                "longitude": 27.94882
+            },
+            {
+                "key": 4953944305,
+                "country": "Cyprus",
+                "locality": "Skoulli",
+                "latitude": 34.9791,
+                "longitude": 32.4568
+            },
+            {
+                "key": 4977473655,
+                "country": "Cyprus",
+                "locality": "Skoulli river",
+                "latitude": 34.9791,
+                "longitude": 32.4568
+            },
+            {
+                "key": 1211191505,
+                "country": "Greece",
+                "locality": "West Crete, 12 km east of Georgioupoli",
+                "latitude": 35.36075,
+                "longitude": 24.39471
+            },
+            {
+                "key": 4953944303,
+                "country": "Cyprus",
+                "locality": "Lofou",
+                "latitude": 34.8175,
+                "longitude": 32.8751
+            },
+            {
+                "key": 4953944392,
+                "country": "Cyprus",
+                "locality": "Skoulli",
+                "latitude": 34.9791,
+                "longitude": 32.4568
+            },
+            {
+                "key": 4953944597,
+                "country": "Cyprus",
+                "locality": "Skoulli",
+                "latitude": 34.9791,
+                "longitude": 32.4568
+            }
+        ],
+        "algeria_occurrences": 0,
+        "algeria_records": [],
+        "gbif_algeria_status": "success"
+    },
+    "biology": {},
+    "ecology": {},
+    "publications": [],
+    "images": [
+        {
+            "source": "personal",
+            "url": "images/Camponotus_sanctus/image164.jpg",
+            "caption": "ouvrière de camponotus sanctus"
+        },
+        {
+            "source": "personal",
+            "url": "images/Camponotus_sanctus/image169.jpg",
+            "caption": "tete"
+        },
+        {
+            "source": "personal",
+            "url": "images/Camponotus_sanctus/image167.jpg",
+            "caption": "thorax"
+        },
+        {
+            "source": "personal",
+            "url": "images/Camponotus_sanctus/image173.jpg",
+            "caption": "abdomen"
+        }
+    ],
+    "references": [],
+    "sources": {
+        "GBIF": {
+            "usageKey": 1312899,
+            "scientificName": "Camponotus sanctus Forel, 1904",
+            "canonicalName": "Camponotus sanctus",
+            "rank": "SPECIES",
+            "status": "ACCEPTED",
+            "confidence": 99,
+            "matchType": "EXACT",
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "order": "Hymenoptera",
+            "family": "Formicidae",
+            "genus": "Camponotus",
+            "species": "Camponotus sanctus",
+            "kingdomKey": 1,
+            "phylumKey": 54,
+            "classKey": 216,
+            "orderKey": 1457,
+            "familyKey": 4342,
+            "genusKey": 1312361,
+            "speciesKey": 1312899,
+            "class": "Insecta"
+        },
+        "Catalogue of Life": {
+            "usage": {
+                "id": "5WWKM",
+                "name": "Camponotus (Tanaemyrmex) sanctus",
+                "authorship": "Forel, 1904",
+                "rank": "species",
+                "code": "zoological",
+                "status": "accepted",
+                "canonicalId": 1497991,
+                "namesIndexId": 1497991,
+                "namesIndexMatchType": "none",
+                "sectorKey": 66564,
+                "classification": [
+                    {
+                        "id": "CLC7B",
+                        "name": "Camponotus (Tanaemyrmex)",
+                        "authorship": "Ashmead, 1905",
+                        "rank": "subgenus",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 1496577,
+                        "namesIndexId": 1496577,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Camponotus (Tanaemyrmex) Ashmead, 1905",
+                        "labelHtml": "<i>Camponotus (Tanaemyrmex)</i> Ashmead, 1905",
+                        "parentId": "3GGD"
+                    },
+                    {
+                        "id": "3GGD",
+                        "name": "Camponotus",
+                        "authorship": "Mayr, 1861",
+                        "rank": "genus",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 1493258,
+                        "namesIndexId": 1493258,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Camponotus Mayr, 1861",
+                        "labelHtml": "<i>Camponotus</i> Mayr, 1861",
+                        "parentId": "CLBGY"
+                    },
+                    {
+                        "id": "CLBGY",
+                        "name": "Camponotini",
+                        "authorship": "Forel, 1878",
+                        "rank": "tribe",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 1493118,
+                        "namesIndexId": 1493118,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Camponotini Forel, 1878",
+                        "labelHtml": "Camponotini Forel, 1878",
+                        "parentId": "CLWPD"
+                    },
+                    {
+                        "id": "CLWPD",
+                        "name": "Formicinae",
+                        "authorship": "Latreille, 1802",
+                        "rank": "subfamily",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 3721498,
+                        "namesIndexId": 3721498,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Formicinae Latreille, 1802",
+                        "labelHtml": "Formicinae Latreille, 1802",
+                        "parentId": "CLRKP"
+                    },
+                    {
+                        "id": "CLRKP",
+                        "name": "Formicidae",
+                        "authorship": "Latreille, 1802",
+                        "rank": "family",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 10726,
+                        "namesIndexId": 10726,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Formicidae Latreille, 1802",
+                        "labelHtml": "Formicidae Latreille, 1802",
+                        "parentId": "VGRS7"
+                    },
+                    {
+                        "id": "VGRS7",
+                        "name": "Formicoidea",
+                        "authorship": "Latreille, 1809",
+                        "rank": "superfamily",
+                        "status": "accepted",
+                        "canonicalId": 3722132,
+                        "namesIndexId": 3722132,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Formicoidea Latreille, 1809",
+                        "labelHtml": "Formicoidea Latreille, 1809",
+                        "parentId": "KZMNP"
+                    },
+                    {
+                        "id": "KZMNP",
+                        "name": "Aculeata",
+                        "rank": "infraorder",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 172568,
+                        "namesIndexId": 172568,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Aculeata",
+                        "labelHtml": "Aculeata",
+                        "parentId": "KZPW7"
+                    },
+                    {
+                        "id": "KZPW7",
+                        "name": "Apocrita",
+                        "rank": "suborder",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 710972,
+                        "namesIndexId": 710972,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Apocrita",
+                        "labelHtml": "Apocrita",
+                        "parentId": "HYM"
+                    },
+                    {
+                        "id": "HYM",
+                        "name": "Hymenoptera",
+                        "rank": "order",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 17368,
+                        "namesIndexId": 17368,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Hymenoptera",
+                        "labelHtml": "Hymenoptera",
+                        "parentId": "H6"
+                    },
+                    {
+                        "id": "H6",
+                        "name": "Insecta",
+                        "rank": "class",
+                        "status": "accepted",
+                        "canonicalId": 17393,
+                        "namesIndexId": 17393,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Insecta",
+                        "labelHtml": "Insecta",
+                        "parentId": "L2655"
+                    },
+                    {
+                        "id": "L2655",
+                        "name": "Hexapoda",
+                        "rank": "subphylum",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 17333,
+                        "namesIndexId": 17333,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Hexapoda",
+                        "labelHtml": "Hexapoda",
+                        "parentId": "RT"
+                    },
+                    {
+                        "id": "RT",
+                        "name": "Arthropoda",
+                        "rank": "phylum",
+                        "status": "accepted",
+                        "canonicalId": 9289,
+                        "namesIndexId": 9289,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Arthropoda",
+                        "labelHtml": "Arthropoda",
+                        "parentId": "N"
+                    },
+                    {
+                        "id": "N",
+                        "name": "Animalia",
+                        "rank": "kingdom",
+                        "status": "accepted",
+                        "canonicalId": 9237,
+                        "namesIndexId": 9237,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Animalia",
+                        "labelHtml": "Animalia",
+                        "parentId": "CS5HF"
+                    },
+                    {
+                        "id": "CS5HF",
+                        "name": "Eukaryota",
+                        "authorship": "(Chatton, 1925) Whittaker & Margulis, 1978",
+                        "rank": "domain",
+                        "status": "accepted",
+                        "canonicalId": 3444548,
+                        "namesIndexId": 3444548,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Eukaryota (Chatton, 1925) Whittaker & Margulis, 1978",
+                        "labelHtml": "Eukaryota (Chatton, 1925) Whittaker & Margulis, 1978"
+                    }
+                ],
+                "canonical": true,
+                "label": "Camponotus (Tanaemyrmex) sanctus Forel, 1904",
+                "labelHtml": "<i>Camponotus (Tanaemyrmex) sanctus</i> Forel, 1904",
+                "parentId": "CLC7B"
+            },
+            "sectorKey": 66564,
+            "type": "variant",
+            "original": {
+                "name": "Camponotus sanctus",
+                "status": "accepted",
+                "canonical": true,
+                "label": "Camponotus sanctus",
+                "labelHtml": "Camponotus sanctus"
+            },
+            "issues": {},
+            "id": "5WWKM",
+            "match": true
+        },
+        "iNaturalist": {
+            "taxon_id": 544296,
+            "observations_count": 390,
+            "default_photo": "https://static.inaturalist.org/photos/74456802/medium.jpg",
+            "observations": [
+                {
+                    "id": 396049153,
+                    "observed_on": "2026-08-31",
+                    "place": "Mazotos, Larnaca, CY",
+                    "latitude": 34.807995,
+                    "longitude": 33.4904033333,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726267927/large.jpg",
+                    "observer": "erlkonig"
+                },
+                {
+                    "id": 395278870,
+                    "observed_on": "2026-08-28",
+                    "place": "שפק/האבוקדו, חדרה, ישראל",
+                    "latitude": 32.4172768,
+                    "longitude": 34.9473375997,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724761348/large.jpg",
+                    "observer": "ohadba"
+                },
+                {
+                    "id": 394102706,
+                    "observed_on": "2016-09-12",
+                    "place": "Jerusalem, Israel",
+                    "latitude": 31.7782907998,
+                    "longitude": 35.1817859768,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722445174/large.jpg",
+                    "observer": "drorf"
+                },
+                {
+                    "id": 393499563,
+                    "observed_on": "2026-08-22",
+                    "place": "Lardos, South Aegean, GR",
+                    "latitude": 36.0777767834,
+                    "longitude": 28.0188652578,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721266605/large.jpg",
+                    "observer": "lolosvk"
+                },
+                {
+                    "id": 392873705,
+                    "observed_on": "2026-08-19",
+                    "place": "QX2H+P4, Onia 853 01, Greece",
+                    "latitude": 36.7511666667,
+                    "longitude": 26.9789138889,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720045697/large.jpg",
+                    "observer": "benjigloag"
+                },
+                {
+                    "id": 392705542,
+                    "observed_on": "2026-08-19",
+                    "place": "XX4C+HM, Κάλυμνος 852 00, Ελλάδα",
+                    "latitude": 36.9551877004,
+                    "longitude": 26.9699224457,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719712265/large.jpg",
+                    "observer": "giannicc"
+                },
+                {
+                    "id": 392599206,
+                    "observed_on": "2026-08-18",
+                    "place": "QX2H+P4, Onia 853 01, Greece",
+                    "latitude": 36.7497583333,
+                    "longitude": 26.9770611111,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719511112/large.jpg",
+                    "observer": "benjigloag"
+                },
+                {
+                    "id": 392415237,
+                    "observed_on": "2026-08-17",
+                    "place": "Rishon LeZion, Israel",
+                    "latitude": 31.9730750141,
+                    "longitude": 34.8020193471,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719145075/large.jpg",
+                    "observer": "onnkar"
+                },
+                {
+                    "id": 392168141,
+                    "observed_on": "2026-08-17",
+                    "place": "Haifa, IL",
+                    "latitude": 32.424949487,
+                    "longitude": 34.8818576708,
+                    "photo": "https://static.inaturalist.org/photos/718662314/large.jpg",
+                    "observer": "orshitrit"
+                },
+                {
+                    "id": 391120525,
+                    "observed_on": "2026-08-14",
+                    "place": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/716631895/large.jpg",
+                    "observer": "margarita97800"
+                },
+                {
+                    "id": 390225405,
+                    "observed_on": "2026-08-11",
+                    "place": "Therma, Eastern Macedonia and Thrace, GR",
+                    "latitude": 40.4972283333,
+                    "longitude": 25.611475,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/714886562/large.jpg",
+                    "observer": "heidi1528"
+                },
+                {
+                    "id": 389616789,
+                    "observed_on": "2025-04-27",
+                    "place": "North Aegean Region, Grecia",
+                    "latitude": 39.3387021502,
+                    "longitude": 26.211879218,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/713683477/large.jpg",
+                    "observer": "parnassius"
+                },
+                {
+                    "id": 389362447,
+                    "observed_on": "2026-08-07",
+                    "place": "Hasim Can Parki Park Ici Yolu, Kemer, Antalya, TR",
+                    "latitude": 36.5698543429,
+                    "longitude": 30.5593518981,
+                    "photo": "https://static.inaturalist.org/photos/713197360/large.jpg",
+                    "observer": "nephercheres"
+                },
+                {
+                    "id": 388848883,
+                    "observed_on": "2026-08-06",
+                    "place": "שפק/האבוקדו, חדרה, ישראל",
+                    "latitude": 32.4172304,
+                    "longitude": 34.9472769997,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/712220012/large.jpg",
+                    "observer": "ohadba"
+                },
+                {
+                    "id": 388495033,
+                    "observed_on": "2026-08-05",
+                    "place": "Acre, Israel",
+                    "latitude": 33.0429162977,
+                    "longitude": 35.2642279616,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/711506338/large.jpg",
+                    "observer": "noahm7"
+                },
+                {
+                    "id": 388202233,
+                    "observed_on": "2026-08-04",
+                    "place": "Rodos, South Aegean, GR",
+                    "latitude": 36.4059054575,
+                    "longitude": 28.2227223147,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710957090/large.jpg",
+                    "observer": "katecromby"
+                },
+                {
+                    "id": 387960484,
+                    "observed_on": "2026-08-03",
+                    "place": "Δημοτική Κοινότητα Μυριναίων, Μύρινα 814 00, Grèce",
+                    "latitude": 39.8696439479,
+                    "longitude": 25.0544379652,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710479389/large.jpg",
+                    "observer": "maxime295"
+                },
+                {
+                    "id": 387661474,
+                    "observed_on": "2026-08-02",
+                    "place": "Κοντιας 814 01, Ελλάδα",
+                    "latitude": 39.8643026,
+                    "longitude": 25.1475986,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/709893504/large.jpg",
+                    "observer": "ariaxatze"
+                },
+                {
+                    "id": 387123201,
+                    "observed_on": "2026-07-31",
+                    "place": "Lebanon",
+                    "latitude": 34.2938789221,
+                    "longitude": 35.6698990125,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/708858415/large.jpg",
+                    "observer": "sheblindedmewithscience"
+                },
+                {
+                    "id": 384520171,
+                    "observed_on": "2026-07-24",
+                    "place": "Orhaneli, Orhaneli̇/Bursa, Türkiye",
+                    "latitude": 39.9019719,
+                    "longitude": 28.989575,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/703886013/large.jpg",
+                    "observer": "aress"
+                }
+            ]
+        }
+    },
+    "metadata": {}
+}

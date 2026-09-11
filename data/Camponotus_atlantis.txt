@@ -1,0 +1,57 @@
+============================================================
+Camponotus atlantis
+============================================================
+
+TAXONOMIE
+----------
+Nom scientifique : Camponotus atlantis
+Nom scientifique complet : Camponotus (Tanaemyrmex) atlantis Forel, 1890
+Nom canonique : Camponotus atlantis
+Règne : Animalia
+Embranchement : Arthropoda
+Classe : Insecta
+Ordre : Hymenoptera
+Famille : Formicidae
+Genre : Camponotus
+Sous-genre : Camponotus (Tanaemyrmex)
+Espèce : Camponotus (Tanaemyrmex) atlantis
+Statut : accepted
+Auteur : Forel, 1890
+
+DISTRIBUTION
+------------
+Nombre de pays : 8
+
+Pays :
+- Algeria
+- Iran (Islamic Republic of)
+- Morocco
+- Oman
+- Saudi Arabia
+- Spain
+- Tunisia
+- Yemen
+
+Occurrences en Algérie : 12
+IMAGES
+------
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/614766225/large.jpg
+  Observation ID : 338094342
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/480198429/large.jpeg
+  Observation ID : 267223284
+- Source : iNaturalist
+  URL : https://www.inaturalist.org/assets/copyright-infringement-large.png
+  Observation ID : 76264144
+- Source : iNaturalist
+  URL : https://static.inaturalist.org/photos/65647293/large.jpeg
+  Observation ID : 41384701
+
+SOURCES
+-------
+- GBIF
+- Catalogue of Life
+- iNaturalist
+
+============================================================

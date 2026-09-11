@@ -1,0 +1,93 @@
+============================================================
+Camponotus spissinodis
+============================================================
+
+TAXONOMIE
+----------
+Nom scientifique : Camponotus spissinodis
+Nom scientifique complet : Camponotus (Myrmentoma) spissinodis Forel, 1909
+Nom canonique : Camponotus spissinodis
+Règne : Animalia
+Embranchement : Arthropoda
+Classe : Insecta
+Ordre : Hymenoptera
+Famille : Formicidae
+Genre : Camponotus
+Sous-genre : Camponotus (Myrmentoma)
+Espèce : Camponotus (Myrmentoma) spissinodis
+Statut : accepted
+Auteur : Forel, 1909
+
+DISTRIBUTION
+------------
+Nombre de pays : 35
+
+Pays :
+- Algeria
+- Argentina
+- Australia
+- Austria
+- Belize
+- Brazil
+- Chile
+- China
+- Chinese Taipei
+- Colombia
+- Costa Rica
+- Czechia
+- Ecuador
+- El Salvador
+- France
+- Hungary
+- India
+- Indonesia
+- Italy
+- Jamaica
+- Kenya
+- Malaysia
+- Martinique
+- Mexico
+- Nicaragua
+- Peru
+- Singapore
+- South Africa
+- Spain
+- Thailand
+- Trinidad and Tobago
+- Türkiye
+- United States of America
+- Venezuela (Bolivarian Republic of)
+- Viet Nam
+
+Occurrences en Algérie : 320
+IMAGES
+------
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/565054973/large.jpg
+  Observation ID : 312933096
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/446025988/large.jpg
+  Observation ID : 249509434
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/445793678/large.jpeg
+  Observation ID : 249388700
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/445680951/large.jpeg
+  Observation ID : 249331093
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/420020446/large.jpg
+  Observation ID : 236117073
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/399479466/large.jpg
+  Observation ID : 225325913
+- Source : iNaturalist
+  URL : https://static.inaturalist.org/photos/327840344/large.jpeg
+  Observation ID : 187462045
+
+SOURCES
+-------
+- GBIF
+- Catalogue of Life
+- iNaturalist
+
+============================================================

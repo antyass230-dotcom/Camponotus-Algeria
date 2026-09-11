@@ -1,0 +1,2945 @@
+{
+    "scientific_name": "Camponotus micans",
+    "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Hymenoptera",
+        "family": "Formicidae",
+        "genus": "Camponotus",
+        "species": "Camponotus (Myrmosericus) micans",
+        "canonical_name": "Camponotus micans",
+        "scientific_name": "Camponotus micans (Nylander, 1856)",
+        "status": "accepted",
+        "gbif_usage_key": 1313253,
+        "gbif_match_type": "EXACT",
+        "gbif_confidence": 99,
+        "subgenus": "Camponotus (Myrmosericus)",
+        "tribe": "Camponotini",
+        "subfamily": "Formicinae",
+        "superfamily": "Formicoidea",
+        "infraorder": "Aculeata",
+        "suborder": "Apocrita",
+        "subphylum": "Hexapoda",
+        "domain": "Eukaryota",
+        "authorship": "(Nylander, 1856)"
+    },
+    "morphology": {
+        "clypeus": "Clypéus pourvu d'une carène longitudinale médiane, son bord antérieur formant un lobe rectangulaire qui s’avance au-dessus des mandibules.",
+        "gaster": "Gastre couvert, en plus des soies, d'une pubescence blanche ou fauve abondante, donnant un aspect velouté.",
+        "body": "Corps finement réticulé et mat.",
+        "tibiae": "Épines des tibias faibles, à peine plus épaisses que la pubescence couchée.",
+        "trunk_pubescence": "Pubescence du tronc également présente sur une partie du corps, particulièrement abondante sur les flancs du propodéum et le dessus du pronotum.",
+        "propodeum": "Chez les grandes ouvrières, la face dorsale et la face déclive du propodéum forment un angle obtus ; la face dorsale est un peu plus grande que la face déclive.",
+        "gaster_segments": "Les segments du gastre présentent une étroite bordure dorée."
+    },
+    "distribution": {
+        "countries": [
+            "Algeria",
+            "Italy",
+            "Morocco",
+            "Portugal",
+            "Spain",
+            "Tunisia"
+        ],
+        "algeria": {
+            "GBIF": 18
+        },
+        "coordinates": [],
+        "occurrences": {
+            "GBIF": 522,
+            "iNaturalist": {
+                "total": 537,
+                "records": [
+                    {
+                        "id": 394703592,
+                        "observed_on": "2026-07-26",
+                        "place": "Bordj Zemoura, Algérie",
+                        "latitude": 36.2691651,
+                        "longitude": 4.8465638,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723629865/large.jpg",
+                        "observer": "mourad-harzallah"
+                    },
+                    {
+                        "id": 394028205,
+                        "observed_on": "2026-05-13",
+                        "place": "Comunidad de Madrid, Madrid, Spain",
+                        "latitude": 40.3487388883,
+                        "longitude": -3.6688166667,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722020782/large.jpg",
+                        "observer": "clurarit"
+                    },
+                    {
+                        "id": 393218679,
+                        "observed_on": "2026-07-29",
+                        "place": "PX9H+52 Parco Marino Fondali di Capocozzo - S. Irene, Vibo Marina-Pizzo, Capo Vaticano - Tropea, 89868 Zambrone VV, Itálie",
+                        "latitude": 38.7160224722,
+                        "longitude": 15.9761819722,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720717769/large.jpg",
+                        "observer": "antslife"
+                    },
+                    {
+                        "id": 388213075,
+                        "observed_on": "2026-08-02",
+                        "place": "Sevilla, Andalucía, Spain",
+                        "latitude": 37.3687333,
+                        "longitude": -5.7398631,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710915045/large.jpg",
+                        "observer": "jpgsp"
+                    },
+                    {
+                        "id": 385900984,
+                        "observed_on": "2026-07-22",
+                        "place": "Vila Nova de Cacela, Portugal",
+                        "latitude": 37.1687277778,
+                        "longitude": -7.5125222222,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/706519486/large.jpg",
+                        "observer": "dirtyicecream"
+                    },
+                    {
+                        "id": 384147166,
+                        "observed_on": "2026-07-23",
+                        "place": null,
+                        "latitude": null,
+                        "longitude": null,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/703328995/large.jpg",
+                        "observer": "xark"
+                    },
+                    {
+                        "id": 382529942,
+                        "observed_on": "2026-07-18",
+                        "place": "Villa de Otura",
+                        "latitude": 37.0854911804,
+                        "longitude": -3.6221833229,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/700051334/large.jpg",
+                        "observer": "j_david66"
+                    },
+                    {
+                        "id": 382239437,
+                        "observed_on": "2026-05-17",
+                        "place": "CGF6+GJ Proyecto BiOlivo, 28830, Madrid, España",
+                        "latitude": 40.4248193255,
+                        "longitude": -3.4879110754,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/699495238/large.jpg",
+                        "observer": "ricardoblanco"
+                    },
+                    {
+                        "id": 381477461,
+                        "observed_on": "2026-07-14",
+                        "place": "Parque Fernán Núñez, Madrid, Madrid, ES",
+                        "latitude": 40.4599189833,
+                        "longitude": -3.5927988641,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/698016080/large.jpg",
+                        "observer": "sergio_ibarra_mellado"
+                    },
+                    {
+                        "id": 381351055,
+                        "observed_on": "2026-07-09",
+                        "place": "Rocade d'Assilah, Asilah, Tanger-Tetouan-Al Hoceima, MA",
+                        "latitude": 35.4613383333,
+                        "longitude": -6.0288833333,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/697771841/large.jpg",
+                        "observer": "cenaida"
+                    },
+                    {
+                        "id": 380970067,
+                        "observed_on": "2026-07-13",
+                        "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, España",
+                        "latitude": 40.5939067,
+                        "longitude": -3.5235358,
+                        "photo": null,
+                        "observer": "eduardo86187"
+                    },
+                    {
+                        "id": 380970035,
+                        "observed_on": "2026-07-13",
+                        "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, España",
+                        "latitude": 40.5926636,
+                        "longitude": -3.5245888,
+                        "photo": null,
+                        "observer": "eduardo86187"
+                    },
+                    {
+                        "id": 380970007,
+                        "observed_on": "2026-07-13",
+                        "place": "Ctra.M106-Pol.Ind.La Garza, 28119, Madrid, España",
+                        "latitude": 40.5910767,
+                        "longitude": -3.5299401,
+                        "photo": null,
+                        "observer": "eduardo86187"
+                    },
+                    {
+                        "id": 380969925,
+                        "observed_on": "2026-07-13",
+                        "place": "Av.Europa-Instituto, 28110, Madrid, España",
+                        "latitude": 40.5975432,
+                        "longitude": -3.5099798,
+                        "photo": null,
+                        "observer": "eduardo86187"
+                    },
+                    {
+                        "id": 380969817,
+                        "observed_on": "2026-07-13",
+                        "place": "Ctra.M106-Pol.Ind.Río De Janeiro, 28119, Madrid, España",
+                        "latitude": 40.5889002,
+                        "longitude": -3.5439,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/697039548/large.jpg",
+                        "observer": "eduardo86187"
+                    },
+                    {
+                        "id": 380969731,
+                        "observed_on": "2026-07-13",
+                        "place": "Ctra.M106-Pol.Ind.Río De Janeiro, 28119, Madrid, España",
+                        "latitude": 40.5889002,
+                        "longitude": -3.5439,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/697039370/large.jpg",
+                        "observer": "eduardo86187"
+                    },
+                    {
+                        "id": 380429934,
+                        "observed_on": "2026-07-09",
+                        "place": "Avenida del Alcalde de Móstoles, Móstoles, Madrid, ES",
+                        "latitude": 40.333675,
+                        "longitude": -3.8774333333,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695987930/large.jpg",
+                        "observer": "sergio_ibarra_mellado"
+                    },
+                    {
+                        "id": 380255644,
+                        "observed_on": "2026-07-09",
+                        "place": "Agustín Betancourt-Centro Investigación, 28935, Madrid, España",
+                        "latitude": 40.3343213538,
+                        "longitude": -3.8868326694,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695661636/large.jpg",
+                        "observer": "iokolate"
+                    },
+                    {
+                        "id": 380111770,
+                        "observed_on": "2026-07-10",
+                        "place": "Rio Tajo - Rio Deume, 28669 Boadilla del Monte, Madrid, España",
+                        "latitude": 40.4391839722,
+                        "longitude": -3.915076,
+                        "photo": "https://static.inaturalist.org/photos/695376424/large.jpg",
+                        "observer": "javierpiedrola"
+                    },
+                    {
+                        "id": 380033463,
+                        "observed_on": "2026-07-06",
+                        "place": "Cuenca, España",
+                        "latitude": 39.5088501096,
+                        "longitude": -2.851460917,
+                        "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695220653/large.jpg",
+                        "observer": "kakariki14"
+                    }
+                ]
+            }
+        },
+        "gbif_occurrences": 522,
+        "gbif_occurrences_status": "success",
+        "gbif_records": [
+            {
+                "key": 6159601731,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.261286,
+                "longitude": -8.377575
+            },
+            {
+                "key": 6171410347,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 36.995345,
+                "longitude": -5.529145
+            },
+            {
+                "key": 6178335658,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.442672,
+                "longitude": -3.380564
+            },
+            {
+                "key": 6178686989,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.08656,
+                "longitude": -8.66958
+            },
+            {
+                "key": 6185778412,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.472,
+                "longitude": -1.322254
+            },
+            {
+                "key": 6185907775,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.911708,
+                "longitude": -4.731675
+            },
+            {
+                "key": 6186048306,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.472021,
+                "longitude": -1.322376
+            },
+            {
+                "key": 6188487649,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.016374,
+                "longitude": -7.935198
+            },
+            {
+                "key": 6234416773,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.095538,
+                "longitude": -8.681114
+            },
+            {
+                "key": 6234748827,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 36.871564,
+                "longitude": 14.487992
+            },
+            {
+                "key": 6236182981,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.09483,
+                "longitude": -8.680645
+            },
+            {
+                "key": 6236360367,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.094118,
+                "longitude": -8.680624
+            },
+            {
+                "key": 6252085389,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 36.797649,
+                "longitude": 15.092445
+            },
+            {
+                "key": 6252191612,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.505607,
+                "longitude": -3.871464
+            },
+            {
+                "key": 6273274092,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.083522,
+                "longitude": -8.672691
+            },
+            {
+                "key": 6273346534,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.083126,
+                "longitude": -8.673277
+            },
+            {
+                "key": 6333985442,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.066568,
+                "longitude": -8.811977
+            },
+            {
+                "key": 6251528021,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.013573,
+                "longitude": -3.718055
+            },
+            {
+                "key": 6251573702,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.712681,
+                "longitude": -9.324081
+            },
+            {
+                "key": 6251652819,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.712353,
+                "longitude": -9.322975
+            },
+            {
+                "key": 6251871346,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.97963,
+                "longitude": -4.775399
+            },
+            {
+                "key": 6253112772,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.700543,
+                "longitude": -3.77224
+            },
+            {
+                "key": 6253268125,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.131854,
+                "longitude": -3.279874
+            },
+            {
+                "key": 6273248071,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.09684,
+                "longitude": -8.411318
+            },
+            {
+                "key": 6273331848,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.015217,
+                "longitude": -4.569797
+            },
+            {
+                "key": 6273850029,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.712678,
+                "longitude": -9.324089
+            },
+            {
+                "key": 6274176458,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 36.955552,
+                "longitude": -4.704245
+            },
+            {
+                "key": 6320095318,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.48983,
+                "longitude": -6.076503
+            },
+            {
+                "key": 6320579085,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.101045,
+                "longitude": -8.392558
+            },
+            {
+                "key": 6321138859,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.100523,
+                "longitude": -8.3943
+            },
+            {
+                "key": 6333880971,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.712681,
+                "longitude": -9.324081
+            },
+            {
+                "key": 6333922708,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.712681,
+                "longitude": -9.324089
+            },
+            {
+                "key": 6334117473,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.065721,
+                "longitude": -8.811687
+            },
+            {
+                "key": 6334228057,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.306648,
+                "longitude": -0.851436
+            },
+            {
+                "key": 6334248740,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.134772,
+                "longitude": -7.686312
+            },
+            {
+                "key": 6352335536,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.083561,
+                "longitude": -8.67556
+            },
+            {
+                "key": 6352407509,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.306905,
+                "longitude": -0.855
+            },
+            {
+                "key": 6352436486,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.32205,
+                "longitude": -3.791242
+            },
+            {
+                "key": 6352438516,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.082802,
+                "longitude": -8.67455
+            },
+            {
+                "key": 6352987380,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.322071,
+                "longitude": -3.791271
+            },
+            {
+                "key": 6353181309,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.065678,
+                "longitude": -8.812084
+            },
+            {
+                "key": 6399270410,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.083637,
+                "longitude": -8.675119
+            },
+            {
+                "key": 6399786629,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.067253,
+                "longitude": -8.810818
+            },
+            {
+                "key": 6399989004,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.082147,
+                "longitude": -8.674491
+            },
+            {
+                "key": 6400277218,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.067373,
+                "longitude": -8.811
+            },
+            {
+                "key": 6400720745,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.068169,
+                "longitude": -8.81203
+            },
+            {
+                "key": 6400768317,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.066003,
+                "longitude": -8.811419
+            },
+            {
+                "key": 6400772517,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.066303,
+                "longitude": -8.811827
+            },
+            {
+                "key": 6498825852,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.348739,
+                "longitude": -3.668817
+            },
+            {
+                "key": 6398790966,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.309403,
+                "longitude": -3.660653
+            },
+            {
+                "key": 6398821422,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.306734,
+                "longitude": -0.847137
+            },
+            {
+                "key": 6398871340,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.119673,
+                "longitude": -5.46412
+            },
+            {
+                "key": 6399726524,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.588889,
+                "longitude": -3.54403
+            },
+            {
+                "key": 6400131377,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.93058,
+                "longitude": -6.407261
+            },
+            {
+                "key": 6400186906,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.068152,
+                "longitude": -8.81203
+            },
+            {
+                "key": 6413019688,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.068118,
+                "longitude": -8.812041
+            },
+            {
+                "key": 6413227576,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.93058,
+                "longitude": -6.407261
+            },
+            {
+                "key": 6413244447,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084794,
+                "longitude": -8.678642
+            },
+            {
+                "key": 6413467777,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084362,
+                "longitude": -8.677149
+            },
+            {
+                "key": 6413765982,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144105,
+                "longitude": -8.609845
+            },
+            {
+                "key": 6413949378,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.067202,
+                "longitude": -8.81188
+            },
+            {
+                "key": 6423201970,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.068006,
+                "longitude": -8.811859
+            },
+            {
+                "key": 6431420531,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.490617,
+                "longitude": -2.857229
+            },
+            {
+                "key": 6431593974,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.490087,
+                "longitude": -2.857057
+            },
+            {
+                "key": 6430760803,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.511539,
+                "longitude": -2.861124
+            },
+            {
+                "key": 6431056680,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.504425,
+                "longitude": -2.864047
+            },
+            {
+                "key": 6440940329,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.334321,
+                "longitude": -3.886833
+            },
+            {
+                "key": 6441766379,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.5889,
+                "longitude": -3.5439
+            },
+            {
+                "key": 6441815092,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.5889,
+                "longitude": -3.5439
+            },
+            {
+                "key": 6441862955,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.50885,
+                "longitude": -2.851461
+            },
+            {
+                "key": 6451788480,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.459919,
+                "longitude": -3.592799
+            },
+            {
+                "key": 6452494855,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.085491,
+                "longitude": -3.622183
+            },
+            {
+                "key": 6480781618,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.168728,
+                "longitude": -7.512522
+            },
+            {
+                "key": 6481420685,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.333675,
+                "longitude": -3.877433
+            },
+            {
+                "key": 6499504352,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.368733,
+                "longitude": -5.739863
+            },
+            {
+                "key": 5063837392,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.677744,
+                "longitude": -3.631563
+            },
+            {
+                "key": 5076989260,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.000336,
+                "longitude": -4.554783
+            },
+            {
+                "key": 5104332065,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.129173,
+                "longitude": -8.573459
+            },
+            {
+                "key": 5104581081,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 37.734618,
+                "longitude": 12.603798
+            },
+            {
+                "key": 5108330141,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.307307,
+                "longitude": -4.204558
+            },
+            {
+                "key": 5134058373,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.304722,
+                "longitude": -3.184011
+            },
+            {
+                "key": 5838249114,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.226119,
+                "longitude": -7.439975
+            },
+            {
+                "key": 5134584002,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.901588,
+                "longitude": -5.270105
+            },
+            {
+                "key": 5134808184,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 37.291095,
+                "longitude": 13.580738
+            },
+            {
+                "key": 5152995167,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 38.267529,
+                "longitude": 15.235615
+            },
+            {
+                "key": 5153927909,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.911908,
+                "longitude": -4.730718
+            },
+            {
+                "key": 5154326741,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.074859,
+                "longitude": -3.710768
+            },
+            {
+                "key": 5154564773,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.102788,
+                "longitude": -8.673027
+            },
+            {
+                "key": 5166973412,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.897114,
+                "longitude": -9.182888
+            },
+            {
+                "key": 5844336331,
+                "country": "Tunisia",
+                "locality": null,
+                "latitude": 36.347553,
+                "longitude": 8.765619
+            },
+            {
+                "key": 5153281814,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.073371,
+                "longitude": -3.693595
+            },
+            {
+                "key": 5154423508,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.884351,
+                "longitude": -7.011372
+            },
+            {
+                "key": 5154755813,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.860754,
+                "longitude": -9.33051
+            },
+            {
+                "key": 5154878654,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.014911,
+                "longitude": -4.569222
+            },
+            {
+                "key": 5154892277,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 34.215812,
+                "longitude": 2.066817
+            },
+            {
+                "key": 5168298231,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144105,
+                "longitude": -8.609577
+            },
+            {
+                "key": 5282246030,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.032072,
+                "longitude": -4.527645
+            },
+            {
+                "key": 5293038663,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.383319,
+                "longitude": -3.430053
+            },
+            {
+                "key": 6133458092,
+                "country": "Morocco",
+                "locality": null,
+                "latitude": 31.239527,
+                "longitude": -7.414004
+            },
+            {
+                "key": 6159664698,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.020235,
+                "longitude": -3.686763
+            },
+            {
+                "key": 6413253399,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.725806,
+                "longitude": -9.287369
+            },
+            {
+                "key": 6413453841,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.72574,
+                "longitude": -9.393736
+            },
+            {
+                "key": 5198495668,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 39.026356,
+                "longitude": 17.202906
+            },
+            {
+                "key": 5216399176,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.348492,
+                "longitude": -3.668972
+            },
+            {
+                "key": 5230115468,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093053,
+                "longitude": -8.465388
+            },
+            {
+                "key": 5230344571,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093047,
+                "longitude": -8.465397
+            },
+            {
+                "key": 5230820647,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093053,
+                "longitude": -8.465388
+            },
+            {
+                "key": 5230831558,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093053,
+                "longitude": -8.465388
+            },
+            {
+                "key": 5231615576,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093053,
+                "longitude": -8.465388
+            },
+            {
+                "key": 5231616615,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093053,
+                "longitude": -8.465388
+            },
+            {
+                "key": 5231773513,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093047,
+                "longitude": -8.465397
+            },
+            {
+                "key": 5827791814,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 35.760698,
+                "longitude": -0.556814
+            },
+            {
+                "key": 5827815106,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144123,
+                "longitude": -8.609684
+            },
+            {
+                "key": 5828076411,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.065744,
+                "longitude": -8.81127
+            },
+            {
+                "key": 5908621135,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.217408,
+                "longitude": -7.44197
+            },
+            {
+                "key": 6413546352,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.653354,
+                "longitude": -9.284687
+            },
+            {
+                "key": 5230428990,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.067807,
+                "longitude": -8.812002
+            },
+            {
+                "key": 5230504110,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.521645,
+                "longitude": -8.916709
+            },
+            {
+                "key": 5231059306,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.702444,
+                "longitude": -9.317831
+            },
+            {
+                "key": 5231345112,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.083431,
+                "longitude": -8.675063
+            },
+            {
+                "key": 5231589004,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.065769,
+                "longitude": -8.811922
+            },
+            {
+                "key": 5231846209,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.067316,
+                "longitude": -8.810812
+            },
+            {
+                "key": 5231859323,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.066832,
+                "longitude": -8.811812
+            },
+            {
+                "key": 5231899180,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.068136,
+                "longitude": -8.812067
+            },
+            {
+                "key": 5237931824,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144088,
+                "longitude": -8.609287
+            },
+            {
+                "key": 5282177106,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.374879,
+                "longitude": -5.723452
+            },
+            {
+                "key": 5282287156,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 36.723206,
+                "longitude": -5.173069
+            },
+            {
+                "key": 5282562915,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.545027,
+                "longitude": -8.908331
+            },
+            {
+                "key": 5760579662,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.092975,
+                "longitude": -8.465983
+            },
+            {
+                "key": 5827864611,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093056,
+                "longitude": -8.465437
+            },
+            {
+                "key": 5827979211,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.092975,
+                "longitude": -8.465983
+            },
+            {
+                "key": 5908842046,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.082249,
+                "longitude": -8.671719
+            },
+            {
+                "key": 6159380156,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.375025,
+                "longitude": -5.723628
+            },
+            {
+                "key": 5282076982,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.425978,
+                "longitude": -3.572517
+            },
+            {
+                "key": 5291776206,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.067709,
+                "longitude": -8.811999
+            },
+            {
+                "key": 5292231745,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.066304,
+                "longitude": -8.811601
+            },
+            {
+                "key": 5292497427,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 37.271721,
+                "longitude": 13.805952
+            },
+            {
+                "key": 5760130054,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.469355,
+                "longitude": -3.359583
+            },
+            {
+                "key": 5760896345,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.08498,
+                "longitude": -8.678435
+            },
+            {
+                "key": 5828308694,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.145767,
+                "longitude": -8.611097
+            },
+            {
+                "key": 6131100538,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.124355,
+                "longitude": -7.664988
+            },
+            {
+                "key": 5827576468,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.068758,
+                "longitude": -8.812745
+            },
+            {
+                "key": 5828186230,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.069132,
+                "longitude": -8.812427
+            },
+            {
+                "key": 5828474031,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.068548,
+                "longitude": -8.812705
+            },
+            {
+                "key": 5830355343,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.083685,
+                "longitude": -8.675095
+            },
+            {
+                "key": 5830948619,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.322105,
+                "longitude": -2.889291
+            },
+            {
+                "key": 5830970531,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 38.019431,
+                "longitude": 13.949665
+            },
+            {
+                "key": 5844109568,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084193,
+                "longitude": -8.675263
+            },
+            {
+                "key": 5844331123,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.08446,
+                "longitude": -8.677289
+            },
+            {
+                "key": 5844596162,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084836,
+                "longitude": -8.67838
+            },
+            {
+                "key": 5897568537,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084442,
+                "longitude": -8.676116
+            },
+            {
+                "key": 5935458109,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.184796,
+                "longitude": -0.787381
+            },
+            {
+                "key": 5844532725,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084341,
+                "longitude": -8.67615
+            },
+            {
+                "key": 5867853163,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.487483,
+                "longitude": 4.738547
+            },
+            {
+                "key": 5889434788,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144311,
+                "longitude": -8.612216
+            },
+            {
+                "key": 5889496651,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.89664,
+                "longitude": -9.183306
+            },
+            {
+                "key": 5890188239,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.118922,
+                "longitude": -5.46463
+            },
+            {
+                "key": 5932452298,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.624535,
+                "longitude": -7.086241
+            },
+            {
+                "key": 4512402386,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084733,
+                "longitude": -8.677878
+            },
+            {
+                "key": 4516862969,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.898852,
+                "longitude": -9.182395
+            },
+            {
+                "key": 4519113868,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.899104,
+                "longitude": -9.182414
+            },
+            {
+                "key": 4525252477,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.225347,
+                "longitude": -7.429164
+            },
+            {
+                "key": 4528329798,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.179967,
+                "longitude": -8.457235
+            },
+            {
+                "key": 4535682469,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.075393,
+                "longitude": -8.753704
+            },
+            {
+                "key": 4600014816,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 37.740994,
+                "longitude": 12.713802
+            },
+            {
+                "key": 4600084152,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.898138,
+                "longitude": -9.182097
+            },
+            {
+                "key": 4600166039,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 38.11289,
+                "longitude": 13.160411
+            },
+            {
+                "key": 4606650598,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.930537,
+                "longitude": -6.406255
+            },
+            {
+                "key": 4606671854,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.897837,
+                "longitude": -9.181987
+            },
+            {
+                "key": 4607612699,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084378,
+                "longitude": -8.677418
+            },
+            {
+                "key": 4847227504,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.409979,
+                "longitude": -3.122864
+            },
+            {
+                "key": 4852372524,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.352694,
+                "longitude": -3.525461
+            },
+            {
+                "key": 4852755114,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.246798,
+                "longitude": -8.166207
+            },
+            {
+                "key": 4852810834,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 37.053101,
+                "longitude": 14.573062
+            },
+            {
+                "key": 4852837184,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.349087,
+                "longitude": -3.669136
+            },
+            {
+                "key": 4853006343,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.897615,
+                "longitude": -9.182314
+            },
+            {
+                "key": 4855004331,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.897129,
+                "longitude": -9.182
+            },
+            {
+                "key": 4855140531,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.409979,
+                "longitude": -3.122864
+            },
+            {
+                "key": 4855530365,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.941995,
+                "longitude": -7.796282
+            },
+            {
+                "key": 5036793498,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 36.983417,
+                "longitude": -4.5197
+            },
+            {
+                "key": 6320537611,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 38.269267,
+                "longitude": 15.224913
+            },
+            {
+                "key": 4855058141,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.897027,
+                "longitude": -9.181605
+            },
+            {
+                "key": 4863444616,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084204,
+                "longitude": -8.677427
+            },
+            {
+                "key": 4863625785,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084711,
+                "longitude": -8.678282
+            },
+            {
+                "key": 4863760843,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 38.105678,
+                "longitude": 13.350292
+            },
+            {
+                "key": 4872268502,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.760772,
+                "longitude": -9.214732
+            },
+            {
+                "key": 4872530206,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.75992,
+                "longitude": -9.218813
+            },
+            {
+                "key": 4946392255,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.510444,
+                "longitude": -3.341319
+            },
+            {
+                "key": 4875241528,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.761589,
+                "longitude": -9.21864
+            },
+            {
+                "key": 4891705967,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.14414,
+                "longitude": -8.609974
+            },
+            {
+                "key": 4891769801,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144174,
+                "longitude": -8.610102
+            },
+            {
+                "key": 4891898101,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.76153,
+                "longitude": -9.21867
+            },
+            {
+                "key": 4892136019,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 39.058254,
+                "longitude": -7.893256
+            },
+            {
+                "key": 4902018660,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.004945,
+                "longitude": -8.933632
+            },
+            {
+                "key": 4903830823,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144234,
+                "longitude": -8.610864
+            },
+            {
+                "key": 4904181561,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144097,
+                "longitude": -8.609598
+            },
+            {
+                "key": 4910795300,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.06652,
+                "longitude": -8.810318
+            },
+            {
+                "key": 4910871822,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.06652,
+                "longitude": -8.810318
+            },
+            {
+                "key": 5069791402,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.729435,
+                "longitude": -9.305479
+            },
+            {
+                "key": 5188294446,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.856793,
+                "longitude": -3.963073
+            },
+            {
+                "key": 4910810613,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.082769,
+                "longitude": -8.674825
+            },
+            {
+                "key": 4910955671,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.897051,
+                "longitude": -9.183288
+            },
+            {
+                "key": 4911117106,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.412392,
+                "longitude": -3.55638
+            },
+            {
+                "key": 4911122852,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.413138,
+                "longitude": -3.558697
+            },
+            {
+                "key": 4921920474,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.349884,
+                "longitude": -7.46761
+            },
+            {
+                "key": 4945701404,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.244343,
+                "longitude": 6.533072
+            },
+            {
+                "key": 5176341429,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.777003,
+                "longitude": -3.954518
+            },
+            {
+                "key": 4921679516,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.08582,
+                "longitude": -8.127978
+            },
+            {
+                "key": 4923727405,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093545,
+                "longitude": -8.465863
+            },
+            {
+                "key": 4923864857,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093545,
+                "longitude": -8.465863
+            },
+            {
+                "key": 4924067333,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093545,
+                "longitude": -8.465862
+            },
+            {
+                "key": 4925900799,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.375484,
+                "longitude": -5.767749
+            },
+            {
+                "key": 4935813159,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.092983,
+                "longitude": -8.465347
+            },
+            {
+                "key": 4935848719,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.092981,
+                "longitude": -8.465347
+            },
+            {
+                "key": 4935879614,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.092981,
+                "longitude": -8.465342
+            },
+            {
+                "key": 4949982163,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.897087,
+                "longitude": -9.182815
+            },
+            {
+                "key": 4952811670,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093028,
+                "longitude": -8.465958
+            },
+            {
+                "key": 4973879432,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.092981,
+                "longitude": -8.465347
+            },
+            {
+                "key": 4974179228,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.092656,
+                "longitude": -8.4647
+            },
+            {
+                "key": 4978189825,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.092936,
+                "longitude": -8.465275
+            },
+            {
+                "key": 4978663195,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.092933,
+                "longitude": -8.46527
+            },
+            {
+                "key": 5932438739,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093042,
+                "longitude": -8.465938
+            },
+            {
+                "key": 5932666668,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093042,
+                "longitude": -8.465938
+            },
+            {
+                "key": 5932673000,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.093042,
+                "longitude": -8.465937
+            },
+            {
+                "key": 4946644438,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.152624,
+                "longitude": -7.709508
+            },
+            {
+                "key": 4949872096,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.625905,
+                "longitude": -4.323216
+            },
+            {
+                "key": 4950599718,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.563183,
+                "longitude": -3.650314
+            },
+            {
+                "key": 4954663208,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.897061,
+                "longitude": -9.182923
+            },
+            {
+                "key": 5188255393,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.853945,
+                "longitude": -4.031055
+            },
+            {
+                "key": 4973901021,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.978245,
+                "longitude": -7.744213
+            },
+            {
+                "key": 4976562683,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.333297,
+                "longitude": -3.880183
+            },
+            {
+                "key": 4976614839,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.506867,
+                "longitude": -3.375678
+            },
+            {
+                "key": 4978338100,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.042768,
+                "longitude": -7.768389
+            },
+            {
+                "key": 4987579105,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 36.874939,
+                "longitude": 15.135608
+            },
+            {
+                "key": 5007303768,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.423286,
+                "longitude": 4.651801
+            },
+            {
+                "key": 4075888627,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.266476,
+                "longitude": 6.516353
+            },
+            {
+                "key": 4076191375,
+                "country": "Morocco",
+                "locality": null,
+                "latitude": 31.790467,
+                "longitude": -4.239133
+            },
+            {
+                "key": 4516244814,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.115975,
+                "longitude": -8.653141
+            },
+            {
+                "key": 5069726848,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.701976,
+                "longitude": -9.3118
+            },
+            {
+                "key": 4091555643,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.179937,
+                "longitude": -8.457146
+            },
+            {
+                "key": 4096431027,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.133568,
+                "longitude": -4.742696
+            },
+            {
+                "key": 4096818952,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 37.936287,
+                "longitude": 12.682509
+            },
+            {
+                "key": 4102758273,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.79443,
+                "longitude": -5.480907
+            },
+            {
+                "key": 4112083208,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.480281,
+                "longitude": -5.831765
+            },
+            {
+                "key": 4413572591,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 37.303228,
+                "longitude": 15.059655
+            },
+            {
+                "key": 4903789203,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084414,
+                "longitude": -8.676034
+            },
+            {
+                "key": 4102960603,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 38.26914,
+                "longitude": 15.234525
+            },
+            {
+                "key": 4112013013,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084642,
+                "longitude": -8.678079
+            },
+            {
+                "key": 4121382041,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.317844,
+                "longitude": -3.796669
+            },
+            {
+                "key": 4127122852,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.131514,
+                "longitude": -4.740751
+            },
+            {
+                "key": 4129783140,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.875731,
+                "longitude": -6.94727
+            },
+            {
+                "key": 4133619809,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 36.848692,
+                "longitude": 15.102061
+            },
+            {
+                "key": 4153656454,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 39.883282,
+                "longitude": -6.275059
+            },
+            {
+                "key": 4442484680,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.822091,
+                "longitude": 4.442544
+            },
+            {
+                "key": 4133648166,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.086062,
+                "longitude": -8.692031
+            },
+            {
+                "key": 4134217583,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.082275,
+                "longitude": -8.669217
+            },
+            {
+                "key": 4134219525,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.085585,
+                "longitude": -8.699168
+            },
+            {
+                "key": 4165625150,
+                "country": "Morocco",
+                "locality": null,
+                "latitude": 31.257936,
+                "longitude": -6.134194
+            },
+            {
+                "key": 4440623714,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.543568,
+                "longitude": 6.739178
+            },
+            {
+                "key": 5069726932,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.730109,
+                "longitude": -9.304618
+            },
+            {
+                "key": 4154000475,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144081,
+                "longitude": -8.609319
+            },
+            {
+                "key": 4162396841,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.012497,
+                "longitude": -4.555208
+            },
+            {
+                "key": 4165341724,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.373463,
+                "longitude": -5.739926
+            },
+            {
+                "key": 4165346248,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.37305,
+                "longitude": -5.722541
+            },
+            {
+                "key": 4171662608,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.014911,
+                "longitude": -7.857461
+            },
+            {
+                "key": 4904206935,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144158,
+                "longitude": -8.609941
+            },
+            {
+                "key": 4172073643,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.198253,
+                "longitude": -7.485463
+            },
+            {
+                "key": 4177240544,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 37.2848,
+                "longitude": 15.186383
+            },
+            {
+                "key": 4413517906,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.370543,
+                "longitude": -5.73877
+            },
+            {
+                "key": 4599768161,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.033427,
+                "longitude": -7.990646
+            },
+            {
+                "key": 5293016573,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 40.507344,
+                "longitude": -3.540764
+            },
+            {
+                "key": 4413372083,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.1441,
+                "longitude": -8.609641
+            },
+            {
+                "key": 4413482048,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084334,
+                "longitude": -8.677223
+            },
+            {
+                "key": 4421033354,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.928912,
+                "longitude": -6.413443
+            },
+            {
+                "key": 4510020194,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.370989,
+                "longitude": -5.732134
+            },
+            {
+                "key": 4516318354,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.096624,
+                "longitude": -8.337571
+            },
+            {
+                "key": 4516692486,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.022472,
+                "longitude": -7.946889
+            },
+            {
+                "key": 4430571188,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.930253,
+                "longitude": -6.408105
+            },
+            {
+                "key": 4430618244,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.695215,
+                "longitude": -9.318743
+            },
+            {
+                "key": 4430664983,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.084229,
+                "longitude": -8.677395
+            },
+            {
+                "key": 4436109535,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.030315,
+                "longitude": -8.952189
+            },
+            {
+                "key": 4436161726,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.01297,
+                "longitude": -8.939231
+            },
+            {
+                "key": 4516220346,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.14764,
+                "longitude": 7.910678
+            },
+            {
+                "key": 4516592562,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.80335,
+                "longitude": 4.028442
+            },
+            {
+                "key": 3698335529,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 38.081037,
+                "longitude": 13.247518
+            },
+            {
+                "key": 3712670724,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.214893,
+                "longitude": -7.44346
+            },
+            {
+                "key": 3712710132,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.081712,
+                "longitude": -8.67044
+            },
+            {
+                "key": 3743298065,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.781364,
+                "longitude": -9.231449
+            },
+            {
+                "key": 3760068371,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.114683,
+                "longitude": -8.656021
+            },
+            {
+                "key": 3772800076,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 37.815617,
+                "longitude": 12.294975
+            },
+            {
+                "key": 3902245566,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 38.046655,
+                "longitude": -6.074549
+            },
+            {
+                "key": 4112203404,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.15806,
+                "longitude": 4.574873
+            },
+            {
+                "key": 4172252123,
+                "country": "Morocco",
+                "locality": null,
+                "latitude": 33.397413,
+                "longitude": -5.453367
+            },
+            {
+                "key": 4606792590,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.083995,
+                "longitude": -8.675188
+            },
+            {
+                "key": 4923795723,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.707825,
+                "longitude": -8.106707
+            },
+            {
+                "key": 3772486634,
+                "country": "Italy",
+                "locality": null,
+                "latitude": 38.163501,
+                "longitude": 15.18747
+            },
+            {
+                "key": 3802598910,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 38.696543,
+                "longitude": -9.327735
+            },
+            {
+                "key": 3802792793,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.206343,
+                "longitude": -7.419743
+            },
+            {
+                "key": 3858644512,
+                "country": "Spain",
+                "locality": null,
+                "latitude": 37.171349,
+                "longitude": -5.148792
+            },
+            {
+                "key": 3860528001,
+                "country": "Portugal",
+                "locality": null,
+                "latitude": 37.144158,
+                "longitude": -8.610124
+            }
+        ],
+        "algeria_occurrences": 18,
+        "algeria_records": [
+            {
+                "key": 5154892277,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 34.215812,
+                "longitude": 2.066817
+            },
+            {
+                "key": 5827791814,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 35.760698,
+                "longitude": -0.556814
+            },
+            {
+                "key": 5867853163,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.487483,
+                "longitude": 4.738547
+            },
+            {
+                "key": 4945701404,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.244343,
+                "longitude": 6.533072
+            },
+            {
+                "key": 5007303768,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.423286,
+                "longitude": 4.651801
+            },
+            {
+                "key": 4075888627,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.266476,
+                "longitude": 6.516353
+            },
+            {
+                "key": 4442484680,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.822091,
+                "longitude": 4.442544
+            },
+            {
+                "key": 4440623714,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.543568,
+                "longitude": 6.739178
+            },
+            {
+                "key": 4516220346,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.14764,
+                "longitude": 7.910678
+            },
+            {
+                "key": 4516592562,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.80335,
+                "longitude": 4.028442
+            },
+            {
+                "key": 4112203404,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.15806,
+                "longitude": 4.574873
+            },
+            {
+                "key": 3764226624,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.064207,
+                "longitude": 4.624841
+            },
+            {
+                "key": 4112178352,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.2,
+                "longitude": 4.4
+            },
+            {
+                "key": 3097369520,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.337246,
+                "longitude": 6.492895
+            },
+            {
+                "key": 3124854406,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.304722,
+                "longitude": 6.464167
+            },
+            {
+                "key": 3301793541,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.336575,
+                "longitude": 6.615712
+            },
+            {
+                "key": 3079478829,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 36.334232,
+                "longitude": 6.50104
+            },
+            {
+                "key": 1085687927,
+                "country": "Algeria",
+                "locality": null,
+                "latitude": 28.0,
+                "longitude": 3.0
+            }
+        ],
+        "gbif_algeria_status": "success"
+    },
+    "biology": {},
+    "ecology": {},
+    "publications": [],
+    "images": [
+    {
+        "source": "personal",
+        "url": "images/Camponotus_micans/image072.jpg",
+        "caption": "Ouvrière de Camponotus micans"
+    },
+    {
+        "source": "personal",
+        "url": "images/Camponotus_micans/image074.jpg",
+        "caption": "tete vue de face"
+    },
+    {    
+        "source": "personal",
+        "url": "images/Camponotus_micans/image079.jpg",
+        "caption": "abdomen"
+    },
+    {
+        "source": "personal",
+        "url": "images/Camponotus_micans/image081.jpg",
+        "caption": "thorax"    
+    }
+    ],
+    "references": [],
+    "sources": {
+        "GBIF": {
+            "usageKey": 1313253,
+            "scientificName": "Camponotus micans (Nylander, 1856)",
+            "canonicalName": "Camponotus micans",
+            "rank": "SPECIES",
+            "status": "ACCEPTED",
+            "confidence": 99,
+            "matchType": "EXACT",
+            "kingdom": "Animalia",
+            "phylum": "Arthropoda",
+            "order": "Hymenoptera",
+            "family": "Formicidae",
+            "genus": "Camponotus",
+            "species": "Camponotus micans",
+            "kingdomKey": 1,
+            "phylumKey": 54,
+            "classKey": 216,
+            "orderKey": 1457,
+            "familyKey": 4342,
+            "genusKey": 1312361,
+            "speciesKey": 1313253,
+            "class": "Insecta"
+        },
+        "Catalogue of Life": {
+            "usage": {
+                "id": "QDZF",
+                "name": "Camponotus (Myrmosericus) micans",
+                "authorship": "(Nylander, 1856)",
+                "rank": "species",
+                "code": "zoological",
+                "status": "accepted",
+                "canonicalId": 1495709,
+                "namesIndexId": 1495709,
+                "namesIndexMatchType": "none",
+                "sectorKey": 66564,
+                "classification": [
+                    {
+                        "id": "CLBYW",
+                        "name": "Camponotus (Myrmosericus)",
+                        "authorship": "Forel, 1912",
+                        "rank": "subgenus",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 1495658,
+                        "namesIndexId": 1495658,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Camponotus (Myrmosericus) Forel, 1912",
+                        "labelHtml": "<i>Camponotus (Myrmosericus)</i> Forel, 1912",
+                        "parentId": "3GGD"
+                    },
+                    {
+                        "id": "3GGD",
+                        "name": "Camponotus",
+                        "authorship": "Mayr, 1861",
+                        "rank": "genus",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 1493258,
+                        "namesIndexId": 1493258,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Camponotus Mayr, 1861",
+                        "labelHtml": "<i>Camponotus</i> Mayr, 1861",
+                        "parentId": "CLBGY"
+                    },
+                    {
+                        "id": "CLBGY",
+                        "name": "Camponotini",
+                        "authorship": "Forel, 1878",
+                        "rank": "tribe",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 1493118,
+                        "namesIndexId": 1493118,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Camponotini Forel, 1878",
+                        "labelHtml": "Camponotini Forel, 1878",
+                        "parentId": "CLWPD"
+                    },
+                    {
+                        "id": "CLWPD",
+                        "name": "Formicinae",
+                        "authorship": "Latreille, 1802",
+                        "rank": "subfamily",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 3721498,
+                        "namesIndexId": 3721498,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Formicinae Latreille, 1802",
+                        "labelHtml": "Formicinae Latreille, 1802",
+                        "parentId": "CLRKP"
+                    },
+                    {
+                        "id": "CLRKP",
+                        "name": "Formicidae",
+                        "authorship": "Latreille, 1802",
+                        "rank": "family",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 10726,
+                        "namesIndexId": 10726,
+                        "namesIndexMatchType": "none",
+                        "sectorKey": 66564,
+                        "canonical": true,
+                        "label": "Formicidae Latreille, 1802",
+                        "labelHtml": "Formicidae Latreille, 1802",
+                        "parentId": "VGRS7"
+                    },
+                    {
+                        "id": "VGRS7",
+                        "name": "Formicoidea",
+                        "authorship": "Latreille, 1809",
+                        "rank": "superfamily",
+                        "status": "accepted",
+                        "canonicalId": 3722132,
+                        "namesIndexId": 3722132,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Formicoidea Latreille, 1809",
+                        "labelHtml": "Formicoidea Latreille, 1809",
+                        "parentId": "KZMNP"
+                    },
+                    {
+                        "id": "KZMNP",
+                        "name": "Aculeata",
+                        "rank": "infraorder",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 172568,
+                        "namesIndexId": 172568,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Aculeata",
+                        "labelHtml": "Aculeata",
+                        "parentId": "KZPW7"
+                    },
+                    {
+                        "id": "KZPW7",
+                        "name": "Apocrita",
+                        "rank": "suborder",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 710972,
+                        "namesIndexId": 710972,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Apocrita",
+                        "labelHtml": "Apocrita",
+                        "parentId": "HYM"
+                    },
+                    {
+                        "id": "HYM",
+                        "name": "Hymenoptera",
+                        "rank": "order",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 17368,
+                        "namesIndexId": 17368,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Hymenoptera",
+                        "labelHtml": "Hymenoptera",
+                        "parentId": "H6"
+                    },
+                    {
+                        "id": "H6",
+                        "name": "Insecta",
+                        "rank": "class",
+                        "status": "accepted",
+                        "canonicalId": 17393,
+                        "namesIndexId": 17393,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Insecta",
+                        "labelHtml": "Insecta",
+                        "parentId": "L2655"
+                    },
+                    {
+                        "id": "L2655",
+                        "name": "Hexapoda",
+                        "rank": "subphylum",
+                        "code": "zoological",
+                        "status": "accepted",
+                        "canonicalId": 17333,
+                        "namesIndexId": 17333,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Hexapoda",
+                        "labelHtml": "Hexapoda",
+                        "parentId": "RT"
+                    },
+                    {
+                        "id": "RT",
+                        "name": "Arthropoda",
+                        "rank": "phylum",
+                        "status": "accepted",
+                        "canonicalId": 9289,
+                        "namesIndexId": 9289,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Arthropoda",
+                        "labelHtml": "Arthropoda",
+                        "parentId": "N"
+                    },
+                    {
+                        "id": "N",
+                        "name": "Animalia",
+                        "rank": "kingdom",
+                        "status": "accepted",
+                        "canonicalId": 9237,
+                        "namesIndexId": 9237,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Animalia",
+                        "labelHtml": "Animalia",
+                        "parentId": "CS5HF"
+                    },
+                    {
+                        "id": "CS5HF",
+                        "name": "Eukaryota",
+                        "authorship": "(Chatton, 1925) Whittaker & Margulis, 1978",
+                        "rank": "domain",
+                        "status": "accepted",
+                        "canonicalId": 3444548,
+                        "namesIndexId": 3444548,
+                        "namesIndexMatchType": "none",
+                        "canonical": true,
+                        "label": "Eukaryota (Chatton, 1925) Whittaker & Margulis, 1978",
+                        "labelHtml": "Eukaryota (Chatton, 1925) Whittaker & Margulis, 1978"
+                    }
+                ],
+                "canonical": true,
+                "label": "Camponotus (Myrmosericus) micans (Nylander, 1856)",
+                "labelHtml": "<i>Camponotus (Myrmosericus) micans</i> (Nylander, 1856)",
+                "parentId": "CLBYW"
+            },
+            "sectorKey": 66564,
+            "type": "variant",
+            "original": {
+                "name": "Camponotus micans",
+                "status": "accepted",
+                "canonical": true,
+                "label": "Camponotus micans",
+                "labelHtml": "Camponotus micans"
+            },
+            "issues": {},
+            "id": "QDZF",
+            "match": true
+        },
+        "iNaturalist": {
+            "taxon_id": 347443,
+            "observations_count": 537,
+            "default_photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/285544183/medium.jpeg",
+            "observations": [
+                {
+                    "id": 394703592,
+                    "observed_on": "2026-07-26",
+                    "place": "Bordj Zemoura, Algérie",
+                    "latitude": 36.2691651,
+                    "longitude": 4.8465638,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723629865/large.jpg",
+                    "observer": "mourad-harzallah"
+                },
+                {
+                    "id": 394028205,
+                    "observed_on": "2026-05-13",
+                    "place": "Comunidad de Madrid, Madrid, Spain",
+                    "latitude": 40.3487388883,
+                    "longitude": -3.6688166667,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722020782/large.jpg",
+                    "observer": "clurarit"
+                },
+                {
+                    "id": 393218679,
+                    "observed_on": "2026-07-29",
+                    "place": "PX9H+52 Parco Marino Fondali di Capocozzo - S. Irene, Vibo Marina-Pizzo, Capo Vaticano - Tropea, 89868 Zambrone VV, Itálie",
+                    "latitude": 38.7160224722,
+                    "longitude": 15.9761819722,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720717769/large.jpg",
+                    "observer": "antslife"
+                },
+                {
+                    "id": 388213075,
+                    "observed_on": "2026-08-02",
+                    "place": "Sevilla, Andalucía, Spain",
+                    "latitude": 37.3687333,
+                    "longitude": -5.7398631,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710915045/large.jpg",
+                    "observer": "jpgsp"
+                },
+                {
+                    "id": 385900984,
+                    "observed_on": "2026-07-22",
+                    "place": "Vila Nova de Cacela, Portugal",
+                    "latitude": 37.1687277778,
+                    "longitude": -7.5125222222,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/706519486/large.jpg",
+                    "observer": "dirtyicecream"
+                },
+                {
+                    "id": 384147166,
+                    "observed_on": "2026-07-23",
+                    "place": null,
+                    "latitude": null,
+                    "longitude": null,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/703328995/large.jpg",
+                    "observer": "xark"
+                },
+                {
+                    "id": 382529942,
+                    "observed_on": "2026-07-18",
+                    "place": "Villa de Otura",
+                    "latitude": 37.0854911804,
+                    "longitude": -3.6221833229,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/700051334/large.jpg",
+                    "observer": "j_david66"
+                },
+                {
+                    "id": 382239437,
+                    "observed_on": "2026-05-17",
+                    "place": "CGF6+GJ Proyecto BiOlivo, 28830, Madrid, España",
+                    "latitude": 40.4248193255,
+                    "longitude": -3.4879110754,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/699495238/large.jpg",
+                    "observer": "ricardoblanco"
+                },
+                {
+                    "id": 381477461,
+                    "observed_on": "2026-07-14",
+                    "place": "Parque Fernán Núñez, Madrid, Madrid, ES",
+                    "latitude": 40.4599189833,
+                    "longitude": -3.5927988641,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/698016080/large.jpg",
+                    "observer": "sergio_ibarra_mellado"
+                },
+                {
+                    "id": 381351055,
+                    "observed_on": "2026-07-09",
+                    "place": "Rocade d'Assilah, Asilah, Tanger-Tetouan-Al Hoceima, MA",
+                    "latitude": 35.4613383333,
+                    "longitude": -6.0288833333,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/697771841/large.jpg",
+                    "observer": "cenaida"
+                },
+                {
+                    "id": 380970067,
+                    "observed_on": "2026-07-13",
+                    "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, España",
+                    "latitude": 40.5939067,
+                    "longitude": -3.5235358,
+                    "photo": null,
+                    "observer": "eduardo86187"
+                },
+                {
+                    "id": 380970035,
+                    "observed_on": "2026-07-13",
+                    "place": "Ctra.M106-Pol.Ind.El Nogal, 28119, Madrid, España",
+                    "latitude": 40.5926636,
+                    "longitude": -3.5245888,
+                    "photo": null,
+                    "observer": "eduardo86187"
+                },
+                {
+                    "id": 380970007,
+                    "observed_on": "2026-07-13",
+                    "place": "Ctra.M106-Pol.Ind.La Garza, 28119, Madrid, España",
+                    "latitude": 40.5910767,
+                    "longitude": -3.5299401,
+                    "photo": null,
+                    "observer": "eduardo86187"
+                },
+                {
+                    "id": 380969925,
+                    "observed_on": "2026-07-13",
+                    "place": "Av.Europa-Instituto, 28110, Madrid, España",
+                    "latitude": 40.5975432,
+                    "longitude": -3.5099798,
+                    "photo": null,
+                    "observer": "eduardo86187"
+                },
+                {
+                    "id": 380969817,
+                    "observed_on": "2026-07-13",
+                    "place": "Ctra.M106-Pol.Ind.Río De Janeiro, 28119, Madrid, España",
+                    "latitude": 40.5889002,
+                    "longitude": -3.5439,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/697039548/large.jpg",
+                    "observer": "eduardo86187"
+                },
+                {
+                    "id": 380969731,
+                    "observed_on": "2026-07-13",
+                    "place": "Ctra.M106-Pol.Ind.Río De Janeiro, 28119, Madrid, España",
+                    "latitude": 40.5889002,
+                    "longitude": -3.5439,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/697039370/large.jpg",
+                    "observer": "eduardo86187"
+                },
+                {
+                    "id": 380429934,
+                    "observed_on": "2026-07-09",
+                    "place": "Avenida del Alcalde de Móstoles, Móstoles, Madrid, ES",
+                    "latitude": 40.333675,
+                    "longitude": -3.8774333333,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695987930/large.jpg",
+                    "observer": "sergio_ibarra_mellado"
+                },
+                {
+                    "id": 380255644,
+                    "observed_on": "2026-07-09",
+                    "place": "Agustín Betancourt-Centro Investigación, 28935, Madrid, España",
+                    "latitude": 40.3343213538,
+                    "longitude": -3.8868326694,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695661636/large.jpg",
+                    "observer": "iokolate"
+                },
+                {
+                    "id": 380111770,
+                    "observed_on": "2026-07-10",
+                    "place": "Rio Tajo - Rio Deume, 28669 Boadilla del Monte, Madrid, España",
+                    "latitude": 40.4391839722,
+                    "longitude": -3.915076,
+                    "photo": "https://static.inaturalist.org/photos/695376424/large.jpg",
+                    "observer": "javierpiedrola"
+                },
+                {
+                    "id": 380033463,
+                    "observed_on": "2026-07-06",
+                    "place": "Cuenca, España",
+                    "latitude": 39.5088501096,
+                    "longitude": -2.851460917,
+                    "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/695220653/large.jpg",
+                    "observer": "kakariki14"
+                }
+            ]
+        }
+    },
+    "metadata": {}
+}

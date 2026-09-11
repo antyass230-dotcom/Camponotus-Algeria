@@ -1,0 +1,1237 @@
+/* ============================================================
+   CAMPONOTUS ALGERIA
+   Style : minimaliste • scientifique • naturel
+============================================================ */
+
+/* ============================================================
+   VARIABLES
+============================================================ */
+
+:root {
+    --beige: #f3efe5;
+    --beige-light: #faf8f2;
+    --beige-dark: #e8e1d2;
+
+    --green: #243d2d;
+    --green-dark: #193023;
+    --green-light: #dfe8df;
+    --green-soft: #edf2eb;
+
+    --text: #263027;
+    --muted: #70776f;
+
+    --white: #fffdf8;
+    --border: #ded9cc;
+
+    --max-width: 1180px;
+}
+
+
+/* ============================================================
+   RESET
+============================================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* ============================================================
+   BASE
+============================================================ */
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family:
+        "Inter",
+        "Segoe UI",
+        Arial,
+        sans-serif;
+
+    background: #ffffff;
+    color: var(--text);
+
+    line-height: 1.7;
+}
+
+h1,
+h2,
+h3 {
+    color: var(--green);
+}
+
+h1,
+h2 {
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+    font-weight: 400;
+}
+
+h3 {
+    font-weight: 600;
+}
+
+em {
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+/* ============================================================
+   CONTAINER
+============================================================ */
+
+.container {
+    width: min(var(--max-width), calc(100% - 48px));
+    margin: 0 auto;
+}
+
+
+/* ============================================================
+   HEADER
+============================================================ */
+
+.site-header {
+    position: relative;
+
+    background: var(--beige-light);
+
+    border-bottom: 1px solid var(--border);
+}
+
+.site-header::after {
+    content: "";
+
+    position: absolute;
+
+    left: 50%;
+    bottom: -4px;
+
+    width: 8px;
+    height: 8px;
+
+    background: var(--green);
+
+    border-radius: 50%;
+
+    transform: translateX(-50%);
+}
+
+.nav {
+    min-height: 82px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+/* ============================================================
+   LOGO
+============================================================ */
+
+.logo {
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+    font-size: 23px;
+    font-weight: 400;
+
+    color: var(--green);
+
+    letter-spacing: -0.5px;
+}
+
+.logo span {
+    font-family:
+        "Segoe UI",
+        Arial,
+        sans-serif;
+
+    font-size: 12px;
+    font-weight: 600;
+
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    margin-left: 5px;
+}
+
+
+/* ============================================================
+   NAVIGATION
+============================================================ */
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 34px;
+}
+
+nav a {
+    position: relative;
+
+    color: var(--muted);
+
+    font-size: 13px;
+    font-weight: 600;
+
+    transition: color 0.2s ease;
+}
+
+nav a::after {
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+    bottom: -8px;
+
+    width: 0;
+    height: 1px;
+
+    background: var(--green);
+
+    transition: width 0.2s ease;
+}
+
+nav a:hover,
+nav a.active {
+    color: var(--green);
+}
+
+nav a:hover::after,
+nav a.active::after {
+    width: 100%;
+}
+
+
+/* ============================================================
+   BANDEAU CATALOGUE
+============================================================ */
+
+.catalogue-header {
+    position: relative;
+
+    overflow: hidden;
+
+    padding: 90px 0 70px;
+
+    background: var(--green);
+
+    color: white;
+}
+
+.catalogue-header::before {
+    content: "";
+
+    position: absolute;
+
+    width: 360px;
+    height: 360px;
+
+    right: -150px;
+    top: -180px;
+
+    border: 1px solid rgba(255, 255, 255, 0.12);
+
+    border-radius: 50%;
+}
+
+.catalogue-header::after {
+    content: "";
+
+    position: absolute;
+
+    width: 180px;
+    height: 180px;
+
+    right: -50px;
+    top: -60px;
+
+    border: 1px solid rgba(255, 255, 255, 0.09);
+
+    border-radius: 50%;
+}
+
+.catalogue-header .container {
+    position: relative;
+    z-index: 2;
+}
+
+.catalogue-header .eyebrow {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.catalogue-header .eyebrow::before {
+    background: rgba(255, 255, 255, 0.7);
+}
+
+.catalogue-header h1 {
+    color: white;
+
+    font-size: clamp(45px, 6vw, 68px);
+
+    line-height: 1.05;
+
+    letter-spacing: -2px;
+
+    margin-bottom: 18px;
+}
+
+.catalogue-header > .container > p:not(.eyebrow) {
+    max-width: 720px;
+
+    color: rgba(255, 255, 255, 0.647);
+
+    font-size: 16px;
+
+    line-height: 1.8;
+}
+
+
+/* ============================================================
+   PETIT TITRE
+============================================================ */
+
+.eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+
+    font-size: 11px;
+    font-weight: 700;
+
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+
+    color: var(--green);
+
+    margin-bottom: 18px;
+}
+
+.eyebrow::before {
+    content: "";
+
+    width: 28px;
+    height: 1px;
+
+    background: var(--green);
+}
+
+
+/* ============================================================
+   RECHERCHE
+============================================================ */
+
+.search-box {
+    position: relative;
+    z-index: 3;
+
+    margin-top: 32px;
+}
+
+.search-box input {
+    width: 100%;
+    max-width: 650px;
+
+    padding: 16px 20px;
+
+    background: white;
+
+    border: none;
+
+    border-radius: 6px;
+
+    color: var(--text);
+
+    font-family: inherit;
+    font-size: 14px;
+
+    outline: none;
+
+    box-shadow:
+        0 8px 25px rgba(0, 0, 0, 0.08);
+
+    transition:
+        box-shadow 0.2s ease,
+        transform 0.2s ease;
+}
+
+.search-box input::placeholder {
+    color: #8a9189;
+}
+
+.search-box input:focus {
+    box-shadow:
+        0 10px 30px rgba(0, 0, 0, 0.13);
+
+    transform: translateY(-1px);
+}
+
+
+/* ============================================================
+   CATALOGUE
+============================================================ */
+
+.species-preview {
+    background: #ffffff;
+
+    padding: 90px 0 110px;
+}
+
+.species-preview .section-heading {
+    margin-bottom: 42px;
+}
+
+.section-heading {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    text-align: left;
+}
+
+.section-heading span {
+    display: block;
+
+    color: var(--green);
+
+    font-size: 10px;
+    font-weight: 700;
+
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    margin-bottom: 9px;
+}
+
+.section-heading h2 {
+    font-size: 38px;
+
+    line-height: 1.15;
+
+    letter-spacing: -1px;
+}
+
+.section-heading h2::after {
+    content: "";
+
+    display: block;
+
+    width: 38px;
+    height: 2px;
+
+    background: var(--green);
+
+    margin-top: 16px;
+}
+
+
+/* ============================================================
+   GRILLE DES ESPÈCES
+============================================================ */
+
+.species-grid {
+    display: grid;
+
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 20px;
+}
+
+
+/* ============================================================
+   CARTES ESPÈCES
+============================================================ */
+
+.species-card {
+    position: relative;
+
+    aspect-ratio: 1 / 1;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+
+    background: #ffffff;
+
+    border: 1px solid var(--border);
+    border-radius: 7px;
+
+    padding: 20px;
+
+    cursor: pointer;
+    overflow: hidden;
+
+    text-decoration: none;
+
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease,
+        border-color 0.25s ease;
+}
+
+.species-card::before {
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+    top: 0;
+
+    width: 3px;
+    height: 0;
+
+    background: var(--green);
+
+    transition: height 0.25s ease;
+}
+
+.species-card:hover {
+    transform: translateY(-4px);
+
+    border-color: #c8d2c9;
+
+    box-shadow:
+        0 15px 35px rgba(36, 61, 45, 0.08);
+}
+
+.species-card:hover::before {
+    height: 100%;
+}
+
+.species-card-content {
+    position: relative;
+
+    z-index: 2;
+
+    width: 100%;
+}
+
+.species-card h3 {
+    margin: 0;
+
+    color: var(--green);
+
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+    font-size: 1.35rem;
+
+    font-weight: 400;
+
+    line-height: 1.3;
+
+    text-align: center;
+}
+
+
+/* ============================================================
+   NOM SCIENTIFIQUE
+============================================================ */
+
+.species-card .scientific-name {
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+    font-size: 23px;
+
+    font-style: italic;
+
+    color: var(--green);
+
+    margin-bottom: 12px;
+}
+
+
+/* ============================================================
+   STATUT
+============================================================ */
+
+.species-card .status {
+    display: inline-block;
+
+    padding: 4px 9px;
+
+    border-radius: 20px;
+
+    background: var(--green-soft);
+
+    color: var(--green);
+
+    font-size: 10px;
+    font-weight: 700;
+
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+    margin-bottom: 18px;
+}
+
+
+/* ============================================================
+   TEXTE DES CARTES
+============================================================ */
+
+.species-card p {
+    color: var(--muted);
+
+    font-size: 13px;
+
+    line-height: 1.75;
+}
+
+
+/* ============================================================
+   BOUTONS
+============================================================ */
+
+.hero-buttons {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 46px;
+
+    padding: 0 22px;
+
+    border-radius: 5px;
+
+    font-size: 13px;
+    font-weight: 600;
+
+    transition:
+        transform 0.2s ease,
+        background 0.2s ease;
+}
+
+.button:hover {
+    transform: translateY(-2px);
+}
+
+.button.primary {
+    background: var(--green);
+    color: white;
+}
+
+.button.primary:hover {
+    background: var(--green-dark);
+}
+
+.button.secondary {
+    background: transparent;
+
+    border: 1px solid var(--green);
+
+    color: var(--green);
+}
+
+.button.secondary:hover {
+    background: var(--green-soft);
+}
+
+
+/* ============================================================
+   FICHE ESPÈCE
+============================================================ */
+
+.species-detail {
+    width: min(980px, calc(100% - 48px));
+
+    margin: 0 auto;
+
+    padding: 80px 0 110px;
+
+    text-align: left;
+}
+
+.detail-section {
+    position: relative;
+
+    padding: 55px 0;
+
+    border-bottom: 1px solid var(--border);
+
+    text-align: left;
+}
+
+.detail-section:first-child {
+    padding-top: 20px;
+}
+
+.detail-section:last-child {
+    border-bottom: none;
+}
+
+.species-detail .section-heading {
+    width: 100%;
+
+    margin-bottom: 35px;
+
+    text-align: left;
+}
+
+.species-detail .section-heading span,
+.species-detail .section-heading h2 {
+    width: 100%;
+
+    text-align: left;
+}
+
+.species-detail .section-heading h2::after {
+    margin-left: 0;
+}
+
+.species-detail h1,
+.species-detail h2,
+.species-detail h3,
+.species-detail p,
+.species-detail li,
+.species-detail table {
+    text-align: left;
+}
+
+
+/* ============================================================
+   MORPHOLOGIE
+============================================================ */
+
+.morphology-content {
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    gap: 0 55px;
+}
+
+.morphology-item {
+    padding: 25px 0;
+
+    border-top: 1px solid var(--border);
+}
+
+.morphology-item h3 {
+    font-family:
+        Georgia,
+        "Times New Roman",
+        serif;
+
+    font-size: 20px;
+
+    font-weight: 400;
+
+    color: var(--green);
+
+    margin-bottom: 9px;
+}
+
+.morphology-item p {
+    color: var(--muted);
+
+    font-size: 14px;
+
+    line-height: 1.8;
+}
+
+.morphology-list {
+    padding-left: 20px;
+
+    color: var(--muted);
+
+    font-size: 14px;
+}
+
+
+/* ============================================================
+   TAXONOMIE
+============================================================ */
+
+.taxonomy-table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    background: var(--white);
+}
+
+.taxonomy-table tr {
+    border-bottom: 1px solid var(--border);
+}
+
+.taxonomy-table tr:last-child {
+    border-bottom: none;
+}
+
+.taxonomy-table td {
+    padding: 15px 18px;
+
+    font-size: 14px;
+
+    text-align: left;
+}
+
+.taxonomy-table td:first-child {
+    width: 30%;
+
+    color: var(--muted);
+
+    font-size: 11px;
+    font-weight: 700;
+
+    text-transform: uppercase;
+
+    letter-spacing: 1px;
+}
+
+.taxonomy-table td:last-child {
+    color: var(--text);
+}
+
+
+/* ============================================================
+   DISTRIBUTION
+============================================================ */
+
+.distribution-list {
+    display: flex;
+
+    flex-wrap: wrap;
+
+    gap: 8px;
+}
+
+.distribution-list span {
+    padding: 7px 12px;
+
+    background: var(--green-soft);
+
+    border: 1px solid #d6e0d5;
+
+    border-radius: 20px;
+
+    color: var(--green);
+
+    font-size: 12px;
+}
+
+
+/* ============================================================
+   FOOTER
+============================================================ */
+
+.site-footer {
+    position: relative;
+
+    background: var(--green);
+
+    color: white;
+
+    padding: 60px 0;
+}
+
+.site-footer::before {
+    content: "";
+
+    position: absolute;
+
+    left: 50%;
+    top: 0;
+
+    width: 45px;
+    height: 2px;
+
+    background: rgba(255, 255, 255, 0.4);
+
+    transform: translateX(-50%);
+}
+
+.footer-content {
+    display: flex;
+
+    justify-content: space-between;
+
+    gap: 40px;
+}
+
+.footer-content p {
+    color: rgba(255, 255, 255, 0.65);
+
+    font-size: 12px;
+
+    margin-top: 8px;
+}
+
+
+/* ============================================================
+   MOBILE
+============================================================ */
+
+@media (max-width: 800px) {
+
+    .container {
+        width: min(100% - 30px, var(--max-width));
+    }
+
+    .nav {
+        min-height: 70px;
+    }
+
+    .logo {
+        font-size: 19px;
+    }
+
+    nav {
+        gap: 18px;
+    }
+
+    .catalogue-header {
+        padding: 70px 0 55px;
+    }
+
+    .catalogue-header h1 {
+        font-size: 45px;
+    }
+
+    .species-preview {
+        padding: 70px 0 80px;
+    }
+
+    .species-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .section-heading h2 {
+        font-size: 31px;
+    }
+
+    .species-detail {
+        width: min(100% - 30px, 980px);
+
+        padding-top: 50px;
+    }
+
+    .morphology-content {
+        grid-template-columns: 1fr;
+
+        gap: 0;
+    }
+
+    .contact-box {
+        grid-template-columns: 1fr;
+
+        gap: 30px;
+
+        padding: 30px 25px;
+    }
+
+    .footer-content {
+        flex-direction: column;
+    }
+}
+
+
+/* ============================================================
+   TRÈS PETITS ÉCRANS
+============================================================ */
+
+@media (max-width: 480px) {
+
+    nav {
+        gap: 12px;
+    }
+
+    nav a {
+        font-size: 12px;
+    }
+
+    .catalogue-header h1 {
+        font-size: 38px;
+    }
+
+    .search-box input {
+        padding: 14px 15px;
+    }
+
+    .species-card {
+        padding: 24px;
+    }
+}
+
+
+/* ============================================================
+   FICHE ESPÈCE — TYPOGRAPHIE ET HIÉRARCHIE
+============================================================ */
+
+/* ------------------------------------------------------------
+   HEADER / MENU
+------------------------------------------------------------ */
+
+.site-header .logo {
+    font-size: 1.5rem;
+}
+
+.site-header nav a {
+    font-size: 1.15rem;
+}
+
+
+/* ------------------------------------------------------------
+   LIENS
+------------------------------------------------------------ */
+
+.back-link {
+    font-size: 1.1rem;
+}
+
+
+/* ------------------------------------------------------------
+   LABEL "ESPÈCE"
+------------------------------------------------------------ */
+
+.species-hero .eyebrow {
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    margin-bottom: 10px;
+}
+
+
+/* ------------------------------------------------------------
+   NOM DE L'ESPÈCE
+   Exemple : Camponotus micans
+------------------------------------------------------------ */
+
+.species-hero h1 {
+    font-size: 3.2rem;
+    line-height: 1.2;
+}
+
+
+/* ------------------------------------------------------------
+   TITRES PRINCIPAUX
+   Taxonomie
+   Caractéristiques morphologiques
+   Répartition géographique
+------------------------------------------------------------ */
+
+.section-heading h2 {
+    font-size: 2.3rem;
+    line-height: 1.2;
+    margin-bottom: 28px;
+}
+
+
+/* ------------------------------------------------------------
+   LABELS AU-DESSUS DES TITRES
+   On garde RÉPARTITION GÉOGRAPHIQUE
+   On masque seulement les autres labels.
+------------------------------------------------------------ */
+
+.detail-section .section-heading .eyebrow {
+    display: block;
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    margin-bottom: 8px;
+}
+
+
+/* ------------------------------------------------------------
+   SOUS-TITRES
+   Pays / Taille / Tête / Clypéus / etc.
+------------------------------------------------------------ */
+
+.distribution-box h3,
+.morphology-item h3 {
+    font-size: 1.4rem;
+    line-height: 1.4;
+    margin-bottom: 12px;
+}
+
+
+/* ------------------------------------------------------------
+   TEXTE MORPHOLOGIQUE
+------------------------------------------------------------ */
+
+.morphology-value,
+.morphology-sub-text {
+    font-size: 1.18rem;
+    line-height: 1.8;
+}
+
+
+/* ------------------------------------------------------------
+   SOUS-LABELS DE MORPHOLOGIE
+------------------------------------------------------------ */
+
+.morphology-sub-label {
+    font-size: 1.15rem;
+    font-weight: 600;
+}
+
+
+/* ------------------------------------------------------------
+   TAXONOMIE
+   Même taille pour les informations
+------------------------------------------------------------ */
+
+.taxonomy-row {
+    font-size: 1.2rem;
+}
+
+.taxonomy-label,
+.taxonomy-value {
+    font-size: 1.2rem;
+}
+
+
+/* ------------------------------------------------------------
+   TEXTES GÉNÉRAUX
+------------------------------------------------------------ */
+
+.detail-section p {
+    font-size: 1.15rem;
+    line-height: 1.8;
+}
+
+
+/* ------------------------------------------------------------
+   PAYS
+------------------------------------------------------------ */
+
+.country-list {
+    font-size: 1.35rem;
+    font-weight: 500;
+    line-height: 1.8;
+}
+
+
+/* ------------------------------------------------------------
+   MASQUER "MORPHOLOGIE" ET "CLASSIFICATION"
+   MAIS GARDER "RÉPARTITION GÉOGRAPHIQUE"
+------------------------------------------------------------ */
+
+/* MORPHOLOGIE */
+.detail-section:has(.morphology-grid) .section-heading .eyebrow {
+    display: none;
+}
+
+/* CLASSIFICATION */
+.detail-section:has(.taxonomy-table) .section-heading .eyebrow {
+    display: none;
+}
+
+
+/* ============================================================
+   GALERIE DES PHOTOGRAPHIES
+============================================================ */
+
+.species-images {
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+
+    gap: 28px;
+
+    margin-top: 30px;
+}
+
+.species-image-card {
+    background: #faf8f2;
+
+    border: 1px solid #d9d2c3;
+
+    padding: 16px;
+
+    border-radius: 8px;
+}
+
+.species-image-card img {
+    width: 100%;
+
+    height: 300px;
+
+    object-fit: contain;
+
+    display: block;
+
+    background: #e7f3e5;
+
+    border-radius: 5px;
+}
+
+.rotated-image {
+    transform: rotate(var(--rotation));
+
+    transform-origin: center;
+
+    width: 70% !important;
+    height: 70% !important;
+
+    margin: auto;
+}
+
+.species-image-card figcaption {
+    margin-top: 16px;
+
+    font-size: 1.4rem;
+
+    font-weight: 600;
+
+    line-height: 1.5;
+
+    color: #183c2b;
+
+    text-align: center;
+}
+
+
+/* ============================================================
+   PETIT ÉCRAN — GALERIE
+============================================================ */
+
+@media (max-width: 700px) {
+
+    .species-images {
+        grid-template-columns: 1fr;
+    }
+
+    .species-image-card img {
+        height: 280px;
+    }
+}
+
+.mirrored-image {
+    transform: scaleX(-1);
+}

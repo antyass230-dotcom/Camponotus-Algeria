@@ -1,0 +1,105 @@
+============================================================
+Camponotus sanctus
+============================================================
+
+TAXONOMIE
+----------
+Nom scientifique : Camponotus sanctus
+Nom scientifique complet : Camponotus (Tanaemyrmex) sanctus Forel, 1904
+Nom canonique : Camponotus sanctus
+Règne : Animalia
+Embranchement : Arthropoda
+Classe : Insecta
+Ordre : Hymenoptera
+Famille : Formicidae
+Genre : Camponotus
+Sous-genre : Camponotus (Tanaemyrmex)
+Espèce : Camponotus (Tanaemyrmex) sanctus
+Statut : accepted
+Auteur : Forel, 1904
+
+DISTRIBUTION
+------------
+Nombre de pays : 8
+
+Pays :
+- Cyprus
+- Greece
+- Israel
+- Jordan
+- Lebanon
+- Syrian Arab Republic
+- Türkiye
+- United Kingdom of Great Britain and Northern Ireland
+
+Occurrences en Algérie : 0
+IMAGES
+------
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/726267927/large.jpg
+  Observation ID : 396049153
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/724761348/large.jpg
+  Observation ID : 395278870
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/722445174/large.jpg
+  Observation ID : 394102706
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/721266605/large.jpg
+  Observation ID : 393499563
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/720045697/large.jpg
+  Observation ID : 392873705
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/719712265/large.jpg
+  Observation ID : 392705542
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/719511112/large.jpg
+  Observation ID : 392599206
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/719145075/large.jpg
+  Observation ID : 392415237
+- Source : iNaturalist
+  URL : https://static.inaturalist.org/photos/718662314/large.jpg
+  Observation ID : 392168141
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/716631895/large.jpg
+  Observation ID : 391120525
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/714886562/large.jpg
+  Observation ID : 390225405
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/713683477/large.jpg
+  Observation ID : 389616789
+- Source : iNaturalist
+  URL : https://static.inaturalist.org/photos/713197360/large.jpg
+  Observation ID : 389362447
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/712220012/large.jpg
+  Observation ID : 388848883
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/711506338/large.jpg
+  Observation ID : 388495033
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/710957090/large.jpg
+  Observation ID : 388202233
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/710479389/large.jpg
+  Observation ID : 387960484
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/709893504/large.jpg
+  Observation ID : 387661474
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/708858415/large.jpg
+  Observation ID : 387123201
+- Source : iNaturalist
+  URL : https://inaturalist-open-data.s3.amazonaws.com/photos/703886013/large.jpg
+  Observation ID : 384520171
+
+SOURCES
+-------
+- GBIF
+- Catalogue of Life
+- iNaturalist
+
+============================================================
