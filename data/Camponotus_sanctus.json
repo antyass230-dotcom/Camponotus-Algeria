@@ -1,4 +1,4 @@
-﻿{
+{
     "scientific_name": "Camponotus sanctus",
     "taxonomy": {
         "kingdom": "Animalia",
@@ -25,15 +25,15 @@
         "authorship": "Forel, 1904"
     },
     "morphology": {
-        "clypeus": "ClypÃ©us pourvu dâ€™une carÃ¨ne mÃ©diane distincte et visible.",
-        "head": "TÃªte relativement large, avec une coloration gÃ©nÃ©ralement brunÃ¢tre Ã  brun-rougeÃ¢tre chez les ouvriÃ¨res.",
-        "mesosoma": "MÃ©sosome gÃ©nÃ©ralement jaune-roussÃ¢tre Ã  brun-rougeÃ¢tre, souvent plus clair que la tÃªte chez les ouvriÃ¨res minor.",
-        "gaster": "Gastre sombre, brun Ã  noir, avec une partie antÃ©rieure parfois plus claire.",
-        "genae": "Genae et partie ventrale de la tÃªte avec peu ou pas de soies dressÃ©es.",
-        "scape": "Scapes gÃ©nÃ©ralement dÃ©pourvus de soies dressÃ©es.",
-        "hind_tibiae": "Tibias postÃ©rieurs portant des soies dressÃ©es ; chez les grandes ouvriÃ¨res, leur face externe prÃ©sente un sillon longitudinal bien marquÃ©.",
-        "mesosoma_setae": "MÃ©sosome prÃ©sentant plusieurs soies dressÃ©es sur sa face dorsale.",
-        "size": "Taille relativement grande, les ouvriÃ¨res pouvant atteindre environ 14â€“15 mm."
+        "clypeus": "Clypéus pourvu d’une carène médiane distincte et visible.",
+        "head": "Tête relativement large, avec une coloration généralement brunâtre à brun-rougeâtre chez les ouvrières.",
+        "mesosoma": "Mésosome généralement jaune-roussâtre à brun-rougeâtre, souvent plus clair que la tête chez les ouvrières minor.",
+        "gaster": "Gastre sombre, brun à noir, avec une partie antérieure parfois plus claire.",
+        "genae": "Genae et partie ventrale de la tête avec peu ou pas de soies dressées.",
+        "scape": "Scapes généralement dépourvus de soies dressées.",
+        "hind_tibiae": "Tibias postérieurs portant des soies dressées ; chez les grandes ouvrières, leur face externe présente un sillon longitudinal bien marqué.",
+        "mesosoma_setae": "Mésosome présentant plusieurs soies dressées sur sa face dorsale.",
+        "size": "Taille relativement grande, les ouvrières pouvant atteindre environ 14–15 mm."
     },
     "distribution": {
         "countries": [
@@ -43,7 +43,7 @@
             "Jordan",
             "Lebanon",
             "Syrian Arab Republic",
-            "TÃ¼rkiye",
+            "Türkiye",
             "United Kingdom of Great Britain and Northern Ireland"
         ],
         "algeria": {
@@ -67,7 +67,7 @@
                     {
                         "id": 395278870,
                         "observed_on": "2026-08-28",
-                        "place": "×©×¤×§/×”××‘×•×§×“×•, ×—×“×¨×”, ×™×©×¨××œ",
+                        "place": "שפק/האבוקדו, חדרה, ישראל",
                         "latitude": 32.4172768,
                         "longitude": 34.9473375997,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724761348/large.jpg",
@@ -103,7 +103,7 @@
                     {
                         "id": 392705542,
                         "observed_on": "2026-08-19",
-                        "place": "XX4C+HM, ÎšÎ¬Î»Ï…Î¼Î½Î¿Ï‚ 852 00, Î•Î»Î»Î¬Î´Î±",
+                        "place": "XX4C+HM, Κάλυμνος 852 00, Ελλάδα",
                         "latitude": 36.9551877004,
                         "longitude": 26.9699224457,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719712265/large.jpg",
@@ -175,7 +175,7 @@
                     {
                         "id": 388848883,
                         "observed_on": "2026-08-06",
-                        "place": "×©×¤×§/×”××‘×•×§×“×•, ×—×“×¨×”, ×™×©×¨××œ",
+                        "place": "שפק/האבוקדו, חדרה, ישראל",
                         "latitude": 32.4172304,
                         "longitude": 34.9472769997,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/712220012/large.jpg",
@@ -202,7 +202,7 @@
                     {
                         "id": 387960484,
                         "observed_on": "2026-08-03",
-                        "place": "Î”Î·Î¼Î¿Ï„Î¹ÎºÎ® ÎšÎ¿Î¹Î½ÏŒÏ„Î·Ï„Î± ÎœÏ…ÏÎ¹Î½Î±Î¯Ï‰Î½, ÎœÏÏÎ¹Î½Î± 814 00, GrÃ¨ce",
+                        "place": "Δημοτική Κοινότητα Μυριναίων, Μύρινα 814 00, Grèce",
                         "latitude": 39.8696439479,
                         "longitude": 25.0544379652,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710479389/large.jpg",
@@ -211,7 +211,7 @@
                     {
                         "id": 387661474,
                         "observed_on": "2026-08-02",
-                        "place": "ÎšÎ¿Î½Ï„Î¹Î±Ï‚ 814 01, Î•Î»Î»Î¬Î´Î±",
+                        "place": "Κοντιας 814 01, Ελλάδα",
                         "latitude": 39.8643026,
                         "longitude": 25.1475986,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/709893504/large.jpg",
@@ -229,7 +229,7 @@
                     {
                         "id": 384520171,
                         "observed_on": "2026-07-24",
-                        "place": "Orhaneli, OrhaneliÌ‡/Bursa, TÃ¼rkiye",
+                        "place": "Orhaneli, Orhaneli̇/Bursa, Türkiye",
                         "latitude": 39.9019719,
                         "longitude": 28.989575,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/703886013/large.jpg",
@@ -299,7 +299,7 @@
             },
             {
                 "key": 6352445091,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 37.064631,
                 "longitude": 36.154523
@@ -320,7 +320,7 @@
             },
             {
                 "key": 6499391458,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 39.901972,
                 "longitude": 28.989575
@@ -467,7 +467,7 @@
             },
             {
                 "key": 5036683566,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 36.625487,
                 "longitude": 33.234108
@@ -488,7 +488,7 @@
             },
             {
                 "key": 5008241387,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 37.125836,
                 "longitude": 33.265268
@@ -600,7 +600,7 @@
             },
             {
                 "key": 4516371549,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 37.857909,
                 "longitude": 27.261015
@@ -1167,7 +1167,7 @@
             },
             {
                 "key": 3985675762,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 36.685349,
                 "longitude": 27.375537
@@ -1279,7 +1279,7 @@
             },
             {
                 "key": 3090660738,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 37.055975,
                 "longitude": 28.328498
@@ -1293,7 +1293,7 @@
             },
             {
                 "key": 3961096404,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 36.863726,
                 "longitude": 28.243412
@@ -1363,7 +1363,7 @@
             },
             {
                 "key": 3039396720,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 37.898382,
                 "longitude": 27.276089
@@ -1419,7 +1419,7 @@
             },
             {
                 "key": 3039241765,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 37.165319,
                 "longitude": 27.549631
@@ -1468,7 +1468,7 @@
             },
             {
                 "key": 5007841422,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 37.025397,
                 "longitude": 36.06742
@@ -1608,7 +1608,7 @@
             },
             {
                 "key": 4865840519,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 37.11667,
                 "longitude": 36.56667
@@ -1657,7 +1657,7 @@
             },
             {
                 "key": 2651355123,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": "Kemer",
                 "latitude": 36.503666,
                 "longitude": 30.522882
@@ -2238,14 +2238,14 @@
             },
             {
                 "key": 2651355329,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": "Antalya",
                 "latitude": 36.883335,
                 "longitude": 30.7
             },
             {
                 "key": 4865604377,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 40.6,
                 "longitude": 31.63333
@@ -2353,7 +2353,7 @@
         {
             "source": "personal",
             "url": "images/camponotus_sanctus/image164.jpg",
-            "caption": "ouvriÃ¨re de camponotus sanctus"
+            "caption": "ouvrière de camponotus sanctus"
         },
         {
             "source": "personal",
@@ -2647,7 +2647,7 @@
                 {
                     "id": 395278870,
                     "observed_on": "2026-08-28",
-                    "place": "×©×¤×§/×”××‘×•×§×“×•, ×—×“×¨×”, ×™×©×¨××œ",
+                    "place": "שפק/האבוקדו, חדרה, ישראל",
                     "latitude": 32.4172768,
                     "longitude": 34.9473375997,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724761348/large.jpg",
@@ -2683,7 +2683,7 @@
                 {
                     "id": 392705542,
                     "observed_on": "2026-08-19",
-                    "place": "XX4C+HM, ÎšÎ¬Î»Ï…Î¼Î½Î¿Ï‚ 852 00, Î•Î»Î»Î¬Î´Î±",
+                    "place": "XX4C+HM, Κάλυμνος 852 00, Ελλάδα",
                     "latitude": 36.9551877004,
                     "longitude": 26.9699224457,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719712265/large.jpg",
@@ -2755,7 +2755,7 @@
                 {
                     "id": 388848883,
                     "observed_on": "2026-08-06",
-                    "place": "×©×¤×§/×”××‘×•×§×“×•, ×—×“×¨×”, ×™×©×¨××œ",
+                    "place": "שפק/האבוקדו, חדרה, ישראל",
                     "latitude": 32.4172304,
                     "longitude": 34.9472769997,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/712220012/large.jpg",
@@ -2782,7 +2782,7 @@
                 {
                     "id": 387960484,
                     "observed_on": "2026-08-03",
-                    "place": "Î”Î·Î¼Î¿Ï„Î¹ÎºÎ® ÎšÎ¿Î¹Î½ÏŒÏ„Î·Ï„Î± ÎœÏ…ÏÎ¹Î½Î±Î¯Ï‰Î½, ÎœÏÏÎ¹Î½Î± 814 00, GrÃ¨ce",
+                    "place": "Δημοτική Κοινότητα Μυριναίων, Μύρινα 814 00, Grèce",
                     "latitude": 39.8696439479,
                     "longitude": 25.0544379652,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/710479389/large.jpg",
@@ -2791,7 +2791,7 @@
                 {
                     "id": 387661474,
                     "observed_on": "2026-08-02",
-                    "place": "ÎšÎ¿Î½Ï„Î¹Î±Ï‚ 814 01, Î•Î»Î»Î¬Î´Î±",
+                    "place": "Κοντιας 814 01, Ελλάδα",
                     "latitude": 39.8643026,
                     "longitude": 25.1475986,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/709893504/large.jpg",
@@ -2809,7 +2809,7 @@
                 {
                     "id": 384520171,
                     "observed_on": "2026-07-24",
-                    "place": "Orhaneli, OrhaneliÌ‡/Bursa, TÃ¼rkiye",
+                    "place": "Orhaneli, Orhaneli̇/Bursa, Türkiye",
                     "latitude": 39.9019719,
                     "longitude": 28.989575,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/703886013/large.jpg",

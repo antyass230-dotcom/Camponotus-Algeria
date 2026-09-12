@@ -1,4 +1,4 @@
-﻿{
+{
     "scientific_name": "Camponotus cruentatus",
     "taxonomy": {
         "kingdom": "Animalia",
@@ -25,18 +25,18 @@
         "authorship": "(Latreille, 1802)"
     },
     "morphology": {
-        "size": "OuvriÃ¨res majors atteignant 14 mm.",
-        "clypeus": "ClypÃ©us pourvu d'une carÃ¨ne longitudinale mÃ©diane, son bord antÃ©rieur formant un lobe rectangulaire sâ€™avanÃ§ant au-dessus des mandibules.",
-        "gaster": "Gastre couvert d'une abondante pubescence blanche ou fauve, en plus des soies, plus longue que sur le reste du corps. Gastre brun noir ou tachÃ© de clair, avec des taches colorÃ©es plus ou moins claires sur le premier et le second tergite ainsi que sur le premier sternite.",
-        "tibiae": "Tibias pourvus de fortes Ã©pines sur la partie apicale du bord interne.",
-        "hind_tibiae": "Tibias postÃ©rieurs prÃ©sentant une carÃ¨ne sur toute leur longueur.",
-        "head": "TÃªte brun noir Ã  noire, avec une coloration noir bleutÃ©.",
-        "petiole_scale": "Ã‰caille plus haute qu'Ã©paisse, mÃªme chez les ouvriÃ¨res mÃ©dias, avec une large partie plus claire.",
-        "thorax": "Thorax brun clair Ã  brun noir, avec les flancs plus clairs.",
-        "propodeum": "PropodÃ©um plus clair.",
+        "size": "Ouvrières majors atteignant 14 mm.",
+        "clypeus": "Clypéus pourvu d'une carène longitudinale médiane, son bord antérieur formant un lobe rectangulaire s’avançant au-dessus des mandibules.",
+        "gaster": "Gastre couvert d'une abondante pubescence blanche ou fauve, en plus des soies, plus longue que sur le reste du corps. Gastre brun noir ou taché de clair, avec des taches colorées plus ou moins claires sur le premier et le second tergite ainsi que sur le premier sternite.",
+        "tibiae": "Tibias pourvus de fortes épines sur la partie apicale du bord interne.",
+        "hind_tibiae": "Tibias postérieurs présentant une carène sur toute leur longueur.",
+        "head": "Tête brun noir à noire, avec une coloration noir bleuté.",
+        "petiole_scale": "Écaille plus haute qu'épaisse, même chez les ouvrières médias, avec une large partie plus claire.",
+        "thorax": "Thorax brun clair à brun noir, avec les flancs plus clairs.",
+        "propodeum": "Propodéum plus clair.",
         "legs": "Pattes largement plus claires.",
-        "tegument": "TÃ©gument assez mat.",
-        "surface": "Corps finement rÃ©ticulÃ© et mat."
+        "tegument": "Tégument assez mat.",
+        "surface": "Corps finement réticulé et mat."
     },
     "distribution": {
         "countries": [
@@ -57,7 +57,7 @@
                     {
                         "id": 396132598,
                         "observed_on": "2026-08-31",
-                        "place": "Universidad Alfonso X el Sabio - Edificio C, 28691 Villanueva de la CaÃ±ada, Madrid, EspaÃ±a",
+                        "place": "Universidad Alfonso X el Sabio - Edificio C, 28691 Villanueva de la Cañada, Madrid, España",
                         "latitude": 40.4528067763,
                         "longitude": -3.9839088544,
                         "photo": "https://static.inaturalist.org/photos/726431449/large.jpg",
@@ -75,7 +75,7 @@
                     {
                         "id": 396038857,
                         "observed_on": "2026-08-29",
-                        "place": "LeÃ³n, EspaÃ±a",
+                        "place": "León, España",
                         "latitude": 42.8490840872,
                         "longitude": -5.1543399504,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726248353/large.jpg",
@@ -111,7 +111,7 @@
                     {
                         "id": 395426411,
                         "observed_on": "2026-08-29",
-                        "place": "PlaÃ§a Gonzalo Puerto, Llucena, CastellÃ³n, ES",
+                        "place": "Plaça Gonzalo Puerto, Llucena, Castellón, ES",
                         "latitude": 40.1362721667,
                         "longitude": -0.281095,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725059328/large.jpg",
@@ -147,7 +147,7 @@
                     {
                         "id": 394956047,
                         "observed_on": "2026-08-02",
-                        "place": "Provence-Alpes-CÃ´te d'Azur, FR",
+                        "place": "Provence-Alpes-Côte d'Azur, FR",
                         "latitude": 43.6315821513,
                         "longitude": 6.8313038152,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724108629/large.jpg",
@@ -165,7 +165,7 @@
                     {
                         "id": 394747817,
                         "observed_on": "2026-08-01",
-                        "place": "JaÃ©n, EspaÃ±a",
+                        "place": "Jaén, España",
                         "latitude": 38.0462247997,
                         "longitude": -2.951511,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723708877/large.jpg",
@@ -183,7 +183,7 @@
                     {
                         "id": 394523633,
                         "observed_on": "2026-04-28",
-                        "place": "Torralba del RÃ­o, Navarra, EspaÃ±a",
+                        "place": "Torralba del Río, Navarra, España",
                         "latitude": 42.622360371,
                         "longitude": -2.3071962968,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723276214/large.jpg",
@@ -2864,7 +2864,7 @@
   {
     "source": "personal",
     "url": "images/camponotus_cruentatus/image049.jpg",
-    "caption": "OuvriÃ¨re de Camponotus cruentatus"
+    "caption": "Ouvrière de Camponotus cruentatus"
   },
   {
     "source": "personal",
@@ -3150,7 +3150,7 @@
                 {
                     "id": 396132598,
                     "observed_on": "2026-08-31",
-                    "place": "Universidad Alfonso X el Sabio - Edificio C, 28691 Villanueva de la CaÃ±ada, Madrid, EspaÃ±a",
+                    "place": "Universidad Alfonso X el Sabio - Edificio C, 28691 Villanueva de la Cañada, Madrid, España",
                     "latitude": 40.4528067763,
                     "longitude": -3.9839088544,
                     "photo": "https://static.inaturalist.org/photos/726431449/large.jpg",
@@ -3168,7 +3168,7 @@
                 {
                     "id": 396038857,
                     "observed_on": "2026-08-29",
-                    "place": "LeÃ³n, EspaÃ±a",
+                    "place": "León, España",
                     "latitude": 42.8490840872,
                     "longitude": -5.1543399504,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726248353/large.jpg",
@@ -3204,7 +3204,7 @@
                 {
                     "id": 395426411,
                     "observed_on": "2026-08-29",
-                    "place": "PlaÃ§a Gonzalo Puerto, Llucena, CastellÃ³n, ES",
+                    "place": "Plaça Gonzalo Puerto, Llucena, Castellón, ES",
                     "latitude": 40.1362721667,
                     "longitude": -0.281095,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/725059328/large.jpg",
@@ -3240,7 +3240,7 @@
                 {
                     "id": 394956047,
                     "observed_on": "2026-08-02",
-                    "place": "Provence-Alpes-CÃ´te d'Azur, FR",
+                    "place": "Provence-Alpes-Côte d'Azur, FR",
                     "latitude": 43.6315821513,
                     "longitude": 6.8313038152,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/724108629/large.jpg",
@@ -3258,7 +3258,7 @@
                 {
                     "id": 394747817,
                     "observed_on": "2026-08-01",
-                    "place": "JaÃ©n, EspaÃ±a",
+                    "place": "Jaén, España",
                     "latitude": 38.0462247997,
                     "longitude": -2.951511,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723708877/large.jpg",
@@ -3276,7 +3276,7 @@
                 {
                     "id": 394523633,
                     "observed_on": "2026-04-28",
-                    "place": "Torralba del RÃ­o, Navarra, EspaÃ±a",
+                    "place": "Torralba del Río, Navarra, España",
                     "latitude": 42.622360371,
                     "longitude": -2.3071962968,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723276214/large.jpg",

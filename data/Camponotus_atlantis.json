@@ -1,4 +1,4 @@
-﻿{
+{
     "scientific_name": "Camponotus atlantis",
     "taxonomy": {
         "kingdom": "Animalia",
@@ -25,13 +25,13 @@
         "authorship": "Forel, 1890"
     },
     "morphology": {
-        "clypeus": "ClypÃ©us pourvu d'une carÃ¨ne longitudinale mÃ©diane, son bord antÃ©rieur formant un lobe rectangulaire qui s'avance au-dessus des mandibules.",
-        "gaster": "Pubescence du gastre courte et Ã©parse, l'aspect restant luisant alors que l'avant-corps peut Ãªtre mat ou brillant.",
-        "tibiae": "Ã‰pines petites ou indistinctes, guÃ¨re plus Ã©paisses que la pubescence des tibias.",
-        "coloration": "Coloration jaunÃ¢tre Ã  jaune brunÃ¢tre. L'avant-corps peut Ãªtre rouge ou brun clair, avec une bordure peu nette. Le gastre est lÃ©gÃ¨rement plus sombre, surtout chez les grandes ouvriÃ¨res, tandis que les petites ouvriÃ¨res peuvent Ãªtre entiÃ¨rement jaune pÃ¢le.",
-        "propodeum": "Chez les grandes ouvriÃ¨res, le propodÃ©um devient plus haut que long, avec la face dorsale passant Ã  la face dÃ©clive par un arrondi.",
+        "clypeus": "Clypéus pourvu d'une carène longitudinale médiane, son bord antérieur formant un lobe rectangulaire qui s'avance au-dessus des mandibules.",
+        "gaster": "Pubescence du gastre courte et éparse, l'aspect restant luisant alors que l'avant-corps peut être mat ou brillant.",
+        "tibiae": "Épines petites ou indistinctes, guère plus épaisses que la pubescence des tibias.",
+        "coloration": "Coloration jaunâtre à jaune brunâtre. L'avant-corps peut être rouge ou brun clair, avec une bordure peu nette. Le gastre est légèrement plus sombre, surtout chez les grandes ouvrières, tandis que les petites ouvrières peuvent être entièrement jaune pâle.",
+        "propodeum": "Chez les grandes ouvrières, le propodéum devient plus haut que long, avec la face dorsale passant à la face déclive par un arrondi.",
         "queens": "Reines jaunes avec de larges plages rembrunies.",
-        "males": "MÃ¢les brun jaunÃ¢tre."
+        "males": "Mâles brun jaunâtre."
     },
     "distribution": {
         "countries": [
@@ -56,7 +56,7 @@
                     {
                         "id": 338094342,
                         "observed_on": "2026-02-10",
-                        "place": "BÃ©jaÃ¯a, Algeria",
+                        "place": "Béjaïa, Algeria",
                         "latitude": 36.7273638889,
                         "longitude": 5.0336916667,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/614766225/large.jpg",
@@ -65,7 +65,7 @@
                     {
                         "id": 267223284,
                         "observed_on": "2025-03-27",
-                        "place": "BÃ©jaÃ¯a, DZ",
+                        "place": "Béjaïa, DZ",
                         "latitude": 36.4725714631,
                         "longitude": 4.7860000663,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/480198429/large.jpeg",
@@ -83,7 +83,7 @@
                     {
                         "id": 41384701,
                         "observed_on": "2020-04-04",
-                        "place": "BATNA, Batna, AlgÃ©rie",
+                        "place": "BATNA, Batna, Algérie",
                         "latitude": 35.5670087239,
                         "longitude": 6.1988514084,
                         "photo": "https://static.inaturalist.org/photos/65647293/large.jpeg",
@@ -308,14 +308,14 @@
             {
                 "key": 1076761689,
                 "country": "Morocco",
-                "locality": "Tizi NÂ´Test, Atlas",
+                "locality": "Tizi N´Test, Atlas",
                 "latitude": null,
                 "longitude": null
             },
             {
                 "key": 1085686235,
                 "country": "Algeria",
-                "locality": "MÃ©cheria",
+                "locality": "Mécheria",
                 "latitude": 35.46281,
                 "longitude": 3.241345
             },
@@ -371,7 +371,7 @@
             {
                 "key": 5857976180,
                 "country": "Algeria",
-                "locality": "AlgÃ©rie [Pays]",
+                "locality": "Algérie [Pays]",
                 "latitude": null,
                 "longitude": null
             },
@@ -385,7 +385,7 @@
             {
                 "key": 5857981485,
                 "country": "Algeria",
-                "locality": "Montagne prÃ¨s de Souk ahras",
+                "locality": "Montagne près de Souk ahras",
                 "latitude": 36.166668,
                 "longitude": 7.916667
             },
@@ -451,14 +451,14 @@
             {
                 "key": 1085686235,
                 "country": "Algeria",
-                "locality": "MÃ©cheria",
+                "locality": "Mécheria",
                 "latitude": 35.46281,
                 "longitude": 3.241345
             },
             {
                 "key": 5857976180,
                 "country": "Algeria",
-                "locality": "AlgÃ©rie [Pays]",
+                "locality": "Algérie [Pays]",
                 "latitude": null,
                 "longitude": null
             },
@@ -472,7 +472,7 @@
             {
                 "key": 5857981485,
                 "country": "Algeria",
-                "locality": "Montagne prÃ¨s de Souk ahras",
+                "locality": "Montagne près de Souk ahras",
                 "latitude": 36.166668,
                 "longitude": 7.916667
             },
@@ -493,7 +493,7 @@
         {
             "source": "personal",
             "url": "images/camponotus_atlantis/PHOTO 35.jpg",
-            "caption": "ouvriÃ¨re de camponotus atlantis"
+            "caption": "ouvrière de camponotus atlantis"
         },
         {
             "source": "personal",
@@ -778,7 +778,7 @@
                 {
                     "id": 338094342,
                     "observed_on": "2026-02-10",
-                    "place": "BÃ©jaÃ¯a, Algeria",
+                    "place": "Béjaïa, Algeria",
                     "latitude": 36.7273638889,
                     "longitude": 5.0336916667,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/614766225/large.jpg",
@@ -787,7 +787,7 @@
                 {
                     "id": 267223284,
                     "observed_on": "2025-03-27",
-                    "place": "BÃ©jaÃ¯a, DZ",
+                    "place": "Béjaïa, DZ",
                     "latitude": 36.4725714631,
                     "longitude": 4.7860000663,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/480198429/large.jpeg",
@@ -805,7 +805,7 @@
                 {
                     "id": 41384701,
                     "observed_on": "2020-04-04",
-                    "place": "BATNA, Batna, AlgÃ©rie",
+                    "place": "BATNA, Batna, Algérie",
                     "latitude": 35.5670087239,
                     "longitude": 6.1988514084,
                     "photo": "https://static.inaturalist.org/photos/65647293/large.jpeg",

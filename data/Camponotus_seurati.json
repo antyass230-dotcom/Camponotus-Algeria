@@ -1,4 +1,4 @@
-﻿{
+{
     "scientific_name": "Camponotus seurati",
 
     "taxonomy": {
@@ -27,19 +27,19 @@
     },
 
     "morphology": {
-        "size": "OuvriÃ¨res atteignant ou dÃ©passant 12 mm.",
-        "clypeus": "ClypÃ©us pourvu dâ€™une carÃ¨ne longitudinale mÃ©diane, le bord antÃ©rieur formant un lobe rectangulaire sâ€™avanÃ§ant au-dessus des mandibules.",
-        "gaster": "Gastre prÃ©sentant une pubescence courte et Ã©parse, conservant un aspect luisant.",
-        "forebody": "Avant-corps pouvant Ãªtre mat ou brillant.",
-        "tibiae": "Tibias munis de fortes Ã©pines.",
-        "petiole_scale": "Ã‰caille Ã©paisse de profil.",
+        "size": "Ouvrières atteignant ou dépassant 12 mm.",
+        "clypeus": "Clypéus pourvu d’une carène longitudinale médiane, le bord antérieur formant un lobe rectangulaire s’avançant au-dessus des mandibules.",
+        "gaster": "Gastre présentant une pubescence courte et éparse, conservant un aspect luisant.",
+        "forebody": "Avant-corps pouvant être mat ou brillant.",
+        "tibiae": "Tibias munis de fortes épines.",
+        "petiole_scale": "Écaille épaisse de profil.",
         "coloration": {
-            "general": "RoussÃ¢tre ou brunÃ¢tre, avec le tronc gÃ©nÃ©ralement plus clair que la tÃªte.",
+            "general": "Roussâtre ou brunâtre, avec le tronc généralement plus clair que la tête.",
             "head": "Brun rouge.",
-            "trunk_and_scale": "Un peu plus clairs que la tÃªte.",
+            "trunk_and_scale": "Un peu plus clairs que la tête.",
             "legs": "Jaunes.",
             "antennae": "Jaunes.",
-            "gaster": "Brun noir, avec une bordure dorÃ©e des segments bien visible."
+            "gaster": "Brun noir, avec une bordure dorée des segments bien visible."
         }
     },
 
@@ -77,7 +77,7 @@
             "Spain",
             "Thailand",
             "Trinidad and Tobago",
-            "TÃ¼rkiye",
+            "Türkiye",
             "United States of America",
             "Venezuela (Bolivarian Republic of)",
             "Viet Nam"
@@ -964,7 +964,7 @@
             },
             {
                 "key": 6129849788,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 37.359812,
                 "longitude": 27.281834
@@ -3103,7 +3103,7 @@
             {
                 "key": 1019732452,
                 "country": "Algeria",
-                "locality": "Oran, belvÃ©dÃ¨re",
+                "locality": "Oran, belvédère",
                 "latitude": null,
                 "longitude": null
             },
@@ -3229,7 +3229,7 @@
             {
                 "key": 1085686249,
                 "country": "Algeria",
-                "locality": "Oued IlÃ£man, Hoggar",
+                "locality": "Oued Ilãman, Hoggar",
                 "latitude": 23.166668,
                 "longitude": 5.833333
             },
@@ -3467,14 +3467,14 @@
             {
                 "key": 865266073,
                 "country": "Algeria",
-                "locality": "GhardaÃ¯a (Mzab)",
+                "locality": "Ghardaïa (Mzab)",
                 "latitude": null,
                 "longitude": null
             },
             {
                 "key": 865266096,
                 "country": "Algeria",
-                "locality": "GhardaÃ¯a (Mzab)",
+                "locality": "Ghardaïa (Mzab)",
                 "latitude": null,
                 "longitude": null
             },
@@ -3621,7 +3621,7 @@
             {
                 "key": 1085686235,
                 "country": "Algeria",
-                "locality": "MÃ©cheria",
+                "locality": "Mécheria",
                 "latitude": 35.46281,
                 "longitude": 3.241345
             },
@@ -3635,21 +3635,21 @@
             {
                 "key": 1085686332,
                 "country": "Algeria",
-                "locality": "AÃ¯n SÃ©fra",
+                "locality": "Aïn Séfra",
                 "latitude": 32.75,
                 "longitude": -0.58333
             },
             {
                 "key": 1085686338,
                 "country": "Algeria",
-                "locality": "AÃ¯n SÃ©fra",
+                "locality": "Aïn Séfra",
                 "latitude": 32.75,
                 "longitude": -0.58333
             },
             {
                 "key": 1085686379,
                 "country": "Algeria",
-                "locality": "AÃ¯n SÃ©fra",
+                "locality": "Aïn Séfra",
                 "latitude": 32.75,
                 "longitude": -0.58333
             },
@@ -3677,7 +3677,7 @@
             {
                 "key": 1085688150,
                 "country": "Algeria",
-                "locality": "Oued Im Laou LahouÃ¨ne, Hoggar",
+                "locality": "Oued Im Laou Lahouène, Hoggar",
                 "latitude": 23.166668,
                 "longitude": 5.833333
             },
@@ -3887,7 +3887,7 @@
             {
                 "key": 2805650888,
                 "country": "Algeria",
-                "locality": "PerrÃ©gaux (Algier)",
+                "locality": "Perrégaux (Algier)",
                 "latitude": 35.59,
                 "longitude": 0.068
             },
@@ -4139,7 +4139,7 @@
             {
                 "key": 5285656442,
                 "country": "Algeria",
-                "locality": "TÃ©bessa",
+                "locality": "Tébessa",
                 "latitude": null,
                 "longitude": null
             },
@@ -4153,14 +4153,14 @@
             {
                 "key": 5285656464,
                 "country": "Algeria",
-                "locality": "Bou Youk DÃ©rÃ©",
+                "locality": "Bou Youk Déré",
                 "latitude": null,
                 "longitude": null
             },
             {
                 "key": 5285656604,
                 "country": "Algeria",
-                "locality": "TÃ©bessa",
+                "locality": "Tébessa",
                 "latitude": null,
                 "longitude": null
             },
@@ -4174,7 +4174,7 @@
             {
                 "key": 5285660462,
                 "country": "Algeria",
-                "locality": "TÃ©bessa",
+                "locality": "Tébessa",
                 "latitude": null,
                 "longitude": null
             },
@@ -4195,7 +4195,7 @@
             {
                 "key": 5285660481,
                 "country": "Algeria",
-                "locality": "ForÃªt de Msila",
+                "locality": "Forêt de Msila",
                 "latitude": null,
                 "longitude": null
             },
@@ -4216,14 +4216,14 @@
             {
                 "key": 5857975092,
                 "country": "Algeria",
-                "locality": "TÃ©bessa",
+                "locality": "Tébessa",
                 "latitude": null,
                 "longitude": null
             },
             {
                 "key": 5857976180,
                 "country": "Algeria",
-                "locality": "AlgÃ©rie [Pays]",
+                "locality": "Algérie [Pays]",
                 "latitude": null,
                 "longitude": null
             },

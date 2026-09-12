@@ -1,4 +1,4 @@
-﻿{
+{
     "scientific_name": "Camponotus lateralis",
     "taxonomy": {
         "kingdom": "Animalia",
@@ -25,16 +25,16 @@
         "authorship": "(Olivier, 1792)"
     },
     "morphology": {
-        "clypeus": "ClypÃ©us convexe, dÃ©pourvu de carÃ¨ne longitudinale nette entre les bords apical et distal. Le bord antÃ©rieur est arrondi ou forme un lobe plus ou moins distinct, parfois tronquÃ©, dentelÃ© ou Ã©chancrÃ©.",
-        "hind_tibiae": "PrÃ©sence d'Ã©pines le long du bord interne des tibias postÃ©rieurs, plus Ã©paisses et plus rigides que la simple pubescence.",
-        "size": "Les ouvriÃ¨res ne dÃ©passent pas 10 mm.",
-        "gaster": "Gastre plus ou moins luisant, prÃ©sentant une pubescence courte et clairsemÃ©e.",
-        "coloration": "Coloration variable, avec la tÃªte et le thorax plus ou moins rouges et l'avant-corps gÃ©nÃ©ralement en partie rougeÃ¢tre.",
-        "propodeum": "Face dÃ©clive du propodÃ©um nettement concave. Le profil dorsal du propodÃ©um peut Ãªtre Ã©chancrÃ© ou non, caractÃ©ristique du sous-genre Myrmentoma.",
-        "metanotum": "MÃ©tanotum prÃ©sentant une dÃ©pression surmontÃ©e par le propodÃ©um.",
-        "propodeum_angle": "Face dorsale du propodÃ©um formant avec la face dÃ©clive un angle d'environ 90Â°, saillant vers l'arriÃ¨re. La face dÃ©clive est fortement concave. Chez les individus ailÃ©s, elle est presque perpendiculaire.",
-        "setae": "Soies principalement limitÃ©es Ã  l'angle propodÃ©al. Chez les individus ailÃ©s, le propodÃ©um est peu fourni en soies.",
-        "shoulders": "Ã‰paules arrondies."
+        "clypeus": "Clypéus convexe, dépourvu de carène longitudinale nette entre les bords apical et distal. Le bord antérieur est arrondi ou forme un lobe plus ou moins distinct, parfois tronqué, dentelé ou échancré.",
+        "hind_tibiae": "Présence d'épines le long du bord interne des tibias postérieurs, plus épaisses et plus rigides que la simple pubescence.",
+        "size": "Les ouvrières ne dépassent pas 10 mm.",
+        "gaster": "Gastre plus ou moins luisant, présentant une pubescence courte et clairsemée.",
+        "coloration": "Coloration variable, avec la tête et le thorax plus ou moins rouges et l'avant-corps généralement en partie rougeâtre.",
+        "propodeum": "Face déclive du propodéum nettement concave. Le profil dorsal du propodéum peut être échancré ou non, caractéristique du sous-genre Myrmentoma.",
+        "metanotum": "Métanotum présentant une dépression surmontée par le propodéum.",
+        "propodeum_angle": "Face dorsale du propodéum formant avec la face déclive un angle d'environ 90°, saillant vers l'arrière. La face déclive est fortement concave. Chez les individus ailés, elle est presque perpendiculaire.",
+        "setae": "Soies principalement limitées à l'angle propodéal. Chez les individus ailés, le propodéum est peu fourni en soies.",
+        "shoulders": "Épaules arrondies."
     },
     "distribution": {
         "countries": [
@@ -49,7 +49,7 @@
             "Portugal",
             "Slovenia",
             "Spain",
-            "TÃ¼rkiye",
+            "Türkiye",
             "Ukraine"
         ],
         "algeria": {
@@ -64,7 +64,7 @@
                     {
                         "id": 396179804,
                         "observed_on": "2026-08-31",
-                        "place": "Guadalquivir frente 34, Poblados del Sur, 46026 Valencia, EspaÃ±a",
+                        "place": "Guadalquivir frente 34, Poblados del Sur, 46026 Valencia, España",
                         "latitude": 39.4327126964,
                         "longitude": -0.3733396903,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726525157/large.jpg",
@@ -145,7 +145,7 @@
                     {
                         "id": 394453715,
                         "observed_on": "2026-08-25",
-                        "place": "Ca l'EscolÃ , 17745 LladÃ³, Girona, Espanya",
+                        "place": "Ca l'Escolà, 17745 Lladó, Girona, Espanya",
                         "latitude": 42.2672829723,
                         "longitude": 2.8203256801,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723144041/large.jpg",
@@ -154,7 +154,7 @@
                     {
                         "id": 394067244,
                         "observed_on": "2026-08-23",
-                        "place": "Saint ExupÃ©ry, 84100 Orange, France",
+                        "place": "Saint Exupéry, 84100 Orange, France",
                         "latitude": 44.1351535904,
                         "longitude": 4.7925744206,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722384149/large.jpg",
@@ -172,7 +172,7 @@
                     {
                         "id": 393879683,
                         "observed_on": "2026-08-23",
-                        "place": "Les Grottes, 06530 Saint-CÃ©zaire-sur-Siagne, France",
+                        "place": "Les Grottes, 06530 Saint-Cézaire-sur-Siagne, France",
                         "latitude": 43.6580638889,
                         "longitude": 6.8115305556,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722010014/large.jpg",
@@ -190,7 +190,7 @@
                     {
                         "id": 393500913,
                         "observed_on": "2026-08-22",
-                        "place": "CimetiÃ¨re (La Garde), 83130 La Garde, France",
+                        "place": "Cimetière (La Garde), 83130 La Garde, France",
                         "latitude": 43.1335996091,
                         "longitude": 6.0123609379,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721269425/large.jpg",
@@ -208,7 +208,7 @@
                     {
                         "id": 393393905,
                         "observed_on": "2026-08-21",
-                        "place": "×¤××¨×§ ×¢×¨×Ÿ 166, ×”×–×™×ª, × ×©×¨, ×™×©×¨××œ",
+                        "place": "פארק ערן 166, הזית, נשר, ישראל",
                         "latitude": 32.7697325,
                         "longitude": 35.0395974,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721063974/large.jpg",
@@ -226,7 +226,7 @@
                     {
                         "id": 393168345,
                         "observed_on": "2026-08-21",
-                        "place": "Grand Rue, Mane, Provence-Alpes-CÃ´te d'Azur, FR",
+                        "place": "Grand Rue, Mane, Provence-Alpes-Côte d'Azur, FR",
                         "latitude": 43.9376533333,
                         "longitude": 5.7669633333,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720622454/large.jpg",
@@ -235,7 +235,7 @@
                     {
                         "id": 392719408,
                         "observed_on": "2026-08-19",
-                        "place": "Condide, Condide, 36640 Puentecesures, Pontevedra, EspaÃ±a",
+                        "place": "Condide, Condide, 36640 Puentecesures, Pontevedra, España",
                         "latitude": 42.7089903,
                         "longitude": -8.6483417,
                         "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719740211/large.jpg",
@@ -1370,7 +1370,7 @@
             {
                 "key": 6411648388,
                 "country": "Spain",
-                "locality": "Mallorca - DeyÃ¡",
+                "locality": "Mallorca - Deyá",
                 "latitude": 39.748455,
                 "longitude": 2.64702
             },
@@ -2237,7 +2237,7 @@
             },
             {
                 "key": 6400531684,
-                "country": "TÃ¼rkiye",
+                "country": "Türkiye",
                 "locality": null,
                 "latitude": 41.047361,
                 "longitude": 29.016249
@@ -2451,7 +2451,7 @@
             {
                 "key": 5285660481,
                 "country": "Algeria",
-                "locality": "ForÃªt de Msila",
+                "locality": "Forêt de Msila",
                 "latitude": null,
                 "longitude": null
             }
@@ -2465,7 +2465,7 @@
         {
             "source": "personal",
             "url": "images/camponotus_lateralis/image067.jpg",
-            "caption": "ouvriÃ¨re de camponotus lateralis",
+            "caption": "ouvrière de camponotus lateralis",
             "miroir": true
         },
         {
@@ -2741,7 +2741,7 @@
                 {
                     "id": 396179804,
                     "observed_on": "2026-08-31",
-                    "place": "Guadalquivir frente 34, Poblados del Sur, 46026 Valencia, EspaÃ±a",
+                    "place": "Guadalquivir frente 34, Poblados del Sur, 46026 Valencia, España",
                     "latitude": 39.4327126964,
                     "longitude": -0.3733396903,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/726525157/large.jpg",
@@ -2822,7 +2822,7 @@
                 {
                     "id": 394453715,
                     "observed_on": "2026-08-25",
-                    "place": "Ca l'EscolÃ , 17745 LladÃ³, Girona, Espanya",
+                    "place": "Ca l'Escolà, 17745 Lladó, Girona, Espanya",
                     "latitude": 42.2672829723,
                     "longitude": 2.8203256801,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/723144041/large.jpg",
@@ -2831,7 +2831,7 @@
                 {
                     "id": 394067244,
                     "observed_on": "2026-08-23",
-                    "place": "Saint ExupÃ©ry, 84100 Orange, France",
+                    "place": "Saint Exupéry, 84100 Orange, France",
                     "latitude": 44.1351535904,
                     "longitude": 4.7925744206,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722384149/large.jpg",
@@ -2849,7 +2849,7 @@
                 {
                     "id": 393879683,
                     "observed_on": "2026-08-23",
-                    "place": "Les Grottes, 06530 Saint-CÃ©zaire-sur-Siagne, France",
+                    "place": "Les Grottes, 06530 Saint-Cézaire-sur-Siagne, France",
                     "latitude": 43.6580638889,
                     "longitude": 6.8115305556,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/722010014/large.jpg",
@@ -2867,7 +2867,7 @@
                 {
                     "id": 393500913,
                     "observed_on": "2026-08-22",
-                    "place": "CimetiÃ¨re (La Garde), 83130 La Garde, France",
+                    "place": "Cimetière (La Garde), 83130 La Garde, France",
                     "latitude": 43.1335996091,
                     "longitude": 6.0123609379,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721269425/large.jpg",
@@ -2885,7 +2885,7 @@
                 {
                     "id": 393393905,
                     "observed_on": "2026-08-21",
-                    "place": "×¤××¨×§ ×¢×¨×Ÿ 166, ×”×–×™×ª, × ×©×¨, ×™×©×¨××œ",
+                    "place": "פארק ערן 166, הזית, נשר, ישראל",
                     "latitude": 32.7697325,
                     "longitude": 35.0395974,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/721063974/large.jpg",
@@ -2903,7 +2903,7 @@
                 {
                     "id": 393168345,
                     "observed_on": "2026-08-21",
-                    "place": "Grand Rue, Mane, Provence-Alpes-CÃ´te d'Azur, FR",
+                    "place": "Grand Rue, Mane, Provence-Alpes-Côte d'Azur, FR",
                     "latitude": 43.9376533333,
                     "longitude": 5.7669633333,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/720622454/large.jpg",
@@ -2912,7 +2912,7 @@
                 {
                     "id": 392719408,
                     "observed_on": "2026-08-19",
-                    "place": "Condide, Condide, 36640 Puentecesures, Pontevedra, EspaÃ±a",
+                    "place": "Condide, Condide, 36640 Puentecesures, Pontevedra, España",
                     "latitude": 42.7089903,
                     "longitude": -8.6483417,
                     "photo": "https://inaturalist-open-data.s3.amazonaws.com/photos/719740211/large.jpg",
